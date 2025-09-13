@@ -5,8 +5,8 @@ from datetime import date
 
 
 import os
-# 配置你的 Github Models API Key，推荐用环境变量 GITHUB_MODELS_API_KEY
-GITHUB_MODELS_API_KEY = os.environ.get('GITHUB_MODELS_API_KEY', '')
+# 配置你的 Github Models API Key，推荐用环境变量 MODELS_API_KEY
+MODELS_API_KEY = os.environ.get('MODELS_API_KEY', '')
 TARGETS = ['Nasdaq', '日经225', '标普500', '黄金']
 
 PROMPT_TEMPLATE = '''You are an investment advisor. Based on the following news summaries and market trends, generate a daily action suggestion for each target. 
@@ -44,7 +44,7 @@ def analyze():
     # TODO: Replace the following with actual Github Models API endpoint and authentication
     url = "https://models.github.ai/inference/chat/completions"
     headers = {
-        "Authorization": f"Bearer {GITHUB_MODELS_API_KEY}",
+        "Authorization": f"Bearer {MODELS_API_KEY}",
         "Content-Type": "application/json"
     }
     payload = {
