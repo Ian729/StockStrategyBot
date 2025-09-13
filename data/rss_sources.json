@@ -1,0 +1,6 @@
+[
+  {"name": "Yahoo Finance", "url": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=^GSPC,^IXIC,^N225,GC=F&region=US&lang=en-US"},
+  {"name": "CNBC News", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"},
+  {"name": "Financial Times World News", "url": "https://www.ft.com/?format=rss"},
+  {"name": "Google News - Stock Market", "url": "https://news.google.com/rss/search?q=stock+market&hl=en-US&gl=US&ceid=US:en"}
+]
