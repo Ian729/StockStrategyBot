@@ -3,6 +3,9 @@ name: Daily Stock Strategy Analysis
 on:
   schedule:
     - cron: '0 1 * * *'
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -23,6 +26,15 @@ jobs:
           python src/fetch_news.py
       - name: Analyze and generate report
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          MODELS_API_KEY: ${{ secrets.MODELS_API_KEY }}
         run: |
           python src/analyze.py
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+      - name: Commit and push changes
+        run: |
+          git add reports/
+          git diff --staged --quiet || git commit -m "Daily stock analysis report - $(date +'%Y-%m-%d')"
+          git push
