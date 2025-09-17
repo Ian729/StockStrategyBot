@@ -1,0 +1,30 @@
+{
+  "Nikkei 225": {
+    "date": "Aug 2025",
+    "value": 42258.3,
+    "prev_date": "Jul 2025",
+    "prev_value": 40174.29,
+    "trend": "up"
+  },
+  "Nasdaq": {
+    "date": "Aug 2025",
+    "value": 21371.44,
+    "prev_date": "Jul 2025",
+    "prev_value": 20784.34,
+    "trend": "up"
+  },
+  "S&P 500": {
+    "date": "Aug 2025",
+    "value": 6405.63,
+    "prev_date": "Jul 2025",
+    "prev_value": 6295.92,
+    "trend": "up"
+  },
+  "Gold": {
+    "date": "Aug 2025",
+    "value": 3360.89,
+    "prev_date": "Jul 2025",
+    "prev_value": 3340.36,
+    "trend": "up"
+  }
+}
