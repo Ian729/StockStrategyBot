@@ -27,6 +27,9 @@ Example output:
     {{"target": "Gold", "action": "invest", "amount": 1000}}
 ]
 
+Market trends:
+{markets}
+
 News summaries:
 {news}
 '''
@@ -38,9 +41,25 @@ def load_news(path='data/news.json'):
     return "\n".join([f"{item['title']} {item['summary']}" for item in news])
 
 
+def load_markets(path='data/market.json'):
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        parts = []
+        for k, v in data.items():
+            if isinstance(v, dict) and 'value' in v and 'prev_value' in v and 'trend' in v:
+                parts.append(f"{k}: {v['value']} (prev {v['prev_value']}), trend {v['trend']}")
+            elif isinstance(v, dict) and 'error' in v:
+                parts.append(f"{k}: error {v['error']}")
+        return "\n".join(parts) if parts else "No market data."
+    except FileNotFoundError:
+        return "No market data."
+
+
 def analyze():
     news_text = load_news()
-    prompt = PROMPT_TEMPLATE.format(news=news_text)
+    markets_text = load_markets()
+    prompt = PROMPT_TEMPLATE.format(news=news_text, markets=markets_text)
     # TODO: Replace the following with actual Github Models API endpoint and authentication
     url = "https://models.github.ai/inference/chat/completions"
     headers = {

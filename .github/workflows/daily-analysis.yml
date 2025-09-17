@@ -24,6 +24,9 @@ jobs:
       - name: Fetch news
         run: |
           python src/fetch_news.py
+      - name: Fetch markets
+        run: |
+          python src/fetch_markets.py
       - name: Analyze and generate report
         env:
           MODELS_API_KEY: ${{ secrets.MODELS_API_KEY }}
