@@ -1,6 +1,12 @@
 [
   {
     "source": "Yahoo Finance",
+    "title": "Gold eases as dollar firms after Fed meeting, Powell comments",
+    "summary": "(Reuters) -Gold prices extended losses on Thursday as the dollar firmed after the U.S. Federal Reserve cut interest rates by a quarter of a percentage point, as expected, and adopted a measured rhetoric on further policy easing.  \"The general message from the Fed was slightly to the hawkish side on interest rates, they didn't really enthusiastically endorse lower rates,\" said Marex analyst Edward Meir.  \"As a result, we saw the dollar firm up after the Fed meeting and the Treasury rates also moved higher... I think over the short term, we are probably a little bit overbought here and we could retrace a bit further maybe to the $3,600 mark.\"",
+    "link": "https://sg.finance.yahoo.com/news/gold-eases-dollar-firms-fed-022506920.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
     "title": "Dow Jones Futures Rise After Fed Rate Cut, Nvidia Skids; Meta's Zuckerberg Connects",
     "summary": "The stock market ultimately closed mixed after the Fed rate cut. Nvidia fell while Meta's Mark Zuckerberg spoke late.",
     "link": "https://finance.yahoo.com/m/65500a1a-8619-3401-9c57-f80754eae698/dow-jones-futures-rise-after.html?.tsrc=rss"
@@ -112,12 +118,6 @@
     "title": "Gilead Sciences (GILD) Ascends While Market Falls: Some Facts to Note",
     "summary": "Gilead Sciences (GILD) reached $112.26 at the closing of the latest trading day, reflecting a +1.26% change compared to its last close.",
     "link": "https://finance.yahoo.com/news/gilead-sciences-gild-ascends-while-220003189.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Louisiana-Pacific (LPX) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-    "summary": "Louisiana-Pacific (LPX) closed the most recent trading day at $90.34, moving 3.82% from the previous trading session.",
-    "link": "https://finance.yahoo.com/news/louisiana-pacific-lpx-sees-more-220003122.html?.tsrc=rss"
   },
   {
     "source": "CNBC News",
@@ -259,9 +259,9 @@
   },
   {
     "source": "Financial Times World News",
-    "title": "A Brazilian court decision that bolsters democracy",
-    "summary": "Bolsonaro’s conviction makes history by holding a coup plotter to account",
-    "link": "https://www.ft.com/content/671577a8-ab27-4ebe-b192-5e8e52b7890e"
+    "title": "In Charlie Kirk’s name: Trump officials signal move to limit free speech",
+    "summary": "White House shifts from defending dissent to vowing crackdown on ‘hateful’ rhetoric in wake of killing",
+    "link": "https://www.ft.com/content/336c171c-f49e-41e5-81c1-9018a6949d2c"
   },
   {
     "source": "Financial Times World News",
@@ -277,15 +277,15 @@
   },
   {
     "source": "Financial Times World News",
-    "title": "Novo’s Wegovy pill close to matching injectable version in weight-loss trial",
-    "summary": "Danish drugmaker is racing to beat arch-rival Eli Lilly to market",
-    "link": "https://www.ft.com/content/44ceb964-cb6a-44b4-817e-d3c2a26d4ba4"
+    "title": "Disney’s ABC pulls Jimmy Kimmel’s show over Charlie Kirk comments",
+    "summary": "Late-night TV host’s remarks about the man accused of killing the conservative activist provoked criticism",
+    "link": "https://www.ft.com/content/4d59dfa7-3aef-4804-992c-a147e60e38c6"
   },
   {
     "source": "Financial Times World News",
-    "title": "Novo Nordisk’s new boss wins cautious backing after sweeping cuts",
-    "summary": "Maziar Mike Doustdar has an onerous in-tray to stop the company falling behind in the lucrative US obesity market",
-    "link": "https://www.ft.com/content/c5efa18b-ecf6-4104-a6f7-09cab02c79ab"
+    "title": "NYT CEO warns Trump is deploying ‘anti-press playbook’",
+    "summary": "Meredith Kopit Levien says newspaper will not back down after US president sues for $15bn",
+    "link": "https://www.ft.com/content/a2b3b54b-73b4-45b4-a1cb-73cadce46d60"
   },
   {
     "source": "Financial Times World News",
@@ -310,12 +310,6 @@
     "title": "UK talks to join EU defence fund stalled over participation fee",
     "summary": "British minister Nick Thomas-Symonds says agreement ‘urgent’ after months of delay by Brussels",
     "link": "https://www.ft.com/content/0f2b0d0d-4169-42f2-9134-59c650d9aa96"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "Stock market today: S&P 500, Nasdaq slip as Federal Reserve ushers in first rate cut of 2025 - ca.finance.yahoo.com",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ3hJckJGaDFVblpWYWF1bWZZLTVrRGNua0FyeWdnRWdGV2FIZzZoOUNPV1Vsa0ZjbERoTlJiMXhtVVFkdXZlSWx4Z2tNOVQwbjZPY2VlZ20tQkgyR184S2QtcmRRZzZMcE8yTXBqN3BhaDFMRVJHd2YwSFpEd1EyRVpJckQyMlBiQ0ZyX0prU0V1bXp3VjYyQTZXTjA1M0xaS2QtaF9YVVNNUUVKc1VmY0pBeFhFYm9lS0hzNm5WakNLTXNHWV9yWVdB?oc=5\" target=\"_blank\">Stock market today: S&amp;P 500, Nasdaq slip as Federal Reserve ushers in first rate cut of 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ca.finance.yahoo.com</font>",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ3hJckJGaDFVblpWYWF1bWZZLTVrRGNua0FyeWdnRWdGV2FIZzZoOUNPV1Vsa0ZjbERoTlJiMXhtVVFkdXZlSWx4Z2tNOVQwbjZPY2VlZ20tQkgyR184S2QtcmRRZzZMcE8yTXBqN3BhaDFMRVJHd2YwSFpEd1EyRVpJckQyMlBiQ0ZyX0prU0V1bXp3VjYyQTZXTjA1M0xaS2QtaF9YVVNNUUVKc1VmY0pBeFhFYm9lS0hzNm5WakNLTXNHWV9yWVdB?oc=5"
   },
   {
     "source": "Google News - Stock Market",
@@ -370,6 +364,12 @@
     "title": "Column | Want to be a 401(k) millionaire? Find out which type of saver you are. - The Washington Post",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcks2aEVNZTFZb3RWSXU3bXFKUmZ0WXlNLTltaUlPZXNxUkRERG9kR1IyNzZqVnYzdVRaeWdDaFZzUHQyZFM5dnlGNkRjcVoyTEx4RTFIcUhXbm9ZalE5LUtyaFVLclhTYzBpY0txaHdVWDNDSXowMWRtSGV1Q1VnY2ZUdUltTmhz?oc=5\" target=\"_blank\">Column | Want to be a 401(k) millionaire? Find out which type of saver you are.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcks2aEVNZTFZb3RWSXU3bXFKUmZ0WXlNLTltaUlPZXNxUkRERG9kR1IyNzZqVnYzdVRaeWdDaFZzUHQyZFM5dnlGNkRjcVoyTEx4RTFIcUhXbm9ZalE5LUtyaFVLclhTYzBpY0txaHdVWDNDSXowMWRtSGV1Q1VnY2ZUdUltTmhz?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "AI hype is masking recession signals in the market - Axios",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nQjRJQkxuWk5TWGoyNFlwM1J4alhRTnJSM2Fmc04zblBDNmVIR1dLU1RyTXJXVkRaRENlc3djaEhJQlQ2RTdQdEQzeENQVFpobld6MGFIWFZTc0M1dEJwY1dR?oc=5\" target=\"_blank\">AI hype is masking recession signals in the market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nQjRJQkxuWk5TWGoyNFlwM1J4alhRTnJSM2Fmc04zblBDNmVIR1dLU1RyTXJXVkRaRENlc3djaEhJQlQ2RTdQdEQzeENQVFpobld6MGFIWFZTc0M1dEJwY1dR?oc=5"
   },
   {
     "source": "Google News - Stock Market",

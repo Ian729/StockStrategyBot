@@ -1,6 +1,6 @@
 [
-    {"target": "Nasdaq", "action": "hold", "reason": "mixed close after Fed rate cut, some tech weakness"},
-    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "strong upward trend, no negative news"},
-    {"target": "S&P 500", "action": "hold", "reason": "trend up but closed slightly lower, caution advised"},
-    {"target": "Gold", "action": "invest", "amount": 500, "reason": "rising on Fed cuts, rate cut bullish for gold"}
+    {"target": "Nasdaq", "action": "hold", "reason": "Nasdaq trend up but recent session slipped after rate cut"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "Strong upward momentum, no negative news"},
+    {"target": "S&P 500", "action": "hold", "reason": "Trend is up but mixed market after Fed cut"},
+    {"target": "Gold", "action": "hold", "reason": "Uptrend but overbought, dollar strength, cautious outlook"}
 ]
