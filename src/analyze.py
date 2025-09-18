@@ -77,7 +77,7 @@ def analyze():
     else:
         suggestion = f"[Error] Github Models API call failed: {response.status_code}\n{response.text}"
     today = date.today().isoformat()
-    report_path = f"reports/{today}.md"
+    report_path = f"reports/{today}.json"
     Path(report_path).write_text(suggestion, encoding='utf-8')
     print(f"Report saved to {report_path}")
 
