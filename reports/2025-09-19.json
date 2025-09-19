@@ -1,6 +1,2 @@
-[
-    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "record highs and strong tech momentum"},
-    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "continued uptrend, optimism for extended gains"},
-    {"target": "S&P 500", "action": "invest", "amount": 900, "reason": "rate-cut cycle and indexes at record highs"},
-    {"target": "Gold", "action": "invest", "amount": 700, "reason": "record prices and bullish sentiment"}
-]
+[Error] Github Models API call failed: 413
+{"error":{"code":"tokens_limit_reached","message":"Request body too large for gpt-5 model. Max size: 4000 tokens.","details":"Request body too large for gpt-5 model. Max size: 4000 tokens."}}
