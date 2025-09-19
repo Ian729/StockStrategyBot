@@ -1,2 +1,6 @@
-[Error] Github Models API call failed: 413
-{"error":{"code":"tokens_limit_reached","message":"Request body too large for gpt-5 model. Max size: 4000 tokens.","details":"Request body too large for gpt-5 model. Max size: 4000 tokens."}}
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "record highs, strong tech momentum"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 650, "reason": "Japan extends record rally"},
+    {"target": "S&P 500", "action": "invest", "amount": 800, "reason": "Fed rate cut, all-time highs"},
+    {"target": "Gold", "action": "hold", "reason": "rate-cut caution and flat prices"}
+]
