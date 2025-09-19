@@ -67,9 +67,9 @@ def analyze():
         "Content-Type": "application/json"
     }
     payload = {
-        "model": "gpt-4.1",  # Replace with Github Models model name
+        "model": "gpt-5",  # Replace with Github Models model name
         "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": 4096
+        "max_tokens": 32768
     }
     response = requests.post(url, headers=headers, json=payload)
     if response.status_code == 200:
