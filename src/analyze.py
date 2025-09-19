@@ -67,7 +67,7 @@ def analyze():
         "Content-Type": "application/json"
     }
     payload = {
-        "model": "gpt-5",  # Replace with Github Models model name
+        "model": "gpt-4.1",  # Replace with Github Models model name
         "messages": [{"role": "user", "content": prompt}],
         "max_tokens": 32768
     }
