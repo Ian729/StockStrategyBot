@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "tech rally, record highs, market momentum"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "strong uptrend, fresh highs, global risk-on"},
+    {"target": "S&P 500", "action": "invest", "amount": 900, "reason": "record close, Fed cuts, bullish momentum"},
+    {"target": "Gold", "action": "hold", "reason": "trend up but silver has stronger upside"}
+]
