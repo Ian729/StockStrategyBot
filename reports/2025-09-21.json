@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "tech rally; record highs; upbeat market sentiment"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "strong trend up; global optimism"},
+    {"target": "S&P 500", "action": "invest", "amount": 900, "reason": "rate cut, momentum, record highs"},
+    {"target": "Gold", "action": "invest", "amount": 500, "reason": "inflation hedging; IRA interest; rising trend"}
+]
