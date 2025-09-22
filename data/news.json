@@ -1,123 +1,129 @@
 [
   {
     "source": "Yahoo Finance",
+    "title": "Dow Jones Futures Fall With Apple, Nvidia At Key Levels; Take In These Red-Hot Stocks?",
+    "summary": "The stock market is at highs as Apple breaks out, Nvidia at critical level. Micron earnings loom. Investors face a \"happy dilemma.\"",
+    "link": "https://finance.yahoo.com/m/5f47f039-3396-3111-b24a-3b981f1c36ac/dow-jones-futures-fall-with.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Gold Holds Just Below Record as Traders Wait for Rate-Path Clues",
+    "summary": "Bullion was trading around $20 an ounce short of a record high set last week, after the Fed reduced rates by 25 basis points on Wednesday.  Prices then retreated from the all-time high after Chair Jerome Powell indicated officials would take a “meeting-by-meeting” approach to future decisions, curbing expectations for rapid easing.  The Fed’s preferred measure of underlying inflation likely grew at a slower pace last month, which would boost the argument for rate cuts.",
+    "link": "https://finance.yahoo.com/news/gold-holds-just-below-record-234848376.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Dow, S&P 500, Nasdaq futures see slight pullback from week of record highs for major gauges",
+    "summary": "Markets are holding steady pre-market open following a week of fresh records for the major gauges.",
+    "link": "https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-futures-see-slight-pullback-from-week-of-record-highs-for-major-gauges-234423767.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Asian Penny Stocks To Watch In September 2025",
+    "summary": "As global markets respond to the recent Federal Reserve rate cut, with major indices like the Nasdaq Composite and S&amp;P 500 reaching new heights, investors are keenly observing how these shifts might impact smaller-cap stocks in Asia. Penny stocks, often representing smaller or newer companies, continue to hold potential for those seeking unique investment opportunities. Despite their historical reputation as speculative ventures, penny stocks can offer significant value when backed by strong...",
+    "link": "https://finance.yahoo.com/news/asian-penny-stocks-watch-september-230205635.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Stock Futures Edge Lower Ahead of New Week",
+    "summary": "This week’s economic data highlight will be the Bureau of Economic Analysis’ personal consumption expenditures price index for August.",
+    "link": "https://finance.yahoo.com/m/f1f6754b-bda5-3292-92f3-e6d03afd1296/stock-futures-edge-lower.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "U.S. stocks are chipping away at Europe’s outperformance, and Powell slipped in this dovish signal on Fed rates that Wall Street overlooked",
+    "summary": "The S&amp;P 500 is now up 13% year to date and the Nasdaq is up 17%. Meanwhile, the DAX stock market index in Germany is up 19% so far this year.",
+    "link": "https://finance.yahoo.com/news/u-stocks-chipping-away-europe-221451319.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Gold vs Bitcoin: Performance Through the Lens of Money Supply",
+    "summary": "Gold has done well of late, but hasn't made a new high relative to broad money supply since 2011.",
+    "link": "https://www.coindesk.com/markets/2025/09/21/gold-vs-bitcoin-performance-through-the-lens-of-money-supply?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "2 Stocks Down 57% and 77% to Buy Right Now and Hold for the Next Decade",
+    "summary": "Despite big gains for the broader market, there are still some great stocks down more than 50% from their peaks.",
+    "link": "https://www.fool.com/investing/2025/09/21/2-stocks-down-57-and-77-to-buy-right-now-and-hold/?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Why D-Wave Quantum Stock Skyrocketed This Week",
+    "summary": "A series of bullish catalysts helped D-Wave Quantum stock surge more than 50% this week.",
+    "link": "https://www.fool.com/investing/2025/09/21/why-d-wave-quantum-stock-skyrocketed-this-week/?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "'This isn't your grandfather's S&P 500': Wall Street strategists say stocks could keep rising from records",
+    "summary": "Stocks are at record highs, but some strategists think they could keep moving up based on historical trends.",
+    "link": "https://finance.yahoo.com/news/this-isnt-your-grandfathers-sp-500-wall-street-strategists-say-stocks-could-keep-rising-from-records-150045296.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Fed's Powell, Miran set to speak with stocks at record highs: What to watch this week",
+    "summary": "Stocks hit a record high as the market digests the Fed's rate cut and looks for economic ripple effects.",
+    "link": "https://finance.yahoo.com/news/feds-powell-miran-set-to-speak-with-stocks-at-record-highs-what-to-watch-this-week-114521452.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Why BigBear.ai Stock Skyrocketed This Week",
+    "summary": "With this week's gains, BigBear.ai stock is now up more than 50% year to date.",
+    "link": "https://www.fool.com/investing/2025/09/21/why-bigbearai-stock-skyrocketed-this-week/?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Looking at the Narrative for Gold Fields After Analyst Price Target Boost and Strong Production Trends",
+    "summary": "Gold Fields has recently seen its consensus analyst price target climb from ZAR524.76 to ZAR547.51, signaling renewed confidence from the market. This change is attributed to ongoing strength in gold prices and steady operational performance as the company moves into the latter half of the year. Stay tuned to discover how you can monitor these evolving perspectives and remain informed about key updates in Gold Fields’ investment narrative. What Wall Street Has Been Saying Analyst commentary...",
+    "link": "https://finance.yahoo.com/news/looking-narrative-gold-fields-analyst-110741423.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Why Barrick Mining (TSX:ABX) Is Up 13.3% After Confirming Fourmile as a Top Gold Discovery",
+    "summary": "Barrick Mining Corporation recently announced that updated studies highlight its Fourmile project in Nevada as one of the century’s greatest gold discoveries, confirming significant high-grade ore extensions and substantial exploration upside based on its new preliminary economic assessment. This development underscores the project’s rare combination of grade, scale, and proximity to existing processing infrastructure, positioning Fourmile as a potential world-leading, low-cost gold...",
+    "link": "https://finance.yahoo.com/news/why-barrick-mining-tsx-abx-110501102.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Why Plug Power Stock Skyrocketed This Week",
+    "summary": "Plug Power stock just had an epic week.",
+    "link": "https://www.fool.com/investing/2025/09/21/why-plug-power-stock-skyrocketed-this-week/?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Why Rigetti Computing Is Skyrocketing This Week",
+    "summary": "This week has been great for Rigetti Computing investors.",
+    "link": "https://www.fool.com/investing/2025/09/21/why-rigetti-computing-is-skyrocketing-this-week/?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "5 things to know about Friday's market",
+    "summary": "And not just that the bulls are very very excited.",
+    "link": "https://www.thestreet.com/investing/stocks/5-things-to-know-about-fridays-market?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "The Trade Desk (TTD) Draws Overweight Rating Despite Competitive Concerns",
+    "summary": "The Trade Desk, Inc. (NASDAQ:TTD) ranks among the best communication services stocks to buy now. Despite recent market worries regarding competitive challenges, KeyBanc reaffirmed its Overweight rating and $88 price target on The Trade Desk, Inc. (NASDAQ:TTD) on September 11. The company was trading at far lower multiples than its three-year medians, with the Trade […]",
+    "link": "https://finance.yahoo.com/news/trade-desk-ttd-draws-overweight-075939179.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "The Stock Market Is on the Verge of Doing Something Observed Only 2 Previous Times in 154 Years",
+    "summary": "This ultra-rare Wall Street event would, statistically, be bad news for stocks.",
+    "link": "https://www.fool.com/investing/2025/09/21/stock-market-do-something-only-2-times-154-years/?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
     "title": "Weekly Wrap: Market optimistic, Intel, Oklo and Paramount emerge triumphant",
     "summary": "Here is how the market responded this week.",
     "link": "https://www.thestreet.com/markets/weekly-wrap-market-optimistic-intel-oklo-and-paramount-emerge-triumphant?.tsrc=rss"
   },
   {
-    "source": "Yahoo Finance",
-    "title": "Dow Jones Futures: Apple, Nvidia At Key Levels; Take Profits In These Vertical Stocks?",
-    "summary": "The stock market is at highs as Apple breaks out, Nvidia at critical level. Micron earnings loom. Investors face a \"happy dilemma.\"",
-    "link": "https://finance.yahoo.com/m/5f47f039-3396-3111-b24a-3b981f1c36ac/dow-jones-futures%3A-apple%2C.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Gold IRA Rollover Guide: How to Convert an IRA or 401(k) to Gold, Explained by Clute Journals",
-    "summary": "DALLAS, Texas, Sept. 20, 2025 (GLOBE NEWSWIRE) -- With interest in gold IRAs rising during uncertain economic times, Clute Journals: Investing has released an easy-to-follow guide showing how to roll over your IRA or 401(k) into a gold IRA. This gold IRA rollover guide helps investors add physical precious metals to their retirement portfolios, offering greater diversification and protection against market fluctuations. \"With inflation rising and the national debt now exceeding $37 trillion, man",
-    "link": "https://finance.yahoo.com/news/gold-ira-rollover-guide-convert-193200692.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "What Trump’s bitcoin binge really says to Americans about their money",
-    "summary": "When the U.S. government creates a strategic bitcoin reserve, you have to wonder about the dollar.",
-    "link": "https://www.marketwatch.com/story/when-the-u-s-government-loads-up-on-bitcoin-you-have-to-wonder-about-your-money-fd115f3e?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Here’s how many Americans actually have $1M by the time they retire — and the 3 big moves they made. Are you on track?",
-    "summary": "The keys to get into the seven-figure club.",
-    "link": "https://finance.yahoo.com/news/many-americans-actually-1m-time-150000477.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Has Avino’s 364% Surge in 2025 Outpaced Its Value After Silver Rally?",
-    "summary": "If you’ve been keeping one eye on silver and gold miners lately, there’s a good chance that Avino Silver & Gold Mines has caught your attention. Right now, investors are weighing whether the company’s remarkable run has further room to grow or if the shine could start to fade. With Avino’s stock closing recently at $6.45 and boasting a year-to-date return of 364.0%, it’s fair to ask: what’s fueling this momentum? Some of the big moves in Avino’s share price can be traced back to overall...",
-    "link": "https://finance.yahoo.com/news/avino-364-surge-2025-outpaced-114232727.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "The stock market finally has what it wants — and is now asking 'now what?'",
-    "summary": "A long-awaited rate cut pierced through the year's economic uncertainty to extend Wall Street's record run.",
-    "link": "https://finance.yahoo.com/news/the-stock-market-finally-has-what-it-wants--and-is-now-asking-now-what-100005498.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Tesla Stock To Hit $3,000 In 2035? Analyst Says 'Road Ahead Is Chock-Full Of Catalysts'",
-    "summary": "Tesla Inc. (NASDAQ: TSLA) stock has been upgraded by an analyst following the announcement of a new pay package for CEO Elon Musk, which creates opportunities for shareholders. The Tesla Analyst: Baird analyst Ben Kallo upgraded Tesla stock from ...",
-    "link": "https://finance.yahoo.com/news/tesla-stock-hit-3-000-013130991.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Pivot Bio CEO to Spotlight the Commercial Opportunity of Sustainability and Innovation in Agriculture at Climate Week NYC",
-    "summary": "Pivot Bio, one of the world's most innovative agtech companies, will take center stage during Climate Week in New York City (Sept. 22–24). CEO Chris Abbott will join global business and sustainability leaders to highlight how agriculture is advancing climate solutions, reducing costs and strengthening the economic resilience of rural communities.",
-    "link": "https://finance.yahoo.com/news/pivot-bio-ceo-spotlight-commercial-013100667.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Gold Is Hot, Silver Is Hotter",
-    "summary": "Silver is up some 44% this year, near its most recent high during the pandemic. Gold is up about 39%. Why one financial metric suggests that silver may have more upside.",
-    "link": "https://finance.yahoo.com/m/fd610784-80ca-3964-a6b4-778090f47fd7/gold-is-hot%2C-silver-is-hotter.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "A Gold Miner With a Rare Earth Kicker",
-    "summary": "Readers weigh in on rare earth minerals, bank mergers, the perils of ignoring market risks, Bitcoin follies, and reverse stock splits.",
-    "link": "https://finance.yahoo.com/m/eeaf3f37-738b-3c0e-82c8-01e7a6ee6014/a-gold-miner-with-a-rare.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Review & Preview: A Glass Half Full",
-    "summary": "FEATURE More Momentum. U.S. stocks closed the week with continued momentum. The three major indexes all rallied into the close Friday, ending the session at new records. The S&amp;P 500 finished the week up 1.",
-    "link": "https://finance.yahoo.com/m/9ec0bb37-61f1-3635-bf85-ed3a3e1a2c8e/review-%26-preview%3A-a-glass.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Costco earnings, Fedspeak, PCE: What to Watch Next Week",
-    "summary": "Market Domination Overtime host Myles Udland previews several of the biggest stories and events to come next week, including EMCOR (EME), Robinhood Markets (HOOD), and Applovin (APP) joining the S&amp;P 500 (^GSPC), earnings results from companies like Costco Wholesale (COST) and Micron Technology (MU), commentary from top Federal Reserve officials, and the release of August's Personal Consumption Expenditures (PCE) index — the Fed's preferred inflation gauge — on Friday, September 26 To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.",
-    "link": "https://finance.yahoo.com/video/costco-earnings-fedspeak-pce-watch-230045969.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Wall St closes higher with indexes notching weekly gains",
-    "summary": "STORY: Wall Street's main indexes closed higher on Friday, with the Dow adding more than a third of a percent, the S&amp;P 500 gaining about half a percent and the tech-heavy Nasdaq climbing almost three-quarters of a percent.U.S. President Donald Trump and Chinese leader Xi Jinping spoke by phone on Friday, after which Trump said the two leaders made progress on a TikTok deal.That cheered investors, said Nancy Tengler, CEO and chief investment officer at Laffer Tengler Investments.\"I think what we're seeing today in the Nasdaq is it's accelerated as the day's gone on. And I think that's largely because of Trump's comments around TikTok that we're close to a deal. I don't know why the market reacts to this stuff the way it does so quickly and then will reverse itself tomorrow - I think it's the hedge funds, the algorithms. But as an investor, I've continued to remain long - technology stocks, I think that is the place to be for some time, and so we're enjoying this run since the summer in tech names.\"Among those tech names, Apple rose more than 3%, as did Palantir Techologies, while Oracle climbed 4%.Other notable stock moves included FedEx, which popped over 2% after the delivery company reported quarterly profit and revenue above analyst estimates.And shares of Paramount Skydance jumped nearly 6% after a CNBC report laid out more details about the media company's potential bid for Warner Bros Discovery, which rose nearly 3.5%.",
-    "link": "https://finance.yahoo.com/video/wall-st-closes-higher-indexes-224724962.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Why Micron Stock Sunk Today",
-    "summary": "Do investors need to be worried about Micron's sell-off today?",
-    "link": "https://www.fool.com/investing/2025/09/19/why-micron-stock-sunk-today/?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Astrazeneca (AZN) Stock Slides as Market Rises: Facts to Know Before You Trade",
-    "summary": "Astrazeneca (AZN) closed at $76.28 in the latest trading session, marking a -1.03% move from the prior day.",
-    "link": "https://finance.yahoo.com/news/astrazeneca-azn-stock-slides-market-221503865.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Superior Group (SGC) Stock Sinks As Market Gains: Here's Why",
-    "summary": "Superior Group (SGC) closed the most recent trading day at $11.26, moving 5.85% from the previous trading session.",
-    "link": "https://finance.yahoo.com/news/superior-group-sgc-stock-sinks-221503803.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Trane Technologies (TT) Outpaces Stock Market Gains: What You Should Know",
-    "summary": "In the latest trading session, Trane Technologies (TT) closed at $406.58, marking a +1.02% move from the previous day.",
-    "link": "https://finance.yahoo.com/news/trane-technologies-tt-outpaces-stock-221502955.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Bitfarms Ltd. (BITF) Stock Sinks As Market Gains: Here's Why",
-    "summary": "In the closing of the recent trading day, Bitfarms Ltd. (BITF) stood at $3.12, denoting a -2.5% move from the preceding trading day.",
-    "link": "https://finance.yahoo.com/news/bitfarms-ltd-bitf-stock-sinks-221502105.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Sunoco LP (SUN) Stock Slides as Market Rises: Facts to Know Before You Trade",
-    "summary": "Sunoco LP (SUN) closed the most recent trading day at $49.12, moving 2.23% from the previous trading session.",
-    "link": "https://finance.yahoo.com/news/sunoco-lp-sun-stock-slides-220003670.html?.tsrc=rss"
+    "source": "CNBC News",
+    "title": "China isn't begging for Nvidia anymore. Here are homegrown tech plays to watch",
+    "summary": "Perhaps the biggest outcome of the latest U.S.-China trade talks is China's greater confidence in its homegrown technology.",
+    "link": "https://www.cnbc.com/2025/09/21/china-isnt-begging-nvidia-anymore-watch-homegrown-tech-plays-instead.html"
   },
   {
     "source": "CNBC News",
@@ -234,100 +240,82 @@
     "link": "https://www.cnbc.com/2025/09/17/doublelines-jeffrey-gundlach-believes-holding-a-2gold-hitting-4000-before-year-end-says-a-25percent-weighting-is-not-excessive.html"
   },
   {
-    "source": "CNBC News",
-    "title": "Fed forecasts only one rate cut in 2026, a more conservative outlook than expected",
-    "summary": "The Fed's dot plot, which shows 19 individual members' expectations, indicates a median estimate of 3.4% for the federal funds rate at the end of 2026.",
-    "link": "https://www.cnbc.com/2025/09/17/fed-forecasts-only-one-rate-cut-in-2026-a-more-conservative-outlook-than-expected.html"
+    "source": "Financial Times World News",
+    "title": "Charlie Kirk praised as conservative ‘martyr’ in mass memorial service",
+    "summary": "Trump and senior Republicans mix faith and politics in Arizona commemoration that draws crowd in tens of thousands",
+    "link": "https://www.ft.com/content/146850b0-b297-4d24-85f6-495a68a9912c"
   },
   {
     "source": "Financial Times World News",
-    "title": "‘It’s our South Africa moment’: the growing global boycott of Israel",
-    "summary": "Calls to shun Israel over its war in Gaza are gaining traction in sport, the arts and academia",
-    "link": "https://www.ft.com/content/0a844acf-36c2-4313-8d0a-181ae220221f"
+    "title": "UK government approves second runway at Gatwick airport",
+    "summary": "Prime minister backs growth-creating projects in London area despite environmental objections",
+    "link": "https://www.ft.com/content/2e7eeb60-5c6e-4866-b849-b4e312aa93b8"
   },
   {
     "source": "Financial Times World News",
-    "title": "The truth about immigration",
-    "summary": "Ageing societies seeking to preserve living standards will continue to rely on new arrivals — but governments can be clearer about the trade-offs",
-    "link": "https://www.ft.com/content/43dad7d6-3042-4697-b266-4252eba78ce3"
+    "title": "Britain’s zombie universities should put Schumpeter on the syllabus",
+    "summary": "It’s time to borrow from the corporate crib sheets — and if all else fails, creative destruction is a force for good",
+    "link": "https://www.ft.com/content/d3910481-8d55-45f2-9a22-347844af4bc5"
   },
   {
     "source": "Financial Times World News",
-    "title": "Pension panic grips Generation X",
-    "summary": "While 45- to 60-year-olds are the least prepared for retirement, Budget rumours are accelerating pension withdrawals",
-    "link": "https://www.ft.com/content/9c65a041-c3fd-492e-9d59-0672a979fe1d"
+    "title": "Trump’s war on America’s schools",
+    "summary": "The US president wants to destroy them, but most Americans still support them",
+    "link": "https://www.ft.com/content/fc508005-aefc-43a4-a40e-d5317f9c3c13"
   },
   {
     "source": "Financial Times World News",
-    "title": "A lot of learning is a dangerous thing",
-    "summary": "How university expansion split western societies",
-    "link": "https://www.ft.com/content/9b071b7a-7cef-4244-ab2c-8d4394fd5abf"
+    "title": "Trump’s H-1B visa fee to hit US employers with $14bn annual bill",
+    "summary": "Lawyers anticipate the surprise move could face a court challenge",
+    "link": "https://www.ft.com/content/c51fc02c-0859-4908-9c3d-c3c1d12550c4"
   },
   {
     "source": "Financial Times World News",
-    "title": "Former top civil servant in running to replace Mandelson as US ambassador",
-    "summary": "Sir Mark Sedwill is among the leading candidates being considered as Britain’s representative in Washington",
-    "link": "https://www.ft.com/content/8d1f4570-fa33-42c5-9644-ab1e3486a8ed"
+    "title": "UK, Canada and Australia recognise Palestine as an independent state",
+    "summary": "Move comes as Israel intensifies military action in Gaza and expansion of settlements in occupied West Bank",
+    "link": "https://www.ft.com/content/36ddd673-6d55-4191-b87b-f32ee1482858"
   },
   {
     "source": "Financial Times World News",
-    "title": "Trump’s new H-1B visa fee prompts emergency guidance from companies",
-    "summary": "White House moves to clarify $100,000 application fee for visas relied on by tech industry",
-    "link": "https://www.ft.com/content/9822b5ee-4d3e-4e73-bbf4-be382d2fada7"
+    "title": "Will Benjamin Netanyahu annex the West Bank?",
+    "summary": "Israeli PM is under pressure from far-right coalition partners to formally seize parts of occupied Palestinian territory",
+    "link": "https://www.ft.com/content/def54498-5bb1-4e74-91ed-1e1d6b771ad7"
   },
   {
     "source": "Financial Times World News",
-    "title": "Pentagon places new restrictions on reporters in return for access",
-    "summary": "Trump administration wants journalists to only publish information authorised by defence department",
-    "link": "https://www.ft.com/content/bc33271f-8651-488b-baf0-50ea793016c7"
+    "title": "Ed Davey appeals to business to help halt the rise of Reform UK",
+    "summary": "Lib Dem leader warns ‘country is in peril’ as party conference kicks off in Bournemouth",
+    "link": "https://www.ft.com/content/f02f1e4f-6dc2-495d-8ff4-5d1350670280"
   },
   {
     "source": "Financial Times World News",
-    "title": "Canadian pension group to invest £2.5bn in UK property debt",
-    "summary": "QuadReal bets on race to develop Britain’s digital infrastructure and address its housing shortage",
-    "link": "https://www.ft.com/content/e01fffc4-bf56-4e72-a5a6-737540a2db4d"
+    "title": "Murdochs and Michael Dell part of TikTok buyer group, says Trump",
+    "summary": "US president says Rupert and Lachlan will join the computer pioneer as well as Oracle’s Larry Ellison to buy shares from China’s ByteDance",
+    "link": "https://www.ft.com/content/a6e8b916-6c63-42c0-8dc3-d2956746d22b"
   },
   {
     "source": "Google News - Stock Market",
-    "title": "The stock market finally has what it wants — and is now asking 'now what?' - Yahoo Finance",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNaGpNblowTk51U0doLTY3MjY3Y202Z2dybHY1S280bW1hcFdBWlVZLXQ2aVl0dXE3M2NJVG5UZFJ2alowdmdoZkVFbDZVMXZVMUc2eFFJUlMtZkZVMlROdUxpSGFxRVVjOGpNM05hc29hejF2Wkd6RTcwYXlwLWhhbWZkaHduc0dUamlJOTVzOFg4ZFdfeldjRFA5aVM2bnpHSWNvR3QxZy15enVEOGIxeWpCeFJEMG8?oc=5\" target=\"_blank\">The stock market finally has what it wants — and is now asking 'now what?'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaGpNblowTk51U0doLTY3MjY3Y202Z2dybHY1S280bW1hcFdBWlVZLXQ2aVl0dXE3M2NJVG5UZFJ2alowdmdoZkVFbDZVMXZVMUc2eFFJUlMtZkZVMlROdUxpSGFxRVVjOGpNM05hc29hejF2Wkd6RTcwYXlwLWhhbWZkaHduc0dUamlJOTVzOFg4ZFdfeldjRFA5aVM2bnpHSWNvR3QxZy15enVEOGIxeWpCeFJEMG8?oc=5"
+    "title": "Stock futures are little changed after Dow, S&P 500 hit fresh records: Live updates - CNBC",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE00OG9RY2lYZmU5aHNFX04tcnNWVjVJN2k2ekExN1ZqOUkxNXFOSEJ1RjVSRlhuTEFsMS04STlFM3gyeldfRV9XLUVWcEljT0YydXlqdWprWnE2b0tZN0VoVk5GTEw5R09nQVl3Y1YzZ1FsUWQ1a2kw0gF8QVVfeXFMTWRMd0YxTWRBREpMOXN0dVZtS3VxemFoU1FvRkU0YktMblU1b0tQNDNtbndHTWt4SlI2TkdKZkdTUDdQRFplMWpfWE9VT19yeGduWHp2UVo5c3NEd00yNXVjb19QSHI1UEFsWkE3bV9RQVNpR1h6SzR5c3JoQw?oc=5\" target=\"_blank\">Stock futures are little changed after Dow, S&amp;P 500 hit fresh records: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZENNRHA3RVo1c1dScWFkWEVRcTJNZ2N1d3E0bnBXS1B3M1JQUC02Y1g5RnBodzEyRGJYVFVfMXBtV2wyRV9jNnhBN2J5bC0yTnBMcV9sbURSLW1YOVJnZHkyQ2p6OW9yQ3ZfQ1Z0RzBnaDlIOHRzS295eUZNSjZmUWVnaGNQTkdsVEFtamhPVGJ6RlQ0aFk1WUx5c2IwZHVHVXNiTnNwa1RRcmZ3MXZienF3bUVrckRNdVNkdG1fMFBMajM0eUo5aXFNN2ZIU19Pa1FZ?oc=5\" target=\"_blank\">U.S. stock futures flat after Friday’s record highs, as ‘the market has learned to thrive in ambiguity’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWEIwZy1JUTdzakMyanl1YWdLcVNCWUlmS3BndUx1dVNhOWlZTVRXNWJ2MDZCbXJNZS1JbkkwOG9QYmV5VEtBblJWZ2Q2clRudGRQbExDZEJFTDdxZXpCM015dWtfWExBSE1BRS1hemN1OThPZEtDZjFWcVZMWS1DRXZudFgtakNZdjNZRTAxU3ozWnNha1pPdm8yRWV0X1BvY2wyb2RLSmtJUzJQOXVLcWNpalVENVdublR0STEtdW1mdVVta1VkbWlXZ1lkbldJdERsZlpnTzQzUQ?oc=5\" target=\"_blank\">Dow, S&amp;P 500, Nasdaq close at record highs for second day as tech, trade headlines lift markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00OG9RY2lYZmU5aHNFX04tcnNWVjVJN2k2ekExN1ZqOUkxNXFOSEJ1RjVSRlhuTEFsMS04STlFM3gyeldfRV9XLUVWcEljT0YydXlqdWprWnE2b0tZN0VoVk5GTEw5R09nQVl3Y1YzZ1FsUWQ1a2kw0gF8QVVfeXFMTWRMd0YxTWRBREpMOXN0dVZtS3VxemFoU1FvRkU0YktMblU1b0tQNDNtbndHTWt4SlI2TkdKZkdTUDdQRFplMWpfWE9VT19yeGduWHp2UVo5c3NEd00yNXVjb19QSHI1UEFsWkE3bV9RQVNpR1h6SzR5c3JoQw?oc=5"
   },
   {
     "source": "Google News - Stock Market",
-    "title": "Dow, S&P 500 close at fresh records, log big gains for the week after Fed rate cut: Live updates - CNBC",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1LSzNPSTB1RzZJbGNta3YxOUZFNElQWmJrUHdPTk5RZFJSMHlvMlZDVHdhNXB6ZWdIejVzVmUyTmZqNE5LZGE4RVpPbnVXLW9FOEdqaVVmc3JXeHVwY3BkNFF5RE5MaF96aElmbVBmMS1QMHNuMTVv0gF8QVVfeXFMUEdWYjRkQmc5OERMLWRoMnRjQ2VqUkdhOG5odnRBRDdXRG9TMHFVTnlEX1pZUHNBV2M0RDh5b25PUlBHNFctdGkyaF9XaDNwa1hBeXp3UFFvSlY5NTZvRnFVYm1hamtta3J0QmtHLTNjR2tjNXFrcmdUVUN6TQ?oc=5\" target=\"_blank\">Dow, S&amp;P 500 close at fresh records, log big gains for the week after Fed rate cut: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LSzNPSTB1RzZJbGNta3YxOUZFNElQWmJrUHdPTk5RZFJSMHlvMlZDVHdhNXB6ZWdIejVzVmUyTmZqNE5LZGE4RVpPbnVXLW9FOEdqaVVmc3JXeHVwY3BkNFF5RE5MaF96aElmbVBmMS1QMHNuMTVv0gF8QVVfeXFMUEdWYjRkQmc5OERMLWRoMnRjQ2VqUkdhOG5odnRBRDdXRG9TMHFVTnlEX1pZUHNBV2M0RDh5b25PUlBHNFctdGkyaF9XaDNwa1hBeXp3UFFvSlY5NTZvRnFVYm1hamtta3J0QmtHLTNjR2tjNXFrcmdUVUN6TQ?oc=5"
+    "title": "The hottest thing in the stock market is suddenly boring tech - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFRoaldhWThvOFhwaFJLRzd0SnlBeDJMUkJkeGh5M253OEpxOWR0WkpIbThLT3RpT3BzRVNkSFRmc3BkaXhtRXdMcUpad0E3clFwZllWTUpWUVNyZmo3dzhmR3hQM1RlS2Z5Tm92NGVCNjR6NlFSRjdyaUpCekx4VVR1ZDdCcnl2?oc=5\" target=\"_blank\">The hottest thing in the stock market is suddenly boring tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFRoaldhWThvOFhwaFJLRzd0SnlBeDJMUkJkeGh5M253OEpxOWR0WkpIbThLT3RpT3BzRVNkSFRmc3BkaXhtRXdMcUpad0E3clFwZllWTUpWUVNyZmo3dzhmR3hQM1RlS2Z5Tm92NGVCNjR6NlFSRjdyaUpCekx4VVR1ZDdCcnl2?oc=5"
   },
   {
     "source": "Google News - Stock Market",
-    "title": "Chinese Savers Have $23 Trillion And Few Options Beyond Stocks - Bloomberg.com",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQRm5obmlCaWtHRHVRTV8xZVhGX28wRlNhLWlyWEFpY00xUkNZNVJwVkhVclhldklzRnVUNklaT1VJdFZxcUhyUjdOS0c1QlJITWRBSlhGYmtUa0ltT3VBMG01MkpVRHZZeVJZa3FHUzBGUno3SzhPbGROVGpURDF1elBLZm5ZS19NZWJFSFpBWEhHOEJMRkduVUQtSzhLWklVM1FVSnNZdXNwUGlobC1Jc09n?oc=5\" target=\"_blank\">Chinese Savers Have $23 Trillion And Few Options Beyond Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRm5obmlCaWtHRHVRTV8xZVhGX28wRlNhLWlyWEFpY00xUkNZNVJwVkhVclhldklzRnVUNklaT1VJdFZxcUhyUjdOS0c1QlJITWRBSlhGYmtUa0ltT3VBMG01MkpVRHZZeVJZa3FHUzBGUno3SzhPbGROVGpURDF1elBLZm5ZS19NZWJFSFpBWEhHOEJMRkduVUQtSzhLWklVM1FVSnNZdXNwUGlobC1Jc09n?oc=5"
+    "title": "City faces £120M bill as Britain pushes savers into stocks - politico.eu",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTVSWXVlYWZmR3dCUFNCdWNETDFsM205RllzVlpCVHRWNmJTS052anQyRnNiUnlrc2hrNExVZktkU21heEo2NDdLYWR1eVRRRVQtVlRKV1p6b0NOQ1Z5Q1FGZ2cyVHl5SExCcVU3NTVPbjRfOHNMWW9tLXFOZHpqZU0zUVRhOXBJUjZDTGZDb2NZQ2dCSl9tdjZvTGFpRjRiQlJKZA?oc=5\" target=\"_blank\">City faces £120M bill as Britain pushes savers into stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font>",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTVSWXVlYWZmR3dCUFNCdWNETDFsM205RllzVlpCVHRWNmJTS052anQyRnNiUnlrc2hrNExVZktkU21heEo2NDdLYWR1eVRRRVQtVlRKV1p6b0NOQ1Z5Q1FGZ2cyVHl5SExCcVU3NTVPbjRfOHNMWW9tLXFOZHpqZU0zUVRhOXBJUjZDTGZDb2NZQ2dCSl9tdjZvTGFpRjRiQlJKZA?oc=5"
   },
   {
     "source": "Google News - Stock Market",
-    "title": "Stock Market News, Sept. 19, 2025: Nasdaq Rises; Trump Announces TikTok Deal - The Wall Street Journal",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxOTVFpTnUzSjk0RjhFSDlWVzhYZFRRUVdzSHRMZ3VBUXZsUFBzRUdVSFRlNExaUzYtWGJjZEtoUl9oOEt3Q3h4U3c4RlQ3dV92dmlHa0tpNGVDNVRBM0ZCY3B1UVpfbjAxbXdEaGRxZ0F4MF9BNzMwbFZPVHB5UGNYdHdMR1czb05wQ2RXUjc5djhzTWZCN1ZNdGloLVVBTkl2Q0NsOFRKc05NSUI3Y2NIdllMaGIzSm16WE1BMElNYW5sdm9VOWZJbnZILWxGMkhlM0VDUkttNjhaVUZhSDNzZWp3eHNRMHVMUDE2STZ1d09PNDVVbEF0YzdJVC1oblFlZXh4MDZaVDlleEMtbXY2MkJqZ20yN3Z4SktwODVSQU1yNWdaclF1dXJVUTV3ckFtSGdmTm9aS1NlM0VmZ0FjcGZtb3RCMXVXbHZ0Z1VFQ3p5Q2wxMlhyaWlTSXYzYzJNTnk4TjVHb2loYUUyekpzQ3FUREpKX0ZOcFktYWRNYmQyUEhIWHFXRmFRXzM?oc=5\" target=\"_blank\">Stock Market News, Sept. 19, 2025: Nasdaq Rises; Trump Announces TikTok Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
-    "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOTVFpTnUzSjk0RjhFSDlWVzhYZFRRUVdzSHRMZ3VBUXZsUFBzRUdVSFRlNExaUzYtWGJjZEtoUl9oOEt3Q3h4U3c4RlQ3dV92dmlHa0tpNGVDNVRBM0ZCY3B1UVpfbjAxbXdEaGRxZ0F4MF9BNzMwbFZPVHB5UGNYdHdMR1czb05wQ2RXUjc5djhzTWZCN1ZNdGloLVVBTkl2Q0NsOFRKc05NSUI3Y2NIdllMaGIzSm16WE1BMElNYW5sdm9VOWZJbnZILWxGMkhlM0VDUkttNjhaVUZhSDNzZWp3eHNRMHVMUDE2STZ1d09PNDVVbEF0YzdJVC1oblFlZXh4MDZaVDlleEMtbXY2MkJqZ20yN3Z4SktwODVSQU1yNWdaclF1dXJVUTV3ckFtSGdmTm9aS1NlM0VmZ0FjcGZtb3RCMXVXbHZ0Z1VFQ3p5Q2wxMlhyaWlTSXYzYzJNTnk4TjVHb2loYUUyekpzQ3FUREpKX0ZOcFktYWRNYmQyUEhIWHFXRmFRXzM?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "The Stock Market Got a Rate-Cut Boost. Where It’s Headed Next. - Barron's",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNUWxQb2xabDdpaE1OZGxhV1RES1NiMDJFaXdvOE41MXQ1TzU2Q1Y2emp6a1VuTG9tOWNkRTNlZC1QVDV4aVlhaHVCbktmcGFxeXB6TWxuM3VkMmpCQ1BGWk53eXpsTlN0UTBHLXl3aFpjeEhpWng2T1pSWE45eEFFZWNYcU9IY0ZZdGc?oc=5\" target=\"_blank\">The Stock Market Got a Rate-Cut Boost. Where It’s Headed Next.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUWxQb2xabDdpaE1OZGxhV1RES1NiMDJFaXdvOE41MXQ1TzU2Q1Y2emp6a1VuTG9tOWNkRTNlZC1QVDV4aVlhaHVCbktmcGFxeXB6TWxuM3VkMmpCQ1BGWk53eXpsTlN0UTBHLXl3aFpjeEhpWng2T1pSWE45eEFFZWNYcU9IY0ZZdGc?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "Stock Market Hits Fresh High As Investors Weigh Trump-Xi Call, Fed; PCE Inflation Data Due - Investor's Business Daily",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMTZtYkVBLTFxRHlLd3dtN2ttTFRYZXlxd0ZlcDNicDFxRUVjZWhoMGdjU25JcGU1dTFtWXJlTWoyUDg3Y2NFY3B0S0RLcE5XY0tfeWlsUlNRbzNTQ0k3TndQM0ZfaFlQcGFaYVcycFR2V05naTBaVmFxc0JJNU1kcWdIOGRMTkQwSlJmT2NSYU4zaHN5VnpHbFNmWVZhRkx6alNpazBER2dsSmJ3VkRXVG53aXVWeWR2eGFvQ3dRMGZCTlFXNVVFb1FTUWFJUGxnZ25MbkZlZw?oc=5\" target=\"_blank\">Stock Market Hits Fresh High As Investors Weigh Trump-Xi Call, Fed; PCE Inflation Data Due</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMTZtYkVBLTFxRHlLd3dtN2ttTFRYZXlxd0ZlcDNicDFxRUVjZWhoMGdjU25JcGU1dTFtWXJlTWoyUDg3Y2NFY3B0S0RLcE5XY0tfeWlsUlNRbzNTQ0k3TndQM0ZfaFlQcGFaYVcycFR2V05naTBaVmFxc0JJNU1kcWdIOGRMTkQwSlJmT2NSYU4zaHN5VnpHbFNmWVZhRkx6alNpazBER2dsSmJ3VkRXVG53aXVWeWR2eGFvQ3dRMGZCTlFXNVVFb1FTUWFJUGxnZ25MbkZlZw?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "Stock Market on Sept. 19, 2025: S&P 500, Dow, Nasdaq end at fresh records; stocks see a winning week after Fed meeting - MarketWatch",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOR2Vwc3kxTFlRbTVwbGtNMTY4VFQxLUF4RGlhQzMwQ3E3TUtBRzNwQ2E0bmlZeHBIbjhBT2pKMzVyemlTUWxxcjJEYXhMQ2lmMzVXdnFaNW5xMlJ1RWk2Vk1lOHpIR3ZlMkppcm42OUVKcmVwcEk1TG9iSWxXVHJ0UHRSWmkyUW9UUlFfcTViMEFLNFQwMHlMaEI2cV9iSHdPTFVNbkYyYnpmdnZ0RTJoazMzQS1sdw?oc=5\" target=\"_blank\">Stock Market on Sept. 19, 2025: S&amp;P 500, Dow, Nasdaq end at fresh records; stocks see a winning week after Fed meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR2Vwc3kxTFlRbTVwbGtNMTY4VFQxLUF4RGlhQzMwQ3E3TUtBRzNwQ2E0bmlZeHBIbjhBT2pKMzVyemlTUWxxcjJEYXhMQ2lmMzVXdnFaNW5xMlJ1RWk2Vk1lOHpIR3ZlMkppcm42OUVKcmVwcEk1TG9iSWxXVHJ0UHRSWmkyUW9UUlFfcTViMEFLNFQwMHlMaEI2cV9iSHdPTFVNbkYyYnpmdnZ0RTJoazMzQS1sdw?oc=5"
+    "title": "What Reliving the 1929 Crash Tells Us About Today’s Stock Market - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNzgycjVmMnc0VHJQTmNtMmRCYzlfNGJWRUlJNEFNNDBMd04tdFQ4Z0NENnZTaVF4MXU5clZnXzNmOHJIV1lVX2lKY0ZDTTVVNk5kX05nOTRBMWxtdE90T1RDWWRJd1FuaEstRHplQzhHR2hkbmxVQnZSM1FuLVVudUd2NVFzN1dLbDRnQjFPeGlZb0kwMU9yOVQ2blR2bW9ObUtPNlp5SVRaeFktRDhJMDFyQzgtRWRr?oc=5\" target=\"_blank\">What Reliving the 1929 Crash Tells Us About Today’s Stock Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNzgycjVmMnc0VHJQTmNtMmRCYzlfNGJWRUlJNEFNNDBMd04tdFQ4Z0NENnZTaVF4MXU5clZnXzNmOHJIV1lVX2lKY0ZDTTVVNk5kX05nOTRBMWxtdE90T1RDWWRJd1FuaEstRHplQzhHR2hkbmxVQnZSM1FuLVVudUd2NVFzN1dLbDRnQjFPeGlZb0kwMU9yOVQ2blR2bW9ObUtPNlp5SVRaeFktRDhJMDFyQzgtRWRr?oc=5"
   },
   {
     "source": "Google News - Stock Market",
@@ -337,39 +325,75 @@
   },
   {
     "source": "Google News - Stock Market",
+    "title": "Stock Market Today: Snap Rises on New Spectacles and Snap OS 2.0 Announcement - Nasdaq",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjNHaUZmNmVENm84eEtNZjdGODR1bDc3T0hUUDFNN3RHOVo4allVVGlvbTRYMWJqX0hHSGdfTU5zSFd6TEVsWU94SjJ5M3VzTXpGWVJ5QmFZVm8xalhQQWxDd3JVQ3RLeWlIYmtxcUM1TzNIbkw0RDN2VlA1RU11WUpkUTlGcHBJRElWcjBXa3ZNUm9sNUx4S29FTG83MlEzTmVmc2pYWQ?oc=5\" target=\"_blank\">Stock Market Today: Snap Rises on New Spectacles and Snap OS 2.0 Announcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjNHaUZmNmVENm84eEtNZjdGODR1bDc3T0hUUDFNN3RHOVo4allVVGlvbTRYMWJqX0hHSGdfTU5zSFd6TEVsWU94SjJ5M3VzTXpGWVJ5QmFZVm8xalhQQWxDd3JVQ3RLeWlIYmtxcUM1TzNIbkw0RDN2VlA1RU11WUpkUTlGcHBJRElWcjBXa3ZNUm9sNUx4S29FTG83MlEzTmVmc2pYWQ?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "Stock Market News, Sept. 19, 2025: Nasdaq Rises; Trump Announces TikTok Deal - The Wall Street Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxNX2JtRU1ZZE14RDJIMmlRUlpkYzQyVTFtT3k4VzFvVE53MjAxMWZ3bEwzZkp1WDRLb3FhZ0Q2aGNlcnF0RnlSNFRPWW5DU0VFU3ltdUJyV0pYN1I3UDFIc1M3Ml96dG1QY09HanRadE03WHIwVWhRU3Q2dFMyNzV5ZjdQaTAxXzBGZWhjRjl3aFlFMjFlUmxPSmx1cmhDR3ZhSG4wQXY3MUxSNnAtdjJ3YjNVRkNEUDZyLWhJNE5JODA0dXVsYkpLWmdKS3BhcHItU1V1WDVUVHVkOHN4ZEdidUZmQ0Nsd001aTZYNjBJN05yT1YxQS1Mc3VlVmxqYjNRWm0wRWg1cU1VMWhSSGtfS0ZvUFVHdGtGM2sweHpTVkEtYzhfWjVFUnZuTGVWNm5MTFpLbjlLcHhYeUIxaTh2blRTbkZFaEt0am1DWXJOUXJjN29LNVJJS3Vldl8wemI4QkU1ekJmMWpWTmJHc18zUUdMVm5vdngyY2R0TWpvOUY0cEY3azc5dDZGS2c?oc=5\" target=\"_blank\">Stock Market News, Sept. 19, 2025: Nasdaq Rises; Trump Announces TikTok Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+    "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNX2JtRU1ZZE14RDJIMmlRUlpkYzQyVTFtT3k4VzFvVE53MjAxMWZ3bEwzZkp1WDRLb3FhZ0Q2aGNlcnF0RnlSNFRPWW5DU0VFU3ltdUJyV0pYN1I3UDFIc1M3Ml96dG1QY09HanRadE03WHIwVWhRU3Q2dFMyNzV5ZjdQaTAxXzBGZWhjRjl3aFlFMjFlUmxPSmx1cmhDR3ZhSG4wQXY3MUxSNnAtdjJ3YjNVRkNEUDZyLWhJNE5JODA0dXVsYkpLWmdKS3BhcHItU1V1WDVUVHVkOHN4ZEdidUZmQ0Nsd001aTZYNjBJN05yT1YxQS1Mc3VlVmxqYjNRWm0wRWg1cU1VMWhSSGtfS0ZvUFVHdGtGM2sweHpTVkEtYzhfWjVFUnZuTGVWNm5MTFpLbjlLcHhYeUIxaTh2blRTbkZFaEt0am1DWXJOUXJjN29LNVJJS3Vldl8wemI4QkU1ekJmMWpWTmJHc18zUUdMVm5vdngyY2R0TWpvOUY0cEY3azc5dDZGS2c?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "Stock Market Today: Dow Hits Highs After Trump, Xi Talk; Cathie Wood Unloads AI Stock (Live Coverage) - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSnBhYmdXa1B1Q2xCaEx6eEdtMi1OQWZYTlAwVE1aQm9NSTlrMlNzRFRRUGd2RWxRbmQ4bDNSbl9nVDZMWUQtMDFJNnBybTVqNEowNTQ4MGRpRkFCNlpZNVo3TmF2dUZfdldmaGJTS3dONDJhRHJaWXFhT0JzRFptcjVuT3NlQ2dwQ3dGNXc0QnBKMGxqemVEUEtuOFItc2ktRWNrWl9CVTdhNzBQd2Q5MmpB?oc=5\" target=\"_blank\">Stock Market Today: Dow Hits Highs After Trump, Xi Talk; Cathie Wood Unloads AI Stock (Live Coverage)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSnBhYmdXa1B1Q2xCaEx6eEdtMi1OQWZYTlAwVE1aQm9NSTlrMlNzRFRRUGd2RWxRbmQ4bDNSbl9nVDZMWUQtMDFJNnBybTVqNEowNTQ4MGRpRkFCNlpZNVo3TmF2dUZfdldmaGJTS3dONDJhRHJaWXFhT0JzRFptcjVuT3NlQ2dwQ3dGNXc0QnBKMGxqemVEUEtuOFItc2ktRWNrWl9CVTdhNzBQd2Q5MmpB?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "Is the Stock Market Headed Up or Down? Interest Rates Just Did Something That Signals a Big Move in the Next Year. - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOY1VBdTlQM3BUN2EweDVJY3lmRFN0Qm1OVnVRY205QmhaZm1qZFU1dXFDeFF5cjFHVkdPZU5OVlNKc2RIZ1hhcTN3VGNBdjNpaWNmQjh6ZU5CaVBOb3FMZVVSRk8tcmlKX2h2RjNBUTh2UkJYeVZwNlZpbk9CLTV1ZEFMWUE0anpVOXh0d2VNcFhUV19ST0hrYw?oc=5\" target=\"_blank\">Is the Stock Market Headed Up or Down? Interest Rates Just Did Something That Signals a Big Move in the Next Year.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY1VBdTlQM3BUN2EweDVJY3lmRFN0Qm1OVnVRY205QmhaZm1qZFU1dXFDeFF5cjFHVkdPZU5OVlNKc2RIZ1hhcTN3VGNBdjNpaWNmQjh6ZU5CaVBOb3FMZVVSRk8tcmlKX2h2RjNBUTh2UkJYeVZwNlZpbk9CLTV1ZEFMWUE0anpVOXh0d2VNcFhUV19ST0hrYw?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "The real reason the stock market keeps climbing - TheStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNV2lfSk9Td0FBREo1cjFrQzhNY2dURGdQdE41enJSUDJJV04wTWVQRkhfQUxUWFFUSzlzMGw1b0lTOTdQUnZOTVhaMzBwYW5WaHpWUVNPSFhLV1FUOVJGMUJhTlVLcjJYN3Y2bTNNd1h3RGIwMXBxcmRCMnk3b2FCYVNtOGl6UQ?oc=5\" target=\"_blank\">The real reason the stock market keeps climbing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheStreet</font>",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV2lfSk9Td0FBREo1cjFrQzhNY2dURGdQdE41enJSUDJJV04wTWVQRkhfQUxUWFFUSzlzMGw1b0lTOTdQUnZOTVhaMzBwYW5WaHpWUVNPSFhLV1FUOVJGMUJhTlVLcjJYN3Y2bTNNd1h3RGIwMXBxcmRCMnk3b2FCYVNtOGl6UQ?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "The stock market finally has what it wants — and is now asking 'now what?' - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNaGpNblowTk51U0doLTY3MjY3Y202Z2dybHY1S280bW1hcFdBWlVZLXQ2aVl0dXE3M2NJVG5UZFJ2alowdmdoZkVFbDZVMXZVMUc2eFFJUlMtZkZVMlROdUxpSGFxRVVjOGpNM05hc29hejF2Wkd6RTcwYXlwLWhhbWZkaHduc0dUamlJOTVzOFg4ZFdfeldjRFA5aVM2bnpHSWNvR3QxZy15enVEOGIxeWpCeFJEMG8?oc=5\" target=\"_blank\">The stock market finally has what it wants — and is now asking 'now what?'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaGpNblowTk51U0doLTY3MjY3Y202Z2dybHY1S280bW1hcFdBWlVZLXQ2aVl0dXE3M2NJVG5UZFJ2alowdmdoZkVFbDZVMXZVMUc2eFFJUlMtZkZVMlROdUxpSGFxRVVjOGpNM05hc29hejF2Wkd6RTcwYXlwLWhhbWZkaHduc0dUamlJOTVzOFg4ZFdfeldjRFA5aVM2bnpHSWNvR3QxZy15enVEOGIxeWpCeFJEMG8?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "The Hottest Thing in the Stock Market Is Suddenly Boring Tech - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlUxd2RNVjh1NFB0OTZMeHhHdWZYanJFczBFdnlJSmVicktqSlZabV91TWstZkx4VHNROGRlOENQNWJ0bVczTURvdFNKSW5QdmZ4OG1ZVnJVcWxEQmxZR2ZybjhCcmlpSVdLalZGb05sV3dJcXNtbVFqY0lUZlp6Zkk2NG9HTEdlZ3dwVmxQU0xUbDNtY28xdEd5LUN3aURiSFZIWlVZbmluaGx6anE0RGx3?oc=5\" target=\"_blank\">The Hottest Thing in the Stock Market Is Suddenly Boring Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlUxd2RNVjh1NFB0OTZMeHhHdWZYanJFczBFdnlJSmVicktqSlZabV91TWstZkx4VHNROGRlOENQNWJ0bVczTURvdFNKSW5QdmZ4OG1ZVnJVcWxEQmxZR2ZybjhCcmlpSVdLalZGb05sV3dJcXNtbVFqY0lUZlp6Zkk2NG9HTEdlZ3dwVmxQU0xUbDNtY28xdEd5LUN3aURiSFZIWlVZbmluaGx6anE0RGx3?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "Dow Jones Futures Fall With Apple, Nvidia At Key Levels; Take In These Red-Hot Stocks? - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNRFRjXzU2N1ZEWkwwdjNDTUpHWTFUQ0VYNE1tcXAta3NnM3RHY1NGam9Nb01yR0JyY2pVb1BSZmtCTGx3UGZ5X0xOemx0NUlqQVNNU0xpVlc5ZkREM3hQdmNlOGVxYlk2aVJrWThDSmlQSlNRdTJUSk1Qcko5RXAzNThWZU5Odkc1QjAxYlVranFCalB1YXhUZHZ1V1VxdkJUR1lDVHNCLUdteXp4aWgwcFNUN21Ca0pkRHlIaUc4amZnLUFtalU4RGp3?oc=5\" target=\"_blank\">Dow Jones Futures Fall With Apple, Nvidia At Key Levels; Take In These Red-Hot Stocks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRFRjXzU2N1ZEWkwwdjNDTUpHWTFUQ0VYNE1tcXAta3NnM3RHY1NGam9Nb01yR0JyY2pVb1BSZmtCTGx3UGZ5X0xOemx0NUlqQVNNU0xpVlc5ZkREM3hQdmNlOGVxYlk2aVJrWThDSmlQSlNRdTJUSk1Qcko5RXAzNThWZU5Odkc1QjAxYlVranFCalB1YXhUZHZ1V1VxdkJUR1lDVHNCLUdteXp4aWgwcFNUN21Ca0pkRHlIaUc4amZnLUFtalU4RGp3?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "Malaysia Stock Market May Reclaim 1,600-Point Level - Nasdaq",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPTmFmWThDYU9zcXNibWJmZmVuektVRE8tSllLWnBxWEVCLVYyLS1KNlVfcGxnendzbkxpV2NaQVphQVl4dDJWRENabVZWZklnSWM4NVdVa09NeXlaYTI5Z1I0dUJWc0oxRGM4U1pWcl9tX21fdWJoa0RKSEtRTmpISE9GU3p3RW9waVE?oc=5\" target=\"_blank\">Malaysia Stock Market May Reclaim 1,600-Point Level</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTmFmWThDYU9zcXNibWJmZmVuektVRE8tSllLWnBxWEVCLVYyLS1KNlVfcGxnendzbkxpV2NaQVphQVl4dDJWRENabVZWZklnSWM4NVdVa09NeXlaYTI5Z1I0dUJWc0oxRGM4U1pWcl9tX21fdWJoa0RKSEtRTmpISE9GU3p3RW9waVE?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
     "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnd2WkVaMUJmcnRBMjVqR3ZfRDhLXzNSRkxEWVJ2YXpyR2ZmaDM3dGZJY2JVYmtFdE5GZ202ZHNmSDdYRmdBWE1EaHo2bUJvZlVURmJWUG9raVRPV3ZoampSb002Zy05d3ZGaEdIQm43UzhUajVsOWpyTm9uZVFPa3VrS25zUzktMnVnLVpGdnlYRGEydlFiVk5FZnJCRGEtRWlMeA?oc=5\" target=\"_blank\">5 Things to Know Before the Stock Market Opens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnd2WkVaMUJmcnRBMjVqR3ZfRDhLXzNSRkxEWVJ2YXpyR2ZmaDM3dGZJY2JVYmtFdE5GZ202ZHNmSDdYRmdBWE1EaHo2bUJvZlVURmJWUG9raVRPV3ZoampSb002Zy05d3ZGaEdIQm43UzhUajVsOWpyTm9uZVFPa3VrS25zUzktMnVnLVpGdnlYRGEydlFiVk5FZnJCRGEtRWlMeA?oc=5"
   },
   {
     "source": "Google News - Stock Market",
-    "title": "3 Unstoppable Dividend Stocks to Buy If There's a Stock Market Sell-Off - The Motley Fool",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNzQxRkRiVm5LMW1GeWtIS1hyeG1wLW84VnhjQm40RU9QSVQycEF0OE4xVGNUUTBpaXhxQmVHODBIMk94VlExbWZEMm5mUXRrY2N0UjZQLTEteDhudmh0MTF2VmRydDQ5VVpsWEw3VFExMXc4RmtrREZyN19pblFlZEJSY29qd191dU5iaEtyVjRzbDZDRFFYYQ?oc=5\" target=\"_blank\">3 Unstoppable Dividend Stocks to Buy If There's a Stock Market Sell-Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNzQxRkRiVm5LMW1GeWtIS1hyeG1wLW84VnhjQm40RU9QSVQycEF0OE4xVGNUUTBpaXhxQmVHODBIMk94VlExbWZEMm5mUXRrY2N0UjZQLTEteDhudmh0MTF2VmRydDQ5VVpsWEw3VFExMXc4RmtrREZyN19pblFlZEJSY29qd191dU5iaEtyVjRzbDZDRFFYYQ?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "Dow Jones Futures: Apple, Nvidia At Key Levels; Take Profits In These Vertical Stocks? - Investor's Business Daily",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNRFRjXzU2N1ZEWkwwdjNDTUpHWTFUQ0VYNE1tcXAta3NnM3RHY1NGam9Nb01yR0JyY2pVb1BSZmtCTGx3UGZ5X0xOemx0NUlqQVNNU0xpVlc5ZkREM3hQdmNlOGVxYlk2aVJrWThDSmlQSlNRdTJUSk1Qcko5RXAzNThWZU5Odkc1QjAxYlVranFCalB1YXhUZHZ1V1VxdkJUR1lDVHNCLUdteXp4aWgwcFNUN21Ca0pkRHlIaUc4amZnLUFtalU4RGp3?oc=5\" target=\"_blank\">Dow Jones Futures: Apple, Nvidia At Key Levels; Take Profits In These Vertical Stocks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRFRjXzU2N1ZEWkwwdjNDTUpHWTFUQ0VYNE1tcXAta3NnM3RHY1NGam9Nb01yR0JyY2pVb1BSZmtCTGx3UGZ5X0xOemx0NUlqQVNNU0xpVlc5ZkREM3hQdmNlOGVxYlk2aVJrWThDSmlQSlNRdTJUSk1Qcko5RXAzNThWZU5Odkc1QjAxYlVranFCalB1YXhUZHZ1V1VxdkJUR1lDVHNCLUdteXp4aWgwcFNUN21Ca0pkRHlIaUc4amZnLUFtalU4RGp3?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "After The Rate Cut: Investing Beyond U.S. Markets - J.P. Morgan",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkdFLV9LUWdfdE5mYlN4UkxBNHUzZVRzYVFIcDFFSndJQ2NNT2FENnZBZk1LdG05dm1vYkJaQzV2YmNVeW9tbkNLZkJ3ZGVZdGVqTFNEQzVIczdzSVl5LW9kaUJnVjd2aE9UdXRJVE9SbjMzSVFRdGxacGVqa3hhQnVlMUFMRnZmaC16ZHV5T3NKWWZuUnlXTk9wcFY3dklnS2xvMGpnZ0pCU0t0TklfX01IcFAzZ2o1anBJZUFIQnZVX1k?oc=5\" target=\"_blank\">After The Rate Cut: Investing Beyond U.S. Markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">J.P. Morgan</font>",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkdFLV9LUWdfdE5mYlN4UkxBNHUzZVRzYVFIcDFFSndJQ2NNT2FENnZBZk1LdG05dm1vYkJaQzV2YmNVeW9tbkNLZkJ3ZGVZdGVqTFNEQzVIczdzSVl5LW9kaUJnVjd2aE9UdXRJVE9SbjMzSVFRdGxacGVqa3hhQnVlMUFMRnZmaC16ZHV5T3NKWWZuUnlXTk9wcFY3dklnS2xvMGpnZ0pCU0t0TklfX01IcFAzZ2o1anBJZUFIQnZVX1k?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "Stock Market Rally Risks Losing Steam as Economic Bounce Fades - Bloomberg.com",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPeFhHaE9tc3ZOSHlVWExXUWNINmlFYlU1ME5YVzRvSE9qTE05bXA4TVBPT0c4dWUxRUpXVWs1M25acWY1RUpDU0RWTVB4b09qc1JOc1RWT182dFk5Vno0WF9MYmRuVFpPTjFoN2htTi00NUxOaENrcWF1Rm1RYXA4LVR3Rmxzdy1WNzNNT2FWVFYtbWRRYWdONl9QWlhpN3pZYThGOGVSWTB2YWs1Ym95VjJDTQ?oc=5\" target=\"_blank\">Stock Market Rally Risks Losing Steam as Economic Bounce Fades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeFhHaE9tc3ZOSHlVWExXUWNINmlFYlU1ME5YVzRvSE9qTE05bXA4TVBPT0c4dWUxRUpXVWs1M25acWY1RUpDU0RWTVB4b09qc1JOc1RWT182dFk5Vno0WF9MYmRuVFpPTjFoN2htTi00NUxOaENrcWF1Rm1RYXA4LVR3Rmxzdy1WNzNNT2FWVFYtbWRRYWdONl9QWlhpN3pZYThGOGVSWTB2YWs1Ym95VjJDTQ?oc=5"
+    "title": "Full Stock Market News from 2025-09-21 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uUXU5ZzFmSkQ3NFFMN2hHZDFMT0FvS3RISkVCYWlnNFg4TVdfSU1kUlhJcG9NWTY0dU5QUUxXQ2NIQkIzMWt5OWNpS3Q2OTlmMW44Sm1R?oc=5\" target=\"_blank\">Full Stock Market News from 2025-09-21</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uUXU5ZzFmSkQ3NFFMN2hHZDFMT0FvS3RISkVCYWlnNFg4TVdfSU1kUlhJcG9NWTY0dU5QUUxXQ2NIQkIzMWt5OWNpS3Q2OTlmMW44Sm1R?oc=5"
   },
   {
     "source": "Google News - Stock Market",
     "title": "Stock Market News, Sept. 18, 2025: Dow Rises After Fed Signals More Rate Cuts; Intel Surges on Nvidia Deal - The Wall Street Journal",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxQbkRaOS1xTDZRdER0VDlqOVR4V2xFWEJkYXV3WE5EZHV4bDdidlhOYV84TFlFQWhtR1Zlbi1mZEU2MkFVWG5MUkFnOE9BOGhDNWdDRHhlbGxqRVJNamVYMFhGX3kxNE9aNkFHd2hWTlpZOWhiTHpHUG50ZUVXTFdlNGtRRWEzR1M0YTk3VDV0LTNKckh2OTktQzRqdHdJdlhSNXp5ZlBvRzk0eGwwbmRWYi1aaU5iYlVwMTA1SE9fUjNsbHlrWk5CNWN4RElhOVZCVGRfX2RTeVhrUmtSNS00em5VWE4yNFNfWmlJMmFENjNXaVF6bGJhaERnY2R6eWRMY1BqdEhLV2JSVTBPR0t6VWJUZGZ6bXBqS2lBRmttd2Y3NFgydGtwSEE1ZjNyZm5WNDhpRUY5ak42aDVvX3NCT2t5N3NhY2ZWVlVVaHpMekNuMGxrMHJVMmZFS3RiMnF5VlQ2S1F2d0pFeUVDSXZYcTc4T2JOLWFWY3lDdFZ6UnZPdkV3cTl1QW1UbTE?oc=5\" target=\"_blank\">Stock Market News, Sept. 18, 2025: Dow Rises After Fed Signals More Rate Cuts; Intel Surges on Nvidia Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
-    "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQbkRaOS1xTDZRdER0VDlqOVR4V2xFWEJkYXV3WE5EZHV4bDdidlhOYV84TFlFQWhtR1Zlbi1mZEU2MkFVWG5MUkFnOE9BOGhDNWdDRHhlbGxqRVJNamVYMFhGX3kxNE9aNkFHd2hWTlpZOWhiTHpHUG50ZUVXTFdlNGtRRWEzR1M0YTk3VDV0LTNKckh2OTktQzRqdHdJdlhSNXp5ZlBvRzk0eGwwbmRWYi1aaU5iYlVwMTA1SE9fUjNsbHlrWk5CNWN4RElhOVZCVGRfX2RTeVhrUmtSNS00em5VWE4yNFNfWmlJMmFENjNXaVF6bGJhaERnY2R6eWRMY1BqdEhLV2JSVTBPR0t6VWJUZGZ6bXBqS2lBRmttd2Y3NFgydGtwSEE1ZjNyZm5WNDhpRUY5ak42aDVvX3NCT2t5N3NhY2ZWVlVVaHpMekNuMGxrMHJVMmZFS3RiMnF5VlQ2S1F2d0pFeUVDSXZYcTc4T2JOLWFWY3lDdFZ6UnZPdkV3cTl1QW1UbTE?oc=5"
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxQR0dHNS1aWHNIanNNVHhpLVdMWWJIMzBZQzZ4Q3paeHFKeXllc2JaUmFTS1dmYk9xN1dUUkN0aXYtQ0NKcHZNWlhtdFFiVjVEREtOb2lkdUk3NllFQlNLZFJUcHdxbXpMeERrZkdCRUNmTzlXX3JyaVAwb19yRW15SzRuQURWQlV4OXRXengyb3g5TDRWY2lXTmw3dGo1eGMzcjRxZENkVUVGMmtHSE1JeFd2UU9qUlZvQ1pXY3VpWm9iUjhQcHdQcnBsQnVNQjlsaWFsWk5Lc1NzalhBZmFNc2lCV1BKMmhocFNmTXFFRHQ1XzJ3SE04TmtGX08yVzVCZ3hiR25uR2p1YjdGc3hfejYxT3pua0s4SXJmNjVScnV0U001MVRVdEM4SDQ4cS1aeS0zTk9VdG1idXVUMVVUMzYzUVB1aDA3WTdFbDhWZjd3TUdlVmF4cWN5SndEQWE2UHEtb2dOb1RycGM4TVFlbkNOcm9iVkpqM3BNcE1EZVZ5T2cwR2ZYb083ZG8?oc=5\" target=\"_blank\">Stock Market News, Sept. 18, 2025: Dow Rises After Fed Signals More Rate Cuts; Intel Surges on Nvidia Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+    "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQR0dHNS1aWHNIanNNVHhpLVdMWWJIMzBZQzZ4Q3paeHFKeXllc2JaUmFTS1dmYk9xN1dUUkN0aXYtQ0NKcHZNWlhtdFFiVjVEREtOb2lkdUk3NllFQlNLZFJUcHdxbXpMeERrZkdCRUNmTzlXX3JyaVAwb19yRW15SzRuQURWQlV4OXRXengyb3g5TDRWY2lXTmw3dGo1eGMzcjRxZENkVUVGMmtHSE1JeFd2UU9qUlZvQ1pXY3VpWm9iUjhQcHdQcnBsQnVNQjlsaWFsWk5Lc1NzalhBZmFNc2lCV1BKMmhocFNmTXFFRHQ1XzJ3SE04TmtGX08yVzVCZ3hiR25uR2p1YjdGc3hfejYxT3pua0s4SXJmNjVScnV0U001MVRVdEM4SDQ4cS1aeS0zTk9VdG1idXVUMVVUMzYzUVB1aDA3WTdFbDhWZjd3TUdlVmF4cWN5SndEQWE2UHEtb2dOb1RycGM4TVFlbkNOcm9iVkpqM3BNcE1EZVZ5T2cwR2ZYb083ZG8?oc=5"
   },
   {
     "source": "Google News - Stock Market",
@@ -379,32 +403,14 @@
   },
   {
     "source": "Google News - Stock Market",
-    "title": "Rate Cuts After Long Pauses Have Been a Boon for Stocks - The New York Times",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE53NkRDQmNtaFBSWW90TEhvbEdKUkxDVks4NzlXTVRENnpQeHk4TGZmeWYtTXFrck9tTXZsN0JCSjdDODdxUnZJSHktUHZZOFpJWEpfYWFic2pWMGQ2ZWhlR2gybXR0cHlnNEVDc0cyTGtkRHpIMXhJ?oc=5\" target=\"_blank\">Rate Cuts After Long Pauses Have Been a Boon for Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53NkRDQmNtaFBSWW90TEhvbEdKUkxDVks4NzlXTVRENnpQeHk4TGZmeWYtTXFrck9tTXZsN0JCSjdDODdxUnZJSHktUHZZOFpJWEpfYWFic2pWMGQ2ZWhlR2gybXR0cHlnNEVDc0cyTGtkRHpIMXhJ?oc=5"
+    "title": "US Futures Slip as Traders Gauge H-1B Visa Fallout: Markets Wrap - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNQmNER0tfMi0zOC13RkU5RHNXM01Bc09SZ1RmWW9RUk1taEJoakFWWmN0dldzdExJT1pET2tGZldVZmFuQ2ZDRHVtTWkyaHVVZkFJUnBLTzJFSzMtcWpqWXIwN011dHlpc3NQX0w4cS0zSnRqeUlHbVlIVC1FUGlmbllwbElmNUU4cVlHZEoxRkx4NFpKTjlGT2dPMGpLT1JjZ2FXOUxKUzB1VFEtdjR4VWM1OXo?oc=5\" target=\"_blank\">US Futures Slip as Traders Gauge H-1B Visa Fallout: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQmNER0tfMi0zOC13RkU5RHNXM01Bc09SZ1RmWW9RUk1taEJoakFWWmN0dldzdExJT1pET2tGZldVZmFuQ2ZDRHVtTWkyaHVVZkFJUnBLTzJFSzMtcWpqWXIwN011dHlpc3NQX0w4cS0zSnRqeUlHbVlIVC1FUGlmbllwbElmNUU4cVlHZEoxRkx4NFpKTjlGT2dPMGpLT1JjZ2FXOUxKUzB1VFEtdjR4VWM1OXo?oc=5"
   },
   {
     "source": "Google News - Stock Market",
-    "title": "Should Stock Investors Look Beyond the Tech Giants? - Goldman Sachs",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOOU9zUGtnNmY1TkY1a3IwSGNoZ0taR2lsSVlHRDRZaEdkQS0ya2Z6eUVsdkFQSWQ5Rzl5SnVicDYxYkpLRmh0Q0s4U2hXbzJOSGNjYXpVQkJuaW5CYlBMbnNlQzJFaXBJOGtQVkIySW5tWkZDUUJ5TVFCd0loNDRhU0ZfcEQ5X0NvbUFKTi1NVXFPUFdTYVhVdDdiT0lIdw?oc=5\" target=\"_blank\">Should Stock Investors Look Beyond the Tech Giants?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Goldman Sachs</font>",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU9zUGtnNmY1TkY1a3IwSGNoZ0taR2lsSVlHRDRZaEdkQS0ya2Z6eUVsdkFQSWQ5Rzl5SnVicDYxYkpLRmh0Q0s4U2hXbzJOSGNjYXpVQkJuaW5CYlBMbnNlQzJFaXBJOGtQVkIySW5tWkZDUUJ5TVFCd0loNDRhU0ZfcEQ5X0NvbUFKTi1NVXFPUFdTYVhVdDdiT0lIdw?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "Dow, S&P 500, Nasdaq close at record highs for second day as tech, trade headlines lift markets - Yahoo Finance",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPRzdNZGttNTVYUTRPODhfa1NVYXA3SFBjMThnbkdHd2gzUWU3NjBxM1p4ODUySjFfZ25fdFdFVGpfN3dmYkZJckJRT3RWdFUxdjlRaFA5Sk1rVVVyUVJld2NVVWNrU3FvM2FySDZKeGhfY2wtQlc2TkJCb0NoVU4wM0g3bzVvdlYtd2p3RU1Eb2RDTWpIMngyNEtxR3puS2R1aUdHLUVNckdWWW9tUnZaRjFQS0ZpRG1lc1RRWEhJVVZqc0J3U2psSHF3?oc=5\" target=\"_blank\">Dow, S&amp;P 500, Nasdaq close at record highs for second day as tech, trade headlines lift markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRzdNZGttNTVYUTRPODhfa1NVYXA3SFBjMThnbkdHd2gzUWU3NjBxM1p4ODUySjFfZ25fdFdFVGpfN3dmYkZJckJRT3RWdFUxdjlRaFA5Sk1rVVVyUVJld2NVVWNrU3FvM2FySDZKeGhfY2wtQlc2TkJCb0NoVU4wM0g3bzVvdlYtd2p3RU1Eb2RDTWpIMngyNEtxR3puS2R1aUdHLUVNckdWWW9tUnZaRjFQS0ZpRG1lc1RRWEhJVVZqc0J3U2psSHF3?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "Week in review: Stock market records, Fed rate cut, trades, and new iPhones - CNBC",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOWHBOcEdNYUtDYXFfTDFGQkR4WE8tVW5yM05MUEpYV0dBdktmdzR4LXdXQzdCcWlURHNrdmtJLTBmR2RIMzdaeU9sQ3hVT0FXTmllQWpLWVhGblZKVzF6VEdySm1Cb2hSbzY0OFJBRkFocU5ZSXl0TzhfeGN5bmQ3QjVQeklHdTMxc1hibDUwZUM1MC1IUTdvd1pLZzJ0Y21LWm90eWNScVBxcjN5?oc=5\" target=\"_blank\">Week in review: Stock market records, Fed rate cut, trades, and new iPhones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWHBOcEdNYUtDYXFfTDFGQkR4WE8tVW5yM05MUEpYV0dBdktmdzR4LXdXQzdCcWlURHNrdmtJLTBmR2RIMzdaeU9sQ3hVT0FXTmllQWpLWVhGblZKVzF6VEdySm1Cb2hSbzY0OFJBRkFocU5ZSXl0TzhfeGN5bmQ3QjVQeklHdTMxc1hibDUwZUM1MC1IUTdvd1pLZzJ0Y21LWm90eWNScVBxcjN5?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0dSVzRna1dtRkthZmFLMVdvdXRuYjdJSUxhcE1adnRXM1R6Qk01c3l2SnFmeHRQRzRtdEI3ck5nZ0FXczNFb1BpTVhQd3d6SmVEY1Zla0V4ZzNOOUlseWhTMUw1VXVnTzJZcGJKWVdOb2FISmE5bkFWNXhNeVl3WmRNaUxkSWpROC1Fb21ySWNwNkU5NXJ6MFM5czNGaWY0NEllTg?oc=5\" target=\"_blank\">5 Things to Know Before the Stock Market Opens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0dSVzRna1dtRkthZmFLMVdvdXRuYjdJSUxhcE1adnRXM1R6Qk01c3l2SnFmeHRQRzRtdEI3ck5nZ0FXczNFb1BpTVhQd3d6SmVEY1Zla0V4ZzNOOUlseWhTMUw1VXVnTzJZcGJKWVdOb2FISmE5bkFWNXhNeVl3WmRNaUxkSWpROC1Fb21ySWNwNkU5NXJ6MFM5czNGaWY0NEllTg?oc=5"
+    "title": "Dow, S&P 500, Nasdaq futures see slight pullback from week of record highs for major gauges - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWx6Y0d0cXFrSlNUT25YWUFTNXFQNlNNS1dtVUVNNEkwLUlOVWljMDRQR1RDRmpYaFhjSmRIUGdMeWNSakV1aHZkOG1NUllRWU85THEyN3BCQ3UyZHBTdHZESVBhWGdLb2FQb1JYdW0tV3ctQ1B4MDhmQkxFVjRjLTNOeGdhYkJoUVBycjVHUzJuT1Zlakp5WUhjMWdCeWNQTzhvUXBXVGdYSzRha0otdFhaaFBubFNPQ3JRUnlBQmZIbC0wd2hsa3JSblN4bXZCWmhDSHFB?oc=5\" target=\"_blank\">Dow, S&amp;P 500, Nasdaq futures see slight pullback from week of record highs for major gauges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWx6Y0d0cXFrSlNUT25YWUFTNXFQNlNNS1dtVUVNNEkwLUlOVWljMDRQR1RDRmpYaFhjSmRIUGdMeWNSakV1aHZkOG1NUllRWU85THEyN3BCQ3UyZHBTdHZESVBhWGdLb2FQb1JYdW0tV3ctQ1B4MDhmQkxFVjRjLTNOeGdhYkJoUVBycjVHUzJuT1Zlakp5WUhjMWdCeWNQTzhvUXBXVGdYSzRha0otdFhaaFBubFNPQ3JRUnlBQmZIbC0wd2hsa3JSblN4bXZCWmhDSHFB?oc=5"
   }
 ]

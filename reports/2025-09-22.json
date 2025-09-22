@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 600, "reason": "record highs, positive tech momentum"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "strong uptrend post-Fed rate cut"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "trend up, optimistic outlook"},
+    {"target": "Gold", "action": "hold", "reason": "near record, waiting Fed signals"}
+]
