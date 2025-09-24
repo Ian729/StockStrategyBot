@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend up but volatility and valuation concerns"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "strong uptrend, limited negative headlines"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend up but Powell warns stocks overvalued"},
+    {"target": "Gold", "action": "invest", "amount": 300, "reason": "record highs, strategic reserve demand"}
+]
