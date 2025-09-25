@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Rally cooling; mixed signals from Fed and tech sector"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "Strong uptrend plus global equity momentum"},
+    {"target": "S&P 500", "action": "hold", "reason": "Recent stall after record highs; Fed uncertainty persists"},
+    {"target": "Gold", "action": "hold", "reason": "Rally stalled; rate cut outlook unclear, safe-haven demand stable"}
+]
