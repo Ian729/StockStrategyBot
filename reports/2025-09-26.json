@@ -1,0 +1,23 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "hold",
+        "reason": "Trend up but short-term volatility due to tariff/inflation news"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 400,
+        "reason": "Strong upward momentum, less US tariff impact"
+    },
+    {
+        "target": "S&P 500",
+        "action": "hold",
+        "reason": "Uptrend, but US tariffs, inflation, and volatility concerns"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Trend up but potential volatility ahead of US economic data"
+    }
+]
