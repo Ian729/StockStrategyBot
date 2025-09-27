@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 600, "reason": "trend up, strong tech momentum"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 400, "reason": "trend up, foreign investor interest"},
+    {"target": "S&P 500", "action": "invest", "amount": 500, "reason": "trend up, resilient US consumer spending"},
+    {"target": "Gold", "action": "hold", "reason": "trend up but minimal news catalysts"}
+]
