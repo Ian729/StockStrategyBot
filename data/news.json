@@ -1,6 +1,102 @@
 [
   {
     "source": "Yahoo Finance",
+    "title": "Weekly Market Wrap: Apple up, Electronic Arts soars, and Intel resurfaces",
+    "summary": "Here is what you need to know about the stock market this past week.",
+    "link": "https://www.thestreet.com/investing/weekly-market-wrap-apple-up-electronic-arts-soars-and-intel-resurfaces?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Dow Jones Futures: Market Rebounds, 5 Stocks Eye Buy Points; Tesla Deliveries Due",
+    "summary": "The major indexes bounced to end the week. Palantir, DoorDash are near buy points. Tesla deliveries, jobs date and a possible government shutdown loom.",
+    "link": "https://finance.yahoo.com/m/18031d71-85bc-38ca-a9ce-bf4930d4193f/dow-jones-futures%3A-market.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "People keep pushing bitcoin on me, but it crashes regularly. What am I missing?",
+    "summary": "How is owning crypto better portfolio management when U.S. stocks have come through every crisis?",
+    "link": "https://www.marketwatch.com/story/people-have-predicted-dollar-doom-for-decades-what-makes-this-time-actually-different-c3521a9d?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "As Gold Keeps Setting New Highs, China Reportedly Wants to Be Its Custodian for Central Banks",
+    "summary": "Beijing is said to be courting foreign central banks to store bullion in Shanghai vaults as gold hovers near record highs and demand strengthens.",
+    "link": "https://www.coindesk.com/markets/2025/09/27/as-gold-keeps-setting-new-highs-china-reportedly-wants-to-be-its-custodian-for-central-banks?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Gold’s Historic Surge and Central Bank Demand Might Change the Case for Investing in GDX",
+    "summary": "In recent months, gold has delivered its second-strongest performance in five decades, advancing over 43% as investors seek protection against rising geopolitical and monetary uncertainty. Despite this surge, institutional investors maintain relatively low gold allocations, while China's ongoing above-average imports of non-monetary gold reflect an elevated drive to diversify national reserves away from the US dollar. We'll explore how sustained central bank demand and low institutional...",
+    "link": "https://finance.yahoo.com/news/gold-historic-surge-central-bank-142114123.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "West Red Lake Gold Mines (TSXV:WRLG): Assessing Valuation After $41M Financing Boosts Growth Prospects",
+    "summary": "For investors watching West Red Lake Gold Mines (TSXV:WRLG), there is real reason to sit up and take notice. The company just wrapped up an upsized $41 million bought deal public offering, aimed at accelerating the Madsen Gold Mine ramp-up and injecting new energy into the Rowan Project’s exploration. With capital now in place, management is signaling a step-change in its ability to deliver production and unlock value from its assets while gold prices remain favorable. This fresh financing...",
+    "link": "https://finance.yahoo.com/news/west-red-lake-gold-mines-141142352.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Snowline Gold (TSXV:SGD): Evaluating Valuation After Recent Surge in Investor Attention",
+    "summary": "Snowline Gold (TSXV:SGD) has drawn fresh attention from investors after a sharp upward move, sparking questions about whether something fundamental is shifting for the emerging gold explorer. When a stock climbs this quickly, it’s only natural to look for the catalyst, whether it’s a major discovery, a business development, or just a change in sentiment. Even without a headline-grabbing event, moves like this can signal the market is waking up to new possibilities, or simply making up for...",
+    "link": "https://finance.yahoo.com/news/snowline-gold-tsxv-sgd-evaluating-140641269.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Should You Reconsider Royal Gold After Shares Surge 46% in 2025?",
+    "summary": "Trying to decide if Royal Gold is worth a closer look? If you have been monitoring this stock, you will know it has attracted plenty of attention lately, and for good reason. Royal Gold’s share price has surged by 2.6% in the last week alone, up 11.2% over the past month, and it is clocking a remarkable 46.2% gain since the start of the year. Over the last three years, the stock has posted an eye-catching 117.7% total return, easily outpacing many of its peers in the gold royalty space. These...",
+    "link": "https://finance.yahoo.com/news/reconsider-royal-gold-shares-surge-140502359.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "B2Gold (TSX:BTO): Assessing Valuation After 2025 Production Guidance and Upbeat Earnings Projections",
+    "summary": "If you have been tracking B2Gold (TSX:BTO) lately, this week’s confirmation of its 2025 gold production targets almost certainly caught your eye. The company says it still expects to produce between 970,000 and 1,075,000 ounces of gold next year. That forecast comes even as it trims expectations for the Goose mine due to a capacity issue, but strong results from the Fekola mine are helping offset the difference. For investors, the new guidance is clear and it sets a firmer foundation for...",
+    "link": "https://finance.yahoo.com/news/b2gold-tsx-bto-assessing-valuation-134311265.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Will New Found Gold's (TSXV:NFG) Resource Upgrade Efforts Reshape Its Long-Term Competitive Story?",
+    "summary": "New Found Gold Corp. recently announced channel sampling results from its Iceberg excavation at the Queensway Gold Project in Newfoundland and Labrador, reporting multiple high-grade gold intervals and updating on ongoing infill and hydrogeological drilling programs. This update highlights not only encouraging gold grades but also the company's progress in advancing resource conversion efforts and overall project development. With these high-grade sampling results as a highlight, we'll...",
+    "link": "https://finance.yahoo.com/news/found-golds-tsxv-nfg-upgrade-133928979.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "How Investors May Respond To Kinross Gold (TSX:K) Selling Its Asante Stake While Retaining Convertible Exposure",
+    "summary": "Earlier this week, Kinross Gold Corporation announced the sale of its entire 5.2% stake in Asante Gold Corporation through a private placement, generating approximately C$73.1 million in gross proceeds while maintaining an 8.4% interest via convertible instruments. This move signals Kinross’s ongoing realignment of its investment portfolio, with the divestiture coming just ahead of Asante’s listing on the TSX Venture Exchange and reflecting a flexible approach to future capital...",
+    "link": "https://finance.yahoo.com/news/investors-may-respond-kinross-gold-133650764.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Why BTQ Technologies (NEOE:BTQ) Is Up 9.8% After Securing Nasdaq Uplisting Approval and What’s Next",
+    "summary": "BTQ Technologies Corp. has received approval to list its common shares on the Nasdaq Global Market, with trading commencing under the symbol \"BTQ\" on September 26, 2025, and shares ceasing trading on the OTCQX but continuing on the CBOE Canada and Börse Frankfurt exchanges. This uplisting marks a key milestone for BTQ, aiming to expand funding opportunities and accelerate the commercialization of its quantum computing and post-quantum security platform. We'll explore how joining the Nasdaq,...",
+    "link": "https://finance.yahoo.com/news/why-btq-technologies-neoe-btq-133100338.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "The Weekend: Gold rush continues as inflation forecast sours Reeves' Gatwick runway boost",
+    "summary": "Key moments from the last seven days, plus a glimpse at the week ahead.",
+    "link": "https://uk.finance.yahoo.com/news/weekend-gold-reeves-gatwick-runway-inflation-economy-125755921.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "What Are 2 Great Tech Stocks to Buy Right Now?",
+    "summary": "These two tech stocks could deliver big returns for investors willing to hold for the long term.",
+    "link": "https://www.fool.com/investing/2025/09/27/what-are-2-great-tech-stocks-to-buy-right-now/?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "3 Signs That Leading Cryptocurrencies Could Be Overvalued",
+    "summary": "It's getting harder and harder to ignore these red flags for the crypto market.",
+    "link": "https://www.fool.com/investing/2025/09/27/3-signs-that-leading-cryptocurrencies-could-be-ove/?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "A REIT, Insurer, and Bank Are Set to Go Public. The IPO Market Is More Than Tech.",
+    "summary": "The upcoming debuts of Fermi, Neptune Insurance, and Commercial Bancgroup are a sign that the IPO market isn’t just about tech.",
+    "link": "https://finance.yahoo.com/m/ccb77360-d6d9-3507-bc47-60c5abcc22d7/a-reit%2C-insurer%2C-and-bank-are.html?.tsrc=rss"
+  },
+  {
+    "source": "Yahoo Finance",
     "title": "Passing the CFA Exam Is Tough. AI Just Did It in Minutes.",
     "summary": "The three-part Chartered Financial Analyst exam, particularly the Level III with its essays, is viewed as one of finance’s hardest. The fact that leading AI models sailed through reflects how quickly the field is advancing.",
     "link": "https://finance.yahoo.com/m/9c67164a-65cd-3de3-8a0d-c5695b30c747/passing-the-cfa-exam-is.html?.tsrc=rss"
@@ -24,100 +120,22 @@
     "link": "https://finance.yahoo.com/news/dynatrace-dt-rises-higher-market-221503578.html?.tsrc=rss"
   },
   {
-    "source": "Yahoo Finance",
-    "title": "Garmin (GRMN) Outperforms Broader Market: What You Need to Know",
-    "summary": "Garmin (GRMN) closed the most recent trading day at $240.48, moving +1.6% from the previous trading session.",
-    "link": "https://finance.yahoo.com/news/garmin-grmn-outperforms-broader-market-221503595.html?.tsrc=rss"
+    "source": "CNBC News",
+    "title": "President Trump posts cartoon image depicting him firing Fed Chief Powell",
+    "summary": "Trump has repeatedly criticized Powell for his cautious approach to cutting interest rates, nicknaming him \"Too Late Powell.\"",
+    "link": "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html"
   },
   {
-    "source": "Yahoo Finance",
-    "title": "Vita Coco Company, Inc. (COCO) Surpasses Market Returns: Some Facts Worth Knowing",
-    "summary": "Vita Coco Company, Inc. (COCO) closed the most recent trading day at $39.96, moving +2.42% from the previous trading session.",
-    "link": "https://finance.yahoo.com/news/vita-coco-company-inc-coco-221503956.html?.tsrc=rss"
+    "source": "CNBC News",
+    "title": "'Spectacular' AI growth is creating a serious labor market problem for Fed, Jefferies' David Zervos warns",
+    "summary": "Long-time market bull David Zervos is worried the Federal Reserve is dangerously ignoring the artificial intelligence boom's fallout.",
+    "link": "https://www.cnbc.com/2025/09/27/spectacular-ai-growth-to-spark-serious-jobs-issue-for-fed-zervos.html"
   },
   {
-    "source": "Yahoo Finance",
-    "title": "Astera Labs, Inc. (ALAB) Stock Declines While Market Improves: Some Information for Investors",
-    "summary": "In the latest trading session, Astera Labs, Inc. (ALAB) closed at $197.78, marking a -1.43% move from the previous day.",
-    "link": "https://finance.yahoo.com/news/astera-labs-inc-alab-stock-221503419.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Annaly Capital Management (NLY) Beats Stock Market Upswing: What Investors Need to Know",
-    "summary": "The latest trading day saw Annaly Capital Management (NLY) settling at $21.04, representing a +1.06% change from its previous close.",
-    "link": "https://finance.yahoo.com/news/annaly-capital-management-nly-beats-221502364.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Why Nucor (NUE) Outpaced the Stock Market Today",
-    "summary": "Nucor (NUE) reached $138.13 at the closing of the latest trading day, reflecting a +2.5% change compared to its last close.",
-    "link": "https://finance.yahoo.com/news/why-nucor-nue-outpaced-stock-221502491.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Sigma Lithium Corporation (SGML) Stock Falls Amid Market Uptick: What Investors Need to Know",
-    "summary": "The latest trading day saw Sigma Lithium Corporation (SGML) settling at $7.03, representing a -2.36% change from its previous close.",
-    "link": "https://finance.yahoo.com/news/sigma-lithium-corporation-sgml-stock-221502546.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Zoetis (ZTS) Surpasses Market Returns: Some Facts Worth Knowing",
-    "summary": "Zoetis (ZTS) concluded the recent trading session at $143.5, signifying a +1.68% move from its prior day's close.",
-    "link": "https://finance.yahoo.com/news/zoetis-zts-surpasses-market-returns-221502722.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Kyndryl Holdings, Inc. (KD) Stock Falls Amid Market Uptick: What Investors Need to Know",
-    "summary": "The latest trading day saw Kyndryl Holdings, Inc. (KD) settling at $29.45, representing a -3.82% change from its previous close.",
-    "link": "https://finance.yahoo.com/news/kyndryl-holdings-inc-kd-stock-220005864.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "PPL (PPL) Beats Stock Market Upswing: What Investors Need to Know",
-    "summary": "In the closing of the recent trading day, PPL (PPL) stood at $36.72, denoting a +1.55% move from the preceding trading day.",
-    "link": "https://finance.yahoo.com/news/ppl-ppl-beats-stock-market-220005198.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Consolidated Water (CWCO) Rises Higher Than Market: Key Facts",
-    "summary": "Consolidated Water (CWCO) reached $35.07 at the closing of the latest trading day, reflecting a +1.01% change compared to its last close.",
-    "link": "https://finance.yahoo.com/news/consolidated-water-cwco-rises-higher-220005781.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Dominion Energy (D) Outpaces Stock Market Gains: What You Should Know",
-    "summary": "Dominion Energy (D) closed at $60.33 in the latest trading session, marking a +1.11% move from the prior day.",
-    "link": "https://finance.yahoo.com/news/dominion-energy-d-outpaces-stock-220005264.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Why BP (BP) Outpaced the Stock Market Today",
-    "summary": "In the most recent trading session, BP (BP) closed at $35.69, indicating a +1.22% shift from the previous trading day.",
-    "link": "https://finance.yahoo.com/news/why-bp-bp-outpaced-stock-220004263.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Bloom Energy (BE) Laps the Stock Market: Here's Why",
-    "summary": "In the closing of the recent trading day, Bloom Energy (BE) stood at $70.32, denoting a +2.37% move from the preceding trading day.",
-    "link": "https://finance.yahoo.com/news/bloom-energy-laps-stock-market-220004392.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Sunoco LP (SUN) Outperforms Broader Market: What You Need to Know",
-    "summary": "Sunoco LP (SUN) reached $50.52 at the closing of the latest trading day, reflecting a +1.55% change compared to its last close.",
-    "link": "https://finance.yahoo.com/news/sunoco-lp-sun-outperforms-broader-220004566.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "B2Gold (BTG) Outperforms Broader Market: What You Need to Know",
-    "summary": "In the closing of the recent trading day, B2Gold (BTG) stood at $4.92, denoting a +1.44% move from the preceding trading day.",
-    "link": "https://finance.yahoo.com/news/b2gold-btg-outperforms-broader-market-220003643.html?.tsrc=rss"
-  },
-  {
-    "source": "Yahoo Finance",
-    "title": "Ross Stores (ROST) Outperforms Broader Market: What You Need to Know",
-    "summary": "In the closing of the recent trading day, Ross Stores (ROST) stood at $151.55, denoting a +1.4% move from the preceding trading day.",
-    "link": "https://finance.yahoo.com/news/ross-stores-rost-outperforms-broader-220003563.html?.tsrc=rss"
+    "source": "CNBC News",
+    "title": "Not just for the ultra-wealthy: Two firms team up to create more access to private credit boom",
+    "summary": "Simplify Asset Management and VettaFi launched the actively managed Simplify VettaFi Private Credit Strategy ETF (PCR) on Wednesday.",
+    "link": "https://www.cnbc.com/2025/09/27/private-credit-boom-behind-new-etf-designed-for-retail-investors.html"
   },
   {
     "source": "CNBC News",
@@ -222,94 +240,58 @@
     "link": "https://www.cnbc.com/2025/09/23/powell-says-slowing-labor-market-prompted-rate-cut-sees-challenging-situation-ahead.html"
   },
   {
-    "source": "CNBC News",
-    "title": "Stocks making the biggest moves midday: Firefly Aerospace, AutoZone, Sempra, Halliburton and more",
-    "summary": "These are the stocks posting the largest moves in midday trading.",
-    "link": "https://www.cnbc.com/2025/09/23/stocks-making-the-biggest-moves-midday-fly-azo-sre-hal.html"
-  },
-  {
-    "source": "CNBC News",
-    "title": "Watch Fed Chair Jerome Powell speak live on interest rates and the economy",
-    "summary": "Powell speaks Tuesday to the Greater Providence Chamber of Commerce 2025 Economic Outlook Luncheon.",
-    "link": "https://www.cnbc.com/2025/09/23/watch-fed-chair-jerome-powell-speak-live-on-interest-rates-and-the-economy.html"
-  },
-  {
-    "source": "CNBC News",
-    "title": "Morgan Stanley close to offering crypto trading through E-Trade, calls it ‘tip of the iceberg’",
-    "summary": "Morgan Stanley, which relies more on wealth management than its peers, is poised to be an early adopter in crypto trading, custody and tokenized assets.",
-    "link": "https://www.cnbc.com/2025/09/23/morgan-stanley-crypto-trading-e-trade-next-year.html"
+    "source": "Financial Times World News",
+    "title": "Jaguar Land Rover wins £1.5bn UK loan support after cyber attack",
+    "summary": "Government says guarantee from UK Export Finance will protect the automotive supply chain",
+    "link": "https://www.ft.com/content/ae3c68c9-5989-46cc-979c-fada35d77b3d"
   },
   {
     "source": "Financial Times World News",
-    "title": "Video game maker Electronic Arts nears $50bn deal to go private",
-    "summary": "Company behind ‘Madden NFL’ title in talks with investors including Jared Kushner’s Affinity Partners",
-    "link": "https://www.ft.com/content/b845be9e-8f36-4dd8-885a-2eb81150a530"
+    "title": "How tech lords and populists changed the rules of power",
+    "summary": "Digital moguls and strongman leaders are more than disrupters of the old liberal order. Together they seek to sweep it away, writes Giuliano da Empoli",
+    "link": "https://www.ft.com/content/85ee3be0-c9a6-4a1d-baf9-8b2ca9e46a85"
   },
   {
     "source": "Financial Times World News",
-    "title": "The never-ending Trump show",
-    "summary": "The US president is dialling up his radical agenda and escalating personal vendettas in a bid to dominate America’s attention",
-    "link": "https://www.ft.com/content/20ed2803-3a8b-48cf-8b6d-f26e07731219"
+    "title": "Why Ukraine is winning the war",
+    "summary": "Russia has failed to achieve its core aim — the destruction of the Ukrainian nation",
+    "link": "https://www.ft.com/content/2a4d7883-e9b5-4a98-b245-76232e70d3df"
   },
   {
     "source": "Financial Times World News",
-    "title": "Labour needs economic growth before it can build fiscal trust",
-    "summary": "The fate of Starmer’s government rests on the economy — but an obsessive pursuit of financial prudence could undermine it",
-    "link": "https://www.ft.com/content/c8763487-8b2a-4250-9562-8d8864601606"
+    "title": "The young against the young",
+    "summary": "The real battle is within, not between, generations",
+    "link": "https://www.ft.com/content/3a24a1f8-e65e-4efe-a606-6f6a15247125"
   },
   {
     "source": "Financial Times World News",
-    "title": "Double-Fomo driving US markets",
-    "summary": "The allure of US exceptionalism and AI is still drawing investors despite concerns over Trump’s policies",
-    "link": "https://www.ft.com/content/6c181cb1-0cbb-4668-9854-5a29debb05b1"
+    "title": "Trump authorises ‘full force’ as he orders troops to ‘war-ravaged’ Portland",
+    "summary": "Move to protect immigration enforcement facilities is fourth deployment in Democrat-controlled US cities",
+    "link": "https://www.ft.com/content/c7f511e7-7512-436a-8ba8-12e11e21e110"
   },
   {
     "source": "Financial Times World News",
-    "title": "Hegseth’s sudden military summit stirs concern and speculation",
-    "summary": "US defence secretary calls top brass to Virginia for highly unusual meeting",
-    "link": "https://www.ft.com/content/6bd6df0c-2057-486e-927e-9beba16d1816"
+    "title": "London considers lowering affordable homes target to spur house building",
+    "summary": "Developers complain that 35% goal is too high and makes schemes unviable",
+    "link": "https://www.ft.com/content/dab02120-928d-46bc-bd1e-3a0c9c2fb36d"
   },
   {
     "source": "Financial Times World News",
-    "title": "Andy Burnham insists riling the bond markets is off the agenda",
-    "summary": "Labour mayor and potential leadership challenger lays out plan to use public assets to boost growth",
-    "link": "https://www.ft.com/content/0f6ff5ba-c3a1-4edb-b348-28d3e1a459db"
+    "title": "UN reimposes sanctions on Iran over its nuclear programme",
+    "summary": "Tehran fails to meet deadline set by European powers",
+    "link": "https://www.ft.com/content/03822508-1bff-407a-b512-d7f37eefdd97"
   },
   {
     "source": "Financial Times World News",
-    "title": "UK to offer to pay more for drugs to placate Trump and pharma groups",
-    "summary": "Prime minister’s chief business adviser Varun Chandra due to hold talks in Washington next week",
-    "link": "https://www.ft.com/content/c28e58b2-85fa-4838-b798-8812676689ee"
-  },
-  {
-    "source": "Financial Times World News",
-    "title": "US set to honour 15% tariff cap on drugs from the EU and Japan",
-    "summary": "Ceiling on pharma levy will be in line with trade deals Tokyo and Brussels have with Washington",
-    "link": "https://www.ft.com/content/62e92784-1811-4a26-b8a3-1e48ec04f787"
-  },
-  {
-    "source": "Financial Times World News",
-    "title": "Trump says other opponents will be targeted after Comey indictment",
-    "summary": "US president warns his administration will go after ‘corrupt, radical-left Democrats’",
-    "link": "https://www.ft.com/content/763a9367-acf9-40b9-aeab-03f0f62d1e99"
+    "title": "Euro’s rally has further to run, Wall Street banks predict",
+    "summary": "Hedging against the US dollar will soon drive the single currency through $1.20, analysts say",
+    "link": "https://www.ft.com/content/5b179bb6-684a-48d1-abac-a25aacb12a49"
   },
   {
     "source": "Google News - Stock Market",
-    "title": "Stocks close higher Friday after in-line inflation data, but S&P 500 snaps 3-week winning streak - CNBC",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBjaUJvZVVRd3R6azFXQ3hNY1dWMzIwU2JwX2UxMl96LWtrWWNmTHFoUVVxbW43MDZRZXFrOTVLajdyWm5jbWRPbHNHRFlqNU9iVVlIcFlEelZSWC00ellOdmZDd3FpaVJqaU1RY29yTWFOdENiSUEw0gF8QVVfeXFMT0tTdHEtMy1EdWwtUFVDdUhnWkphUFZLdEVoX2c2N2hVcHI5QkRCTkZDdzZBUV90TTJPRGF3LUhhWHBBSWtldU9kazc4ejdzY1hNUHVEMjJGZzQ0RWFhaHFna2lsdFM1SjJjVkZWLU8wakZsN1hzenM4c01qQg?oc=5\" target=\"_blank\">Stocks close higher Friday after in-line inflation data, but S&amp;P 500 snaps 3-week winning streak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjaUJvZVVRd3R6azFXQ3hNY1dWMzIwU2JwX2UxMl96LWtrWWNmTHFoUVVxbW43MDZRZXFrOTVLajdyWm5jbWRPbHNHRFlqNU9iVVlIcFlEelZSWC00ellOdmZDd3FpaVJqaU1RY29yTWFOdENiSUEw0gF8QVVfeXFMT0tTdHEtMy1EdWwtUFVDdUhnWkphUFZLdEVoX2c2N2hVcHI5QkRCTkZDdzZBUV90TTJPRGF3LUhhWHBBSWtldU9kazc4ejdzY1hNUHVEMjJGZzQ0RWFhaHFna2lsdFM1SjJjVkZWLU8wakZsN1hzenM4c01qQg?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "Stock Market Today: Dow Rises After Trump Unveils New Tariffs; Pharma Stocks in Focus — Live Updates - The Wall Street Journal",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxPMGNnM0dtUC1qWDJCdE9rdlFEWEppWGNvNm91SGVRSTdYdDNiMjBKZG5XRUdwRERxOVZ1UlFPU19YMzlfOHB4RElZOEl3cUdoc1BldnlLaEJWVWM4Mm9xa0pUZTA1eXJJZjRwZGFkQ0NhUHJkSlF3UFIxNkc4MzJiV1Eta05xYmhHSHJaOVpEWkdlZmFlZndZWGxFaDRqZkRscTByczRRNkdzSGlHRmwzYXJfdUpoV0VjalBmMEthOHgtS2xWUFNxazdkdC1GOXVFNTc0ekNHRExqTE1zc2FZVWp6OTh3VUI3NEgxYldSSkNQVGJBWWlJZTl5bkphS2Z0UHVVbEJ6bVhGTXB1bldFYlJVTW5tcThWa3d5a3dEclV3eEd1cDE2MkZkMWR6RnR4aDBPblNoaGFYR0hSSFdSWEJONllfU045STA1aGpnWjhVdlNNUC1fRzQxRHJ6emQ0UnFpRnE3YXpER0d3SjFoMWxMeUtiV1dHcWVEbnJaTmgwaFhjbjEzTUhfcjI?oc=5\" target=\"_blank\">Stock Market Today: Dow Rises After Trump Unveils New Tariffs; Pharma Stocks in Focus — Live Updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
-    "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPMGNnM0dtUC1qWDJCdE9rdlFEWEppWGNvNm91SGVRSTdYdDNiMjBKZG5XRUdwRERxOVZ1UlFPU19YMzlfOHB4RElZOEl3cUdoc1BldnlLaEJWVWM4Mm9xa0pUZTA1eXJJZjRwZGFkQ0NhUHJkSlF3UFIxNkc4MzJiV1Eta05xYmhHSHJaOVpEWkdlZmFlZndZWGxFaDRqZkRscTByczRRNkdzSGlHRmwzYXJfdUpoV0VjalBmMEthOHgtS2xWUFNxazdkdC1GOXVFNTc0ekNHRExqTE1zc2FZVWp6OTh3VUI3NEgxYldSSkNQVGJBWWlJZTl5bkphS2Z0UHVVbEJ6bVhGTXB1bldFYlJVTW5tcThWa3d5a3dEclV3eEd1cDE2MkZkMWR6RnR4aDBPblNoaGFYR0hSSFdSWEJONllfU045STA1aGpnWjhVdlNNUC1fRzQxRHJ6emQ0UnFpRnE3YXpER0d3SjFoMWxMeUtiV1dHcWVEbnJaTmgwaFhjbjEzTUhfcjI?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "There’s ‘no reason’ to stimulate market further by cutting rates, argues wealth expert - Fox Business",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PN01DMWJoZjd6czdGNXJXdkhkRVZ4R3ZqU3lmSDdjazI4aDVkaWdtUDRvVms5aG9EbHZUdEM0dEdhOXQ5UkpmWU1JTkQyMHhFazlQaGZteFNYZDA?oc=5\" target=\"_blank\">There’s ‘no reason’ to stimulate market further by cutting rates, argues wealth expert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PN01DMWJoZjd6czdGNXJXdkhkRVZ4R3ZqU3lmSDdjazI4aDVkaWdtUDRvVms5aG9EbHZUdEM0dEdhOXQ5UkpmWU1JTkQyMHhFazlQaGZteFNYZDA?oc=5"
+    "title": "The resilient stock market may be keeping the economy out of a recession. Why that's a bad thing - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE53ckxzeV9MQTYzeS1iZ0t2RGJHVzdTYUZfY2gzbS1wR2RNU2JEN2VUa3ZoeTdnQW1POHV6eDd0V21mY3VyMlM0RzhXOW4yd2JjMDBNMWNoWlFsTjhfX3pheEJSYVNsOUVrbFYwTUdKQW9XNUVITXhXX3RweFdrQdIBgwFBVV95cUxNYTdfcFpQSW4wbk1XMmE5ZmNGYUhnRGYtZmROeTZUcWg1NTdBMzNQcnJKX1NRS0VNbEp1YngwY2dZRHBBWDlQc042X2VEVzhNREVVcHRHLVhCbFJ2RmxncXByUUc4OVdxMVB5SkpBWldza2laQUdpcS1wOURvWWZOa080MA?oc=5\" target=\"_blank\">The resilient stock market may be keeping the economy out of a recession. Why that's a bad thing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53ckxzeV9MQTYzeS1iZ0t2RGJHVzdTYUZfY2gzbS1wR2RNU2JEN2VUa3ZoeTdnQW1POHV6eDd0V21mY3VyMlM0RzhXOW4yd2JjMDBNMWNoWlFsTjhfX3pheEJSYVNsOUVrbFYwTUdKQW9XNUVITXhXX3RweFdrQdIBgwFBVV95cUxNYTdfcFpQSW4wbk1XMmE5ZmNGYUhnRGYtZmROeTZUcWg1NTdBMzNQcnJKX1NRS0VNbEp1YngwY2dZRHBBWDlQc042X2VEVzhNREVVcHRHLVhCbFJ2RmxncXByUUc4OVdxMVB5SkpBWldza2laQUdpcS1wOURvWWZOa080MA?oc=5"
   },
   {
     "source": "Google News - Stock Market",
@@ -319,15 +301,21 @@
   },
   {
     "source": "Google News - Stock Market",
-    "title": "Trump’s Dual Shocks Thwart Bets on Indian Stock Market Rebound - Bloomberg.com",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2J2S2hLd09zZW5WU0lEYWF5Wkc5bUdmV0dIaXB3YVo0cnFzVVc1dC1hNUVoZHpLV0FxWGcyMzJZdzVEY0tUUXA2enhOSTlJTTEyMzF6TXJGRzRyZXk1YnlycFFsNlNQeW5iX0J2bTJTU2ZvZURJcFhCQzF3US1qQVllYkNidEpIYWt6NWstNU9MaXlITDI4Q0N4TGo4b3diS04yTEkxSTB5Z3M3a0ZTMl9OWQ?oc=5\" target=\"_blank\">Trump’s Dual Shocks Thwart Bets on Indian Stock Market Rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2J2S2hLd09zZW5WU0lEYWF5Wkc5bUdmV0dIaXB3YVo0cnFzVVc1dC1hNUVoZHpLV0FxWGcyMzJZdzVEY0tUUXA2enhOSTlJTTEyMzF6TXJGRzRyZXk1YnlycFFsNlNQeW5iX0J2bTJTU2ZvZURJcFhCQzF3US1qQVllYkNidEpIYWt6NWstNU9MaXlITDI4Q0N4TGo4b3diS04yTEkxSTB5Z3M3a0ZTMl9OWQ?oc=5"
+    "title": "Sister Demands Brother Give Her Part of His Stock Market Earnings - People.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMkVzV1RES1BYd2U0U0YwZnRETHhBNm0zWVYtVXNJcERmWm56cWtZSF9OVnZpWk1Tbk4zMXRJUWFHbENqYy1jc2hCQUtQWkVwUDZrbXktTWUyOTYyczlCQ1R5RWVTWHNtMlg1bGp0cEkwUkF5NGZLeWNUbEprZlkyeTNFektXR2lQUm0yVjJfZVBxVG1NVGdpVg?oc=5\" target=\"_blank\">Sister Demands Brother Give Her Part of His Stock Market Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMkVzV1RES1BYd2U0U0YwZnRETHhBNm0zWVYtVXNJcERmWm56cWtZSF9OVnZpWk1Tbk4zMXRJUWFHbENqYy1jc2hCQUtQWkVwUDZrbXktTWUyOTYyczlCQ1R5RWVTWHNtMlg1bGp0cEkwUkF5NGZLeWNUbEprZlkyeTNFektXR2lQUm0yVjJfZVBxVG1NVGdpVg?oc=5"
   },
   {
     "source": "Google News - Stock Market",
-    "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmJRLUpCYW41ZExRUHdnbDNmYlZFRHZ3OGRTbXd6TlVrWE41ZjBCb1IzbjRzOG16YjQ1dURfLUVJenpWSnd3LXV6WFZEMEh2TFlySlozMVFVbUkwN1NXYnBKQTkzX0hWMFoxZy0zTDRaRTBaUDFXa19uRGhXMWVVNzhyMzdQTlhiZm90cWI4RjdTM2Jnc3I1Qmk0YjJmMU5OaE9WVg?oc=5\" target=\"_blank\">5 Things to Know Before the Stock Market Opens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmJRLUpCYW41ZExRUHdnbDNmYlZFRHZ3OGRTbXd6TlVrWE41ZjBCb1IzbjRzOG16YjQ1dURfLUVJenpWSnd3LXV6WFZEMEh2TFlySlozMVFVbUkwN1NXYnBKQTkzX0hWMFoxZy0zTDRaRTBaUDFXa19uRGhXMWVVNzhyMzdQTlhiZm90cWI4RjdTM2Jnc3I1Qmk0YjJmMU5OaE9WVg?oc=5"
+    "title": "Smart Reads of the Week: Dividend Stocks, Blue-Chip Leaders, and Market Rallies - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQendlR3lIYjVPRDFVaW5LUFJiSjhwek5pMXNvajhfYkhxczhGUUdKQ2EwX1g5SHVyUHpzY1lkbnAyY0NLZG9OdF8tVmNBMjFjWEl1QTFaX3E3STBSODFnZlNPa2Uta1BzR3BWVFNWVHVpenBTSWtueHZKeVRVTzZ3RTNVN0Zrajhn?oc=5\" target=\"_blank\">Smart Reads of the Week: Dividend Stocks, Blue-Chip Leaders, and Market Rallies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQendlR3lIYjVPRDFVaW5LUFJiSjhwek5pMXNvajhfYkhxczhGUUdKQ2EwX1g5SHVyUHpzY1lkbnAyY0NLZG9OdF8tVmNBMjFjWEl1QTFaX3E3STBSODFnZlNPa2Uta1BzR3BWVFNWVHVpenBTSWtueHZKeVRVTzZ3RTNVN0Zrajhn?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "Stock Market News Sept. 26, 2025: Dow Rises After Trump Unveils New Tariffs - The Wall Street Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxQYmRYaVF0QlFQOGpncC1odkhrTkgxcjdDSnNmdzR6RUFVUG1Nb2NPTEZIc29jem1BWThEaE4zLXpyNzI4Y2RtT2VNdWxOVWs0dUdKZmFROXY3Y2tBdWtJYjFUNTRpZ0czQ1RQUHZDa21fUTlzSjgxcFdYWnd5MHZHMTQyLXJxeTJ6aXhjNDAyNkVSR2QzdGozbV9HSmpYdjl0eFBSM2pKbGlIWEZxWk15c0dQRTFDVWR4eFJONVpnLXRZZUFoR0thcFlGc0c2dHItOE54WldueWhoOUw1dHE4Z0NPM2FKck9GU092bHV1TzdIbUJwdU9QdC1OanNCaHJkSVlNSE9CSS13ZDNiQU1oSGotX09nbU1IQWZiaVk4Nm9MYVpPU3I4aGduanNUckdLRlNZeGZSaWlSWVJXVXUzMG5nNGZOSWgxeHpwQzlhUWE0S2t6UVFkZExtb2dsc1FxQ2NDUEhzeWViaDZsdC1kbTA2bUJuUlE0c1EzWjB0VTY0OFJTanlfSXNSZXA?oc=5\" target=\"_blank\">Stock Market News Sept. 26, 2025: Dow Rises After Trump Unveils New Tariffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+    "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQYmRYaVF0QlFQOGpncC1odkhrTkgxcjdDSnNmdzR6RUFVUG1Nb2NPTEZIc29jem1BWThEaE4zLXpyNzI4Y2RtT2VNdWxOVWs0dUdKZmFROXY3Y2tBdWtJYjFUNTRpZ0czQ1RQUHZDa21fUTlzSjgxcFdYWnd5MHZHMTQyLXJxeTJ6aXhjNDAyNkVSR2QzdGozbV9HSmpYdjl0eFBSM2pKbGlIWEZxWk15c0dQRTFDVWR4eFJONVpnLXRZZUFoR0thcFlGc0c2dHItOE54WldueWhoOUw1dHE4Z0NPM2FKck9GU092bHV1TzdIbUJwdU9QdC1OanNCaHJkSVlNSE9CSS13ZDNiQU1oSGotX09nbU1IQWZiaVk4Nm9MYVpPU3I4aGduanNUckdLRlNZeGZSaWlSWVJXVXUzMG5nNGZOSWgxeHpwQzlhUWE0S2t6UVFkZExtb2dsc1FxQ2NDUEhzeWViaDZsdC1kbTA2bUJuUlE0c1EzWjB0VTY0OFJTanlfSXNSZXA?oc=5"
   },
   {
     "source": "Google News - Stock Market",
@@ -337,9 +325,15 @@
   },
   {
     "source": "Google News - Stock Market",
-    "title": "Why the stock market's record-breaking rally is stalling out - Business Insider",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZFdKQ05nd09xZ0JxQ0pYVjQ3eVA4dlVFNU9jUlRKM01ocVFzRDBUcWh2NzV0b2xBTGxPWkxyTVJNbU5OQ0d6UTFWeUtoUFd0d25rZXFoUS1nUTBuRmtnYnZtR0tPOUJhQWpZN21aX3RPVGx3OVpiRlNISU5FYm1JX3Fvc3N0TVpCUHlMZmxib2IzbXh1T3Z6UQ?oc=5\" target=\"_blank\">Why the stock market's record-breaking rally is stalling out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZFdKQ05nd09xZ0JxQ0pYVjQ3eVA4dlVFNU9jUlRKM01ocVFzRDBUcWh2NzV0b2xBTGxPWkxyTVJNbU5OQ0d6UTFWeUtoUFd0d25rZXFoUS1nUTBuRmtnYnZtR0tPOUJhQWpZN21aX3RPVGx3OVpiRlNISU5FYm1JX3Fvc3N0TVpCUHlMZmxib2IzbXh1T3Z6UQ?oc=5"
+    "title": "Stock Buyers Step In as Data Keep Fed Bets in Play: Markets Wrap - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0FVSXVDMXlMYVZ0QTVLb2wxd05uTVFBMWlXUzRlVWRiWnlONUE3VHdEODRhZ0ZLQnZ0MEJVYnhVOVBFNXlrN2RkaE9KTzZDQzREQnBvVjcwSTBkX0ZTZG1RMmk3QnlwUExVMlNLdng5QVl6RFFKSWtDMjJReXFqVkNqWWxJNEJiVUY4X3lqNE5wR2Rf?oc=5\" target=\"_blank\">Stock Buyers Step In as Data Keep Fed Bets in Play: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0FVSXVDMXlMYVZ0QTVLb2wxd05uTVFBMWlXUzRlVWRiWnlONUE3VHdEODRhZ0ZLQnZ0MEJVYnhVOVBFNXlrN2RkaE9KTzZDQzREQnBvVjcwSTBkX0ZTZG1RMmk3QnlwUExVMlNLdng5QVl6RFFKSWtDMjJReXFqVkNqWWxJNEJiVUY4X3lqNE5wR2Rf?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "Dow Jones Futures: Market Rebounds, 5 Stocks Eye Buy Points; Tesla Deliveries Due - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEVVbTlPNXQzNHZlTk54UHE2UkZibXFCQ0ZhRFBOTUVidU1NM1VrOEFzQy1aWFRHa1dzaDgyOVZNOEkxbjQ5OWtWelcyNTAzUjlMTFB6aHh6aU02QURVYmloVERGMV8yOUxWTENCZDkwcUhndzhDdVoyRGF4QUl0MHFOSVA5Tl9COGN5NE9KUXQ3N25kcHhpYzBpazQ3X3hWYWpPU1NvWjFnZG9WYmNUVmR5eklnOGZCa3pzR1htZUhvVmxa?oc=5\" target=\"_blank\">Dow Jones Futures: Market Rebounds, 5 Stocks Eye Buy Points; Tesla Deliveries Due</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEVVbTlPNXQzNHZlTk54UHE2UkZibXFCQ0ZhRFBOTUVidU1NM1VrOEFzQy1aWFRHa1dzaDgyOVZNOEkxbjQ5OWtWelcyNTAzUjlMTFB6aHh6aU02QURVYmloVERGMV8yOUxWTENCZDkwcUhndzhDdVoyRGF4QUl0MHFOSVA5Tl9COGN5NE9KUXQ3N25kcHhpYzBpazQ3X3hWYWpPU1NvWjFnZG9WYmNUVmR5eklnOGZCa3pzR1htZUhvVmxa?oc=5"
   },
   {
     "source": "Google News - Stock Market",
@@ -349,9 +343,45 @@
   },
   {
     "source": "Google News - Stock Market",
-    "title": "Investors look to jobs data to support rate-cut path, pricey stock market - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWlZSS1BaXU1UFdoY1FfOG1pdVFjSi00UFJUdWk3Y2w2TjVUVGllWlB2SUxfWGRvY3I1VUVMZEhzdWplYUZYUHZWSnlLQloxSWsyeDQtSVotdldUOWZlb3g3YndHZjBLcFZ5djhfQWJoNVNDZXdBUkgwNWR0eDJWVTRlYkk0TEMtcllzZi1WT2dBblJKYk9VQWVwUS1mTUZxeVVOTXBveWs2NkVvUG8yRWlTU1ZwU2E0TnlEUURIS1E?oc=5\" target=\"_blank\">Investors look to jobs data to support rate-cut path, pricey stock market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWlZSS1BaXU1UFdoY1FfOG1pdVFjSi00UFJUdWk3Y2w2TjVUVGllWlB2SUxfWGRvY3I1VUVMZEhzdWplYUZYUHZWSnlLQloxSWsyeDQtSVotdldUOWZlb3g3YndHZjBLcFZ5djhfQWJoNVNDZXdBUkgwNWR0eDJWVTRlYkk0TEMtcllzZi1WT2dBblJKYk9VQWVwUS1mTUZxeVVOTXBveWs2NkVvUG8yRWlTU1ZwU2E0TnlEUURIS1E?oc=5"
+    "title": "Why the stock market's record-breaking rally is stalling out - Business Insider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZFdKQ05nd09xZ0JxQ0pYVjQ3eVA4dlVFNU9jUlRKM01ocVFzRDBUcWh2NzV0b2xBTGxPWkxyTVJNbU5OQ0d6UTFWeUtoUFd0d25rZXFoUS1nUTBuRmtnYnZtR0tPOUJhQWpZN21aX3RPVGx3OVpiRlNISU5FYm1JX3Fvc3N0TVpCUHlMZmxib2IzbXh1T3Z6UQ?oc=5\" target=\"_blank\">Why the stock market's record-breaking rally is stalling out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZFdKQ05nd09xZ0JxQ0pYVjQ3eVA4dlVFNU9jUlRKM01ocVFzRDBUcWh2NzV0b2xBTGxPWkxyTVJNbU5OQ0d6UTFWeUtoUFd0d25rZXFoUS1nUTBuRmtnYnZtR0tPOUJhQWpZN21aX3RPVGx3OVpiRlNISU5FYm1JX3Fvc3N0TVpCUHlMZmxib2IzbXh1T3Z6UQ?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "What corporate earnings calls reveal about the AI stock rally - CEPR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOdFppMXlFZVlLZXB1VkhORFY2eEJWd1JiQkk0MTVtTTZnbG00d3lZVjZXOU1rYkZTdzgtQXFIcDFhaWRBYUwyUE5NdkVmQ0FycWktR3puWWs4UnlsRm9YOGFZNEwtaXFNLVIyWnF6MFJUSFFTSmY3UmEtV3M3TGtQWFhBNk5sbUwtTjFlcnJOcEtlcjg?oc=5\" target=\"_blank\">What corporate earnings calls reveal about the AI stock rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CEPR</font>",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdFppMXlFZVlLZXB1VkhORFY2eEJWd1JiQkk0MTVtTTZnbG00d3lZVjZXOU1rYkZTdzgtQXFIcDFhaWRBYUwyUE5NdkVmQ0FycWktR3puWWs4UnlsRm9YOGFZNEwtaXFNLVIyWnF6MFJUSFFTSmY3UmEtV3M3TGtQWFhBNk5sbUwtTjFlcnJOcEtlcjg?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "The Stock Market Is Historically Pricey: Here's Why You Can Trust Netflix to Deliver - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQOU11SVU3UDZhbUdtV0RYckJXcFdxQTZ5dUpPcS1ReklrSy10NzRnSEFaNHlzRU1MTEFrMlpzRGRQbk12Ymh6Z3kwNUp1aFZZTWhCbWo4cVg0OXZxODRqa1V6MFZnRVpHclhOejI3TzV3Z2FmYVN1N3k2YTdxcWI5MUk0WE9sbWFUWFUyUQ?oc=5\" target=\"_blank\">The Stock Market Is Historically Pricey: Here's Why You Can Trust Netflix to Deliver</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOU11SVU3UDZhbUdtV0RYckJXcFdxQTZ5dUpPcS1ReklrSy10NzRnSEFaNHlzRU1MTEFrMlpzRGRQbk12Ymh6Z3kwNUp1aFZZTWhCbWo4cVg0OXZxODRqa1V6MFZnRVpHclhOejI3TzV3Z2FmYVN1N3k2YTdxcWI5MUk0WE9sbWFUWFUyUQ?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmJRLUpCYW41ZExRUHdnbDNmYlZFRHZ3OGRTbXd6TlVrWE41ZjBCb1IzbjRzOG16YjQ1dURfLUVJenpWSnd3LXV6WFZEMEh2TFlySlozMVFVbUkwN1NXYnBKQTkzX0hWMFoxZy0zTDRaRTBaUDFXa19uRGhXMWVVNzhyMzdQTlhiZm90cWI4RjdTM2Jnc3I1Qmk0YjJmMU5OaE9WVg?oc=5\" target=\"_blank\">5 Things to Know Before the Stock Market Opens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmJRLUpCYW41ZExRUHdnbDNmYlZFRHZ3OGRTbXd6TlVrWE41ZjBCb1IzbjRzOG16YjQ1dURfLUVJenpWSnd3LXV6WFZEMEh2TFlySlozMVFVbUkwN1NXYnBKQTkzX0hWMFoxZy0zTDRaRTBaUDFXa19uRGhXMWVVNzhyMzdQTlhiZm90cWI4RjdTM2Jnc3I1Qmk0YjJmMU5OaE9WVg?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "If the stock market’s 3-day drop freaked you out, ‘you’re taking too much risk’ - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnRhd0RGNlZMamVSY01oRzIxVUpZdWhHdlU1NHJtQ01acWxxRlM0NTE0dFRVNVMyVHdjSGJUckppV0daQ2xpWFc4ZnJjRVZSdW9uSUJ2SDQ1RWJ5U0w4Vnh3OFRjeTlseDFrVmRqRW5ONlA4XzVfS0hhRTRQWTcyNHRrQVlrR0Y2WmJqV0hrTnF0VmwtZTl2dVpiNmY3SERKcmpNajRYa0JYMmNOMjE4TVlxdGR0M3lK?oc=5\" target=\"_blank\">If the stock market’s 3-day drop freaked you out, ‘you’re taking too much risk’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnRhd0RGNlZMamVSY01oRzIxVUpZdWhHdlU1NHJtQ01acWxxRlM0NTE0dFRVNVMyVHdjSGJUckppV0daQ2xpWFc4ZnJjRVZSdW9uSUJ2SDQ1RWJ5U0w4Vnh3OFRjeTlseDFrVmRqRW5ONlA4XzVfS0hhRTRQWTcyNHRrQVlrR0Y2WmJqV0hrTnF0VmwtZTl2dVpiNmY3SERKcmpNajRYa0JYMmNOMjE4TVlxdGR0M3lK?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq slide for 3rd day as Wall Street slump continues - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcmg2NGU3ODhRanJZNXFLODAxdDZFZTJxalR6ZFB3RDQ2V2YxdTlrbTZ0RmVWM0dwT2Z4RWdlemh1OGJwal9UakRMYW95RXplUG5NSFFJZ0VJS05XMFlycnlZRXIzbE5jZnhmdlRBQ0tVRmpyXzRGdnAtWnpyUS1xek9mSk5SVEhrXzVvRkxrSThWSjJRalY4VTExUXBjbC1VdXdXZXdwdC1Rb19PcThGQm9qTWZBRzJ0REN0N1JhNHhabzJLbWxpMTRTazB5OWJYbVE?oc=5\" target=\"_blank\">Stock market today: Dow, S&amp;P 500, Nasdaq slide for 3rd day as Wall Street slump continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcmg2NGU3ODhRanJZNXFLODAxdDZFZTJxalR6ZFB3RDQ2V2YxdTlrbTZ0RmVWM0dwT2Z4RWdlemh1OGJwal9UakRMYW95RXplUG5NSFFJZ0VJS05XMFlycnlZRXIzbE5jZnhmdlRBQ0tVRmpyXzRGdnAtWnpyUS1xek9mSk5SVEhrXzVvRkxrSThWSjJRalY4VTExUXBjbC1VdXdXZXdwdC1Rb19PcThGQm9qTWZBRzJ0REN0N1JhNHhabzJLbWxpMTRTazB5OWJYbVE?oc=5"
+  },
+  {
+    "source": "Google News - Stock Market",
+    "title": "Stocks close lower for a third day as once-hot AI play Oracle falls, yields increase - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB0MUF4VHpvVUhlVVFrYWk2RGhmV1paX0pRTkhsRFpKTFVBNEptOTloYnp1T1FPSnNnS3Y3aUs0XzhWODk5WnlEanhNYnFFQ2ZJbHhla3duSGdoRVNCdTZYX2VxSXhMczR6TEo5RXAtYlV5Z3NxWTRr0gF8QVVfeXFMUEtNcHQyR1h2ZUFwWnNzQkIxV29wVkNtSGlkUjVYQ3d2UW10NE93S0tUR0J2LUNIejh3dmJKTERtaFRycTcwejBkOFZEOWJiaDVIOEdEYThudmlDc3phVHFYclJxVFUxTXNBNlU1Um4yOTJERXBDZUwzSkFKNg?oc=5\" target=\"_blank\">Stocks close lower for a third day as once-hot AI play Oracle falls, yields increase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0MUF4VHpvVUhlVVFrYWk2RGhmV1paX0pRTkhsRFpKTFVBNEptOTloYnp1T1FPSnNnS3Y3aUs0XzhWODk5WnlEanhNYnFFQ2ZJbHhla3duSGdoRVNCdTZYX2VxSXhMczR6TEo5RXAtYlV5Z3NxWTRr0gF8QVVfeXFMUEtNcHQyR1h2ZUFwWnNzQkIxV29wVkNtSGlkUjVYQ3d2UW10NE93S0tUR0J2LUNIejh3dmJKTERtaFRycTcwejBkOFZEOWJiaDVIOEdEYThudmlDc3phVHFYclJxVFUxTXNBNlU1Um4yOTJERXBDZUwzSkFKNg?oc=5"
   },
   {
     "source": "Google News - Stock Market",
@@ -361,56 +391,20 @@
   },
   {
     "source": "Google News - Stock Market",
-    "title": "Stock market today: Dow, S&P 500, Nasdaq rise as PCE inflation data meets expectations - Yahoo Finance",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQa1o5LTk2ZUZqYWtIamxJZkJVZjd3ejRhY2Y3MmdKTU1BNnF5REplOUhBVkhicXZQZ3RXbm1xX3VQRkFaa1ZMYjNTbWIyUG1Bckx0YUF1c1VVV0xUNTJ2NnpCNmNJd2dXZ29FU1RrUTlDYThSM2tQbnU3UXBhUVZxU3RTQkhKZ2FBQ1J1NHc5T2RCWl9XeWUyVkJGXzdQb25EQlZMeF9TbFZrMHJiQmNOenNBYkFkUk5ubkZqT0cwOFVzcWtoU2p4aUtnMXFnQQ?oc=5\" target=\"_blank\">Stock market today: Dow, S&amp;P 500, Nasdaq rise as PCE inflation data meets expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa1o5LTk2ZUZqYWtIamxJZkJVZjd3ejRhY2Y3MmdKTU1BNnF5REplOUhBVkhicXZQZ3RXbm1xX3VQRkFaa1ZMYjNTbWIyUG1Bckx0YUF1c1VVV0xUNTJ2NnpCNmNJd2dXZ29FU1RrUTlDYThSM2tQbnU3UXBhUVZxU3RTQkhKZ2FBQ1J1NHc5T2RCWl9XeWUyVkJGXzdQb25EQlZMeF9TbFZrMHJiQmNOenNBYkFkUk5ubkZqT0cwOFVzcWtoU2p4aUtnMXFnQQ?oc=5"
+    "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzJBTVRFNHk3bzh5LW8xdXJpWUlkZk4zSHkzdkhzc29vdEN1ME5HRFY2aW9LcF9iMGM3N2p5cXRUTDEyMFpBTFo1ZGV2S3RtR3h6N1p0YkZ4UkJCaEJvNjFmYWRISE01Sk10b0ljUUZ2cXBmY1FYU083RklHcjZuOGtJX0VDTXR5RkRudEZHRm8zRlVJMmxRdUtCc0U0SV80QjlicQ?oc=5\" target=\"_blank\">5 Things to Know Before the Stock Market Opens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzJBTVRFNHk3bzh5LW8xdXJpWUlkZk4zSHkzdkhzc29vdEN1ME5HRFY2aW9LcF9iMGM3N2p5cXRUTDEyMFpBTFo1ZGV2S3RtR3h6N1p0YkZ4UkJCaEJvNjFmYWRISE01Sk10b0ljUUZ2cXBmY1FYU083RklHcjZuOGtJX0VDTXR5RkRudEZHRm8zRlVJMmxRdUtCc0U0SV80QjlicQ?oc=5"
   },
   {
     "source": "Google News - Stock Market",
-    "title": "Stock Market on Sept. 26, 2025: Dow, S&P 500, tech-heavy Nasdaq end higher as investors weigh PCE inflation report; U.S. stocks book weekly losses - MarketWatch",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNZk9WYzE2Q2puamYyc284RVZWOGZReEtrTUVybmN0ZURnY1AwVHd3NjVIZHg4WU1wbzdmZFJ1SGpzY2wyRWJsYWJOUmh2NFVpa0I3SDB6OFNzUFJ6WG03QUlOaGczMnhUU1RHcTByNmtiWVFWZXZqQU1hUVVTdzdVbmkybGxCVDViMkRRSVIyQXhsaEdmRUdHbWtYR0RsVHlXSkhXM2hvQ0dyYVgwckFBd0RfU19pZE1lSDU3cXlB?oc=5\" target=\"_blank\">Stock Market on Sept. 26, 2025: Dow, S&amp;P 500, tech-heavy Nasdaq end higher as investors weigh PCE inflation report; U.S. stocks book weekly losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZk9WYzE2Q2puamYyc284RVZWOGZReEtrTUVybmN0ZURnY1AwVHd3NjVIZHg4WU1wbzdmZFJ1SGpzY2wyRWJsYWJOUmh2NFVpa0I3SDB6OFNzUFJ6WG03QUlOaGczMnhUU1RHcTByNmtiWVFWZXZqQU1hUVVTdzdVbmkybGxCVDViMkRRSVIyQXhsaEdmRUdHbWtYR0RsVHlXSkhXM2hvQ0dyYVgwckFBd0RfU19pZE1lSDU3cXlB?oc=5"
+    "title": "Stocks close higher Friday after in-line inflation data, but S&P 500 snaps 3-week winning streak - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBjaUJvZVVRd3R6azFXQ3hNY1dWMzIwU2JwX2UxMl96LWtrWWNmTHFoUVVxbW43MDZRZXFrOTVLajdyWm5jbWRPbHNHRFlqNU9iVVlIcFlEelZSWC00ellOdmZDd3FpaVJqaU1RY29yTWFOdENiSUEw0gF8QVVfeXFMT0tTdHEtMy1EdWwtUFVDdUhnWkphUFZLdEVoX2c2N2hVcHI5QkRCTkZDdzZBUV90TTJPRGF3LUhhWHBBSWtldU9kazc4ejdzY1hNUHVEMjJGZzQ0RWFhaHFna2lsdFM1SjJjVkZWLU8wakZsN1hzenM4c01qQg?oc=5\" target=\"_blank\">Stocks close higher Friday after in-line inflation data, but S&amp;P 500 snaps 3-week winning streak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjaUJvZVVRd3R6azFXQ3hNY1dWMzIwU2JwX2UxMl96LWtrWWNmTHFoUVVxbW43MDZRZXFrOTVLajdyWm5jbWRPbHNHRFlqNU9iVVlIcFlEelZSWC00ellOdmZDd3FpaVJqaU1RY29yTWFOdENiSUEw0gF8QVVfeXFMT0tTdHEtMy1EdWwtUFVDdUhnWkphUFZLdEVoX2c2N2hVcHI5QkRCTkZDdzZBUV90TTJPRGF3LUhhWHBBSWtldU9kazc4ejdzY1hNUHVEMjJGZzQ0RWFhaHFna2lsdFM1SjJjVkZWLU8wakZsN1hzenM4c01qQg?oc=5"
   },
   {
     "source": "Google News - Stock Market",
-    "title": "Stock Market Today : Dow Gains +0.33% ; S&P 500 and Nasdaq Fall ; - Eurasia Business News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQNm03d3BRUVBIZTA0dlBkT1I3STZ4TGgwcko3cmxBNTZJbmpQd3hsS3dwbF9QamtvRjY1Z0xFU3hpOWtLM1R6QVRWZU90OWpkNXNFZDI0V0dZRDVoSWowejAzTDZmYTc2NTFSWUZSWlcwUUZPaExYcWk3RHBnS0tpVUoyNkFvZHVjbU9yc2tiTDV4enkxTXZVZHNLTkVwMU40Wmc?oc=5\" target=\"_blank\">Stock Market Today : Dow Gains +0.33% ; S&amp;P 500 and Nasdaq Fall ;</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eurasia Business News</font>",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNm03d3BRUVBIZTA0dlBkT1I3STZ4TGgwcko3cmxBNTZJbmpQd3hsS3dwbF9QamtvRjY1Z0xFU3hpOWtLM1R6QVRWZU90OWpkNXNFZDI0V0dZRDVoSWowejAzTDZmYTc2NTFSWUZSWlcwUUZPaExYcWk3RHBnS0tpVUoyNkFvZHVjbU9yc2tiTDV4enkxTXZVZHNLTkVwMU40Wmc?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "Stock Buyers Step In as Data Keep Fed Bets in Play: Markets Wrap - Bloomberg.com",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0FVSXVDMXlMYVZ0QTVLb2wxd05uTVFBMWlXUzRlVWRiWnlONUE3VHdEODRhZ0ZLQnZ0MEJVYnhVOVBFNXlrN2RkaE9KTzZDQzREQnBvVjcwSTBkX0ZTZG1RMmk3QnlwUExVMlNLdng5QVl6RFFKSWtDMjJReXFqVkNqWWxJNEJiVUY4X3lqNE5wR2Rf?oc=5\" target=\"_blank\">Stock Buyers Step In as Data Keep Fed Bets in Play: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0FVSXVDMXlMYVZ0QTVLb2wxd05uTVFBMWlXUzRlVWRiWnlONUE3VHdEODRhZ0ZLQnZ0MEJVYnhVOVBFNXlrN2RkaE9KTzZDQzREQnBvVjcwSTBkX0ZTZG1RMmk3QnlwUExVMlNLdng5QVl6RFFKSWtDMjJReXFqVkNqWWxJNEJiVUY4X3lqNE5wR2Rf?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "Stock market participation and financial education in the digital age - CEPR",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxORDdXQ1ZmbzlaSEVHS0dOWFNSaF9yV2drX2xfdkY1RTlVTFhkSFpoSGZDRjM2LXl5QVJyY2RhM3piR3JQX3dOamd5cGNteGJ0d1JDOHQtSGtiejZDNmZtYzJ4LXdEWHRVcTJ3YUpHS3A0UGJUWG5yLXM0RWpSM19jcDFiWGpRcHBWUHZZdlY1QmVnc0xaMlBCMA?oc=5\" target=\"_blank\">Stock market participation and financial education in the digital age</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CEPR</font>",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORDdXQ1ZmbzlaSEVHS0dOWFNSaF9yV2drX2xfdkY1RTlVTFhkSFpoSGZDRjM2LXl5QVJyY2RhM3piR3JQX3dOamd5cGNteGJ0d1JDOHQtSGtiejZDNmZtYzJ4LXdEWHRVcTJ3YUpHS3A0UGJUWG5yLXM0RWpSM19jcDFiWGpRcHBWUHZZdlY1QmVnc0xaMlBCMA?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "For Investors, Government Shutdowns Haven’t Mattered. Is This Time Different? - The New York Times",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPXzVnZ2tWTGhfSFg4NE5lbkFnT25GZ2liM1BRRFhXcHZJc0N6ZGdOT2NiSE4tZ1R6Z2x5ZDdQaXFrYzlwRVVGRXpiV21vb29GOEI3d1hjb01oQ0RST2tmNWJFcDdnMFhpRzlSZ2w0bmlEeVJ1ZGpPczY1TFZXbEtLZQ?oc=5\" target=\"_blank\">For Investors, Government Shutdowns Haven’t Mattered. Is This Time Different?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPXzVnZ2tWTGhfSFg4NE5lbkFnT25GZ2liM1BRRFhXcHZJc0N6ZGdOT2NiSE4tZ1R6Z2x5ZDdQaXFrYzlwRVVGRXpiV21vb29GOEI3d1hjb01oQ0RST2tmNWJFcDdnMFhpRzlSZ2w0bmlEeVJ1ZGpPczY1TFZXbEtLZQ?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "Wall Street ends streak of weekly gains, yields rise as investors digest data - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5lT0dXQmpLTDlJa181TFBMT1I5cUdaVm5yNWVjU1gwZTdfeUNrWUMzd2U4eW9NSzdUSm5PZXh1U2k3clFYQ29NS2oxOW44aEU3RWFTN0RqampxeG5TX1hHSHVJQmR5eC1tS1V2UDRnRkJkRTZqV2R6cThvYw?oc=5\" target=\"_blank\">Wall Street ends streak of weekly gains, yields rise as investors digest data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lT0dXQmpLTDlJa181TFBMT1I5cUdaVm5yNWVjU1gwZTdfeUNrWUMzd2U4eW9NSzdUSm5PZXh1U2k3clFYQ29NS2oxOW44aEU3RWFTN0RqampxeG5TX1hHSHVJQmR5eC1tS1V2UDRnRkJkRTZqV2R6cThvYw?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "Is the US stock market going to crash? Here’s what the Warren Buffett indicator says - Yahoo",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3h6emZCcU1OdDZCQjZTZ1lBNkZiWTFuMk5rNXJRQllZeVZCRS04cUpXSkdfOU1GQlpVSWlhMlRXRVdOMS1ULVp4eWx6bmhtRUUxZ0xDSFVCdFNadGJ6aW55ZmJnV3IxNF8yd0tDc1R2UXhOY0FadlZFMl9zN2F2amN3?oc=5\" target=\"_blank\">Is the US stock market going to crash? Here’s what the Warren Buffett indicator says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3h6emZCcU1OdDZCQjZTZ1lBNkZiWTFuMk5rNXJRQllZeVZCRS04cUpXSkdfOU1GQlpVSWlhMlRXRVdOMS1ULVp4eWx6bmhtRUUxZ0xDSFVCdFNadGJ6aW55ZmJnV3IxNF8yd0tDc1R2UXhOY0FadlZFMl9zN2F2amN3?oc=5"
-  },
-  {
-    "source": "Google News - Stock Market",
-    "title": "How does the U.S. stock market typically react to a government shutdown? - CNBC",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOTFZ0bGwtcTRiODNwVy1yXzhqMHVLUGRxLVF1NnEzNGFXcHNpT3I4dHIwY18xclZnVVV1WnMzWTFYT2dRWVNWZWFiZDdzb0VCcVBJeW92TnRwNFpVM25UZlQ4b2x4aVVHbERnY1FfT2xCTV9yS2dQQTBDRDluRnNZQmx3?oc=5\" target=\"_blank\">How does the U.S. stock market typically react to a government shutdown?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTFZ0bGwtcTRiODNwVy1yXzhqMHVLUGRxLVF1NnEzNGFXcHNpT3I4dHIwY18xclZnVVV1WnMzWTFYT2dRWVNWZWFiZDdzb0VCcVBJeW92TnRwNFpVM25UZlQ4b2x4aVVHbERnY1FfT2xCTV9yS2dQQTBDRDluRnNZQmx3?oc=5"
+    "title": "Stock market today: Dow, S&P 500, Nasdaq fall amid sharp GDP expansion, jobless claims dip - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOHkxYkhtOHhDMzJwVGlxUzdwZk1fZ1FwaEZxR0tOVm1fMFRfZUhxR1lOb3p3S0l5czQxS2toTVFwTDBqVGlpZ1hyRl8tcW40eW1sX0xZelNVS0xxalRia0ZmbDlBLVNLbUdwTFFla19kTkdtUEY0LVM1b1FNRzVlN28xblAzZ1ZJM1FFNGFIRHEzQm0xaUw4QjNqVHplZkRQcUU4bVYtWTBWbmpnT3RuS0x5Vmk5czZ4bFRFQUVySC1KeVhZLVRYcTdQSXVFWldDcEE?oc=5\" target=\"_blank\">Stock market today: Dow, S&amp;P 500, Nasdaq fall amid sharp GDP expansion, jobless claims dip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOHkxYkhtOHhDMzJwVGlxUzdwZk1fZ1FwaEZxR0tOVm1fMFRfZUhxR1lOb3p3S0l5czQxS2toTVFwTDBqVGlpZ1hyRl8tcW40eW1sX0xZelNVS0xxalRia0ZmbDlBLVNLbUdwTFFla19kTkdtUEY0LVM1b1FNRzVlN28xblAzZ1ZJM1FFNGFIRHEzQm0xaUw4QjNqVHplZkRQcUU4bVYtWTBWbmpnT3RuS0x5Vmk5czZ4bFRFQUVySC1KeVhZLVRYcTdQSXVFWldDcEE?oc=5"
   }
 ]
