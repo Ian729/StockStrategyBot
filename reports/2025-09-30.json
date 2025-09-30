@@ -1,0 +1,26 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 700,
+        "reason": "uptrend persists, AI optimism, big tech strength"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 600,
+        "reason": "trend strong, Asian equities rising ahead of RBA"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 600,
+        "reason": "continues uptrend; tech sector driving gains"
+    },
+    {
+        "target": "Gold",
+        "action": "invest",
+        "amount": 800,
+        "reason": "record highs; safe haven ahead of US shutdown risk"
+    }
+]
