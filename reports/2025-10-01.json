@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Trend up but shutdown risk"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "Strong upward momentum, resilient to US risks"},
+    {"target": "S&P 500", "action": "hold", "reason": "Trend up but US shutdown uncertainty"},
+    {"target": "Gold", "action": "invest", "amount": 700, "reason": "All-time highs and safe haven in uncertainty"}
+]
