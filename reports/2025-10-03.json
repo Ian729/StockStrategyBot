@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 600, "reason": "all-time highs, strong tech sector momentum"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 400, "reason": "trend up, chip sector boost from AI"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "bullish sentiment and AI optimism"},
+    {"target": "Gold", "action": "hold", "reason": "trend up, but no strong catalyst beyond shutdown risk"}
+]
