@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "tech volatility despite strong general market"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 800, "reason": "strong uptrend and positive AI/chip sector news"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "record highs, general bullish sentiment"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "safe haven demand rising with shutdown"}
+]
