@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 650, "reason": "trend up, AI optimism, dip buy opportunity"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "trend up, Japanese stocks seen as cheap"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "trend up, bull momentum, record highs"},
+    {"target": "Gold", "action": "invest", "amount": 800, "reason": "surging prices, strong investor demand"}
+]
