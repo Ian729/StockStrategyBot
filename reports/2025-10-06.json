@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "tech optimism, strong uptrend, Nvidia buy zone"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "market rally, political stability, fiscal stimulus hopes"},
+    {"target": "S&P 500", "action": "invest", "amount": 500, "reason": "record highs, resilient despite shutdown"},
+    {"target": "Gold", "action": "invest", "amount": 1000, "reason": "safe haven, strong uptrend, retail & institutional demand"}
+]
