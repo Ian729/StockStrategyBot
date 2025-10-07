@@ -1,0 +1,26 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 900,
+        "reason": "AI-related rally, new record high"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 750,
+        "reason": "Surged 5%, optimism after PM change"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 800,
+        "reason": "All-time high on AI deals"
+    },
+    {
+        "target": "Gold",
+        "action": "invest",
+        "amount": 600,
+        "reason": "Safe haven demand amid US, France crises"
+    }
+]
