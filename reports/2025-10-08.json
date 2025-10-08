@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend up but tech volatility; Oracle news raises caution"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "strong uptrend and positive China growth forecast"},
+    {"target": "S&P 500", "action": "hold", "reason": "recent pullback and volatility despite uptrend"},
+    {"target": "Gold", "action": "invest", "amount": 900, "reason": "record highs, safe haven demand, and bullish analyst outlook"}
+]
