@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 900, "reason": "AI optimism, record highs, strong uptrend"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "Uptrend, rising China demand, World Bank forecast raised"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "Record highs, Fed rate cut outlook, ongoing rally"},
+    {"target": "Gold", "action": "hold", "reason": "Overbought, profit-taking, but strong safe-haven demand"}
+]
