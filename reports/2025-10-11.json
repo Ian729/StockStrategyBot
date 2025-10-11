@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Recent sharp drop due to tariff news; volatility likely"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Uptrend but global risk from trade war"},
+    {"target": "S&P 500", "action": "hold", "reason": "Market turmoil amid tariff headlines"},
+    {"target": "Gold", "action": "invest", "amount": 900, "reason": "Surging on risk, inflation hedge, positive exploration news"}
+]
