@@ -1,0 +1,24 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "hold",
+        "reason": "Sharp uptrend but high volatility and tariff threats spook markets"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 500,
+        "reason": "Uptrend and less direct impact from US-China tariffs"
+    },
+    {
+        "target": "S&P 500",
+        "action": "sell",
+        "reason": "Tariff threats and analyst warnings despite positive earnings"
+    },
+    {
+        "target": "Gold",
+        "action": "invest",
+        "amount": 1000,
+        "reason": "Safe haven demand, strong uptrend, dollar weakness, Middle East risk"
+    }
+]
