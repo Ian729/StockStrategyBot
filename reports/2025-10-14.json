@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "AI tech surge and strong rebound"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "continued uptrend"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "market rebound, positive earnings"},
+    {"target": "Gold", "action": "invest", "amount": 1000, "reason": "bullish news, higher price forecast"}
+]
