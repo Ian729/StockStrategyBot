@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "recent volatility, AI bubble concerns"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 300, "reason": "strong uptrend, robot sector optimism"},
+    {"target": "S&P 500", "action": "invest", "amount": 400, "reason": "uptrend, bank earnings boost"},
+    {"target": "Gold", "action": "invest", "amount": 800, "reason": "record demand, Fed rate cut signal"}
+]
