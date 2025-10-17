@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Uptrend but banking fears may spur volatility"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "Strong uptrend, less exposure to US banking risk"},
+    {"target": "S&P 500", "action": "hold", "reason": "Uptrend offset by increased US regional bank worries"},
+    {"target": "Gold", "action": "invest", "amount": 1000, "reason": "Safe-haven demand and record highs"}
+]
