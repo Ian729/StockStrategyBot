@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 600, "reason": "Bull market, earnings optimism, tech leadership"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 400, "reason": "Uptrend, positive sentiment, AI growth"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "Trend up, strong earnings, eased China fears"},
+    {"target": "Gold", "action": "hold", "reason": "Overheated; analyst caution despite uptrend"}
+]
