@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 600, "reason": "uptrend, bullish analyst outlook"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 400, "reason": "uptrend, renewed support"},
+    {"target": "S&P 500", "action": "invest", "amount": 500, "reason": "strong earnings, constructive medium-term outlook"},
+    {"target": "Gold", "action": "hold", "reason": "rally may be overheated, safe-haven appeal easing"}
+]
