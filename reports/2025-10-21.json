@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "Momentum, strong earnings, tech optimism"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "Wall St rally supports Asian markets"},
+    {"target": "S&P 500", "action": "invest", "amount": 900, "reason": "Record highs, broad sector gains"},
+    {"target": "Gold", "action": "invest", "amount": 700, "reason": "New peak, strong safe-haven demand"}
+]
