@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "strong uptrend, positive tech earnings"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "BOJ warns of market overheating"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "bullish sentiment, new highs, strong earnings"},
+    {"target": "Gold", "action": "sell", "reason": "ETF outflows and technical analysis points to downside"}
+]
