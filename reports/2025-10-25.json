@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "Record highs and strong tech momentum"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "BOJ warns of overheating despite uptrend"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "Record highs, positive inflation news"},
+    {"target": "Gold", "action": "hold", "reason": "Steady output, hedge demand but no clear bullish catalyst"}
+]
