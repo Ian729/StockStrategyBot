@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 450, "reason": "trend up, positive tech and AI sentiment"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "BOJ warns overheating"},
+    {"target": "S&P 500", "action": "invest", "amount": 350, "reason": "trend up, US stocks hitting records"},
+    {"target": "Gold", "action": "hold", "reason": "recent price crash, mixed sentiment"}
+]
