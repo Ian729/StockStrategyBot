@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 600, "reason": "uptrend, trade deal optimism, major earnings"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "uptrend, Japan stocks hit record levels"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "uptrend, rate cut hopes, positive earnings"},
+    {"target": "Gold", "action": "hold", "reason": "pullback as risk appetite rises, but central banks support"}
+]
