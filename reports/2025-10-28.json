@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 750, "reason": "Strong rally; AI tech and positive earnings"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "Uptrend and US-Japan alliance news"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "Record highs; US-China trade optimism"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "Trend up; market concentration risk"}
+]
