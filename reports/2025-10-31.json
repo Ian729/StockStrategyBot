@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 400, "reason": "Tech rebound on Apple/Amazon earnings"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 300, "reason": "Uptrend; positive sentiment from US-China summit"},
+    {"target": "S&P 500", "action": "hold", "reason": "Mixed tech results, volatile but overall positive"},
+    {"target": "Gold", "action": "hold", "reason": "Recent rally, some suggest rebalancing after surge"}
+]
