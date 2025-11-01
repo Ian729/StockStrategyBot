@@ -1,0 +1,25 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 800,
+        "reason": "New 7-year highs, Amazon/tech rally, strong earnings"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 650,
+        "reason": "Strong upward trend, global rally, trade optimism"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 750,
+        "reason": "Earnings optimism, Amazon boost, rate cut support"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Price up, but large rally may prompt consolidation"
+    }
+]
