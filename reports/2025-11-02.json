@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "tech earnings strong, positive momentum"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "uptrend, optimism on China sentiment"},
+    {"target": "S&P 500", "action": "hold", "reason": "rally but value concerns, mixed sector results"},
+    {"target": "Gold", "action": "hold", "reason": "recent rally, analyst urge caution"}
+]
