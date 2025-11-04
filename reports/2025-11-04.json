@@ -1,0 +1,25 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Strong tech gains, Amazon-OpenAI deal, positive trend"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 500,
+        "reason": "Upward momentum, favorable Asian market sentiment"
+    },
+    {
+        "target": "S&P 500",
+        "action": "hold",
+        "reason": "Uptrend but mixed macro news and correction risks"
+    },
+    {
+        "target": "Gold",
+        "action": "invest",
+        "amount": 400,
+        "reason": "Long-term bullish technicals, uptrend continues"
+    }
+]
