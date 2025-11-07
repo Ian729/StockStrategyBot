@@ -1,0 +1,24 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "hold",
+        "reason": "Trend up but tech valuations and AI sector jitters create uncertainty"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 800,
+        "reason": "Strong uptrend with little negative news"
+    },
+    {
+        "target": "S&P 500",
+        "action": "hold",
+        "reason": "Uptrend but jobs worries and broad valuation concerns persist"
+    },
+    {
+        "target": "Gold",
+        "action": "invest",
+        "amount": 600,
+        "reason": "Rising price and safe haven appeal amid US economic worries"
+    }
+]
