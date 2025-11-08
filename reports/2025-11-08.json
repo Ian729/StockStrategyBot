@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Tech valuation worries, worst week since April"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "strong uptrend, no negative news"},
+    {"target": "S&P 500", "action": "hold", "reason": "Volatile but eked gains, mixed sentiment"},
+    {"target": "Gold", "action": "hold", "reason": "Uptrend but analysts signal possible peak"}
+]
