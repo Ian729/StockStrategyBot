@@ -1,0 +1,25 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "hold",
+        "reason": "Despite uptrend, tech and AI stocks showed volatility and recent declines"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Strong uptrend and no negative news; local market momentum"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 600,
+        "reason": "Uptrend and historical event suggests double-digit upside likely"
+    },
+    {
+        "target": "Gold",
+        "action": "invest",
+        "amount": 900,
+        "reason": "Gold companies outperforming; rising gold prices and safe-haven demand"
+    }
+]
