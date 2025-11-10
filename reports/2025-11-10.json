@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "trend up, AI optimism remains strong"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "trend up, strong global equity momentum"},
+    {"target": "S&P 500", "action": "invest", "amount": 900, "reason": "trend up, government shutdown nearing end"},
+    {"target": "Gold", "action": "hold", "reason": "trend up but risk appetite returning to equities"}
+]
