@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 950, "reason": "AI surge, shutdown optimism, strong rebound"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "trend up, China AI earnings positive"},
+    {"target": "S&P 500", "action": "invest", "amount": 900, "reason": "shutdown nearing end, strong earnings season"},
+    {"target": "Gold", "action": "invest", "amount": 800, "reason": "trend up, safe haven on shutdown resolution"}
+]
