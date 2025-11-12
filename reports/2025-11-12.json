@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Tech volatility and high valuations persist"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "Strong upward momentum, supported by AI-related growth"},
+    {"target": "S&P 500", "action": "invest", "amount": 400, "reason": "Positive trend, broad market rally"},
+    {"target": "Gold", "action": "hold", "reason": "Mixed signals: rate cut prospects vs ETF outflows"}
+]
