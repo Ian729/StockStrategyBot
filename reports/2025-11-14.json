@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend up but increased volatility and tech sell-off"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "strong uptrend with less US tech exposure"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend up but Fed uncertainty and profit taking"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "rebounded, high demand, hedge against uncertainty"}
+]
