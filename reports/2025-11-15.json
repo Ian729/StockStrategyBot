@@ -1,0 +1,25 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 500,
+        "reason": "Tech sector rebounded; positive momentum ahead of Nvidia results"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 400,
+        "reason": "Uptrend continues; resilient despite global volatility"
+    },
+    {
+        "target": "S&P 500",
+        "action": "hold",
+        "reason": "Flat close; mixed signals and Fed rate-cut doubts"
+    },
+    {
+        "target": "Gold",
+        "action": "invest",
+        "amount": 300,
+        "reason": "Rising gold prices and strong mining earnings indicate strength"
+    }
+]
