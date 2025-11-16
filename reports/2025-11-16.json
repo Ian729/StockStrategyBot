@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 400, "reason": "tech rebound, positive trend after recent volatility"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "strong upward momentum continues"},
+    {"target": "S&P 500", "action": "hold", "reason": "mixed signals, volatile week with Fed uncertainty"},
+    {"target": "Gold", "action": "invest", "amount": 300, "reason": "optimism amid revenue growth and price surge"}
+]
