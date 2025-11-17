@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 650, "reason": "Trend up, positive tech sentiment, Google/Nvidia focus"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 400, "reason": "Strong uptrend, foreign investor return"},
+    {"target": "S&P 500", "action": "hold", "reason": "Trend up but some volatility, Fed uncertainty"},
+    {"target": "Gold", "action": "hold", "reason": "Strong rally, but analysts showing caution"}
+]
