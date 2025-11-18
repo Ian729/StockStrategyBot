@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Trend is up but uncertainty ahead of Nvidia earnings"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 400, "reason": "Strong upward trend and positive momentum"},
+    {"target": "S&P 500", "action": "hold", "reason": "Upward trend but volatility and caution on earnings"},
+    {"target": "Gold", "action": "invest", "amount": 300, "reason": "Uptrend amid market volatility"}
+]
