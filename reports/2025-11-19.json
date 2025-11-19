@@ -1,0 +1,23 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "sell",
+        "reason": "Tech sell-off, AI bubble fears, Nvidia uncertainty despite uptrend"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "hold",
+        "reason": "Uptrend but global risk-off sentiment and Nvidia event risk"
+    },
+    {
+        "target": "S&P 500",
+        "action": "sell",
+        "reason": "Bearish signals, valuation worries, 4th consecutive down day"
+    },
+    {
+        "target": "Gold",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Safe haven demand as risk appetite sours and market jitters persist"
+    }
+]
