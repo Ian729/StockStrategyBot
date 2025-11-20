@@ -1,0 +1,26 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 900,
+        "reason": "Nvidia earnings beat boosts tech sector; strong upward momentum"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Sustained upward trend; global tech optimism"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 800,
+        "reason": "Indices rebound after Nvidia results; positive near-term outlook"
+    },
+    {
+        "target": "Gold",
+        "action": "invest",
+        "amount": 600,
+        "reason": "Strong institutional demand; rising trend continues"
+    }
+]
