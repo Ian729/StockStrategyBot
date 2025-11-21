@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "volatile tech sector and reversal despite positive trend"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "strong upward trend after Nvidia rally"},
+    {"target": "S&P 500", "action": "hold", "reason": "uncertainty due to jobs report and interest rate concerns"},
+    {"target": "Gold", "action": "hold", "reason": "Fed rate doubts offset record gold production"}
+]
