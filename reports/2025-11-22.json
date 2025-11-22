@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 350, "reason": "uptrend and rate cut optimism"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "strong upward trend"},
+    {"target": "S&P 500", "action": "invest", "amount": 350, "reason": "rate cut hopes; uptrend despite volatility"},
+    {"target": "Gold", "action": "hold", "reason": "recent volatility; unsure if rally sustainable"}
+]
