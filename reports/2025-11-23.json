@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 400, "reason": "trend up, resilient after selloffs"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "trend up, strong momentum"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend up but volatile, AI bubble concerns"},
+    {"target": "Gold", "action": "invest", "amount": 300, "reason": "trend up, demand for defensive assets"}
+]
