@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "trend up and hopes for Fed rate cuts"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "strong upward momentum"},
+    {"target": "S&P 500", "action": "invest", "amount": 900, "reason": "3-day rally, rate cut optimism"},
+    {"target": "Gold", "action": "invest", "amount": 700, "reason": "near all-time high, miner strength"}
+]
