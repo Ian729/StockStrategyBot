@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Snapped monthly win streak despite trend up"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 900, "reason": "Strong, sustained uptrend"},
+    {"target": "S&P 500", "action": "invest", "amount": 800, "reason": "5-day win streak, trend positive"},
+    {"target": "Gold", "action": "invest", "amount": 700, "reason": "Uptrend; sector news positive"}
+]
