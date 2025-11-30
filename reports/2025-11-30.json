@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 500, "reason": "AI and tech optimism, trend up"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 400, "reason": "strong upward trend, positive outlook"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "analyst bullish forecasts for 2026"},
+    {"target": "Gold", "action": "hold", "reason": "price rally, but consumer demand weak"}
+]
