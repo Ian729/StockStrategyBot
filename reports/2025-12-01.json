@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 750, "reason": "strong upward trend, resilient tech outlook"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "trend up, positive sentiment for December"},
+    {"target": "S&P 500", "action": "invest", "amount": 800, "reason": "trend up, forecasts up to 7000 this week"},
+    {"target": "Gold", "action": "hold", "reason": "trend up but CME disruption and erratic trading cautions"}
+]
