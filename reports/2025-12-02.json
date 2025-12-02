@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend up but tech valuations under scrutiny"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 750, "reason": "strong upward trend and local policy shift"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend up with volatility, mixed expert outlook"},
+    {"target": "Gold", "action": "hold", "reason": "gold trend up but sensitive to Fed rate signals"}
+]

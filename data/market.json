@@ -7,24 +7,24 @@
     "trend": "up"
   },
   "Nasdaq": {
-    "date": "Oct 2025",
-    "value": 23008.67,
-    "prev_date": "Sep 2025",
-    "prev_value": 22166.45,
+    "date": "Nov 2025",
+    "value": 23034.2,
+    "prev_date": "Oct 2025",
+    "prev_value": 23008.67,
     "trend": "up"
   },
   "S&P 500": {
-    "date": "Oct 2025",
-    "value": 6738.0,
-    "prev_date": "Sep 2025",
-    "prev_value": 6579.66,
+    "date": "Nov 2025",
+    "value": 6741.73,
+    "prev_date": "Oct 2025",
+    "prev_value": 6738.0,
     "trend": "up"
   },
   "Gold": {
-    "date": "Oct 2025",
-    "value": 4055.78,
-    "prev_date": "Sep 2025",
-    "prev_value": 3661.64,
+    "date": "Nov 2025",
+    "value": 4083.78,
+    "prev_date": "Oct 2025",
+    "prev_value": 4055.78,
     "trend": "up"
   }
 }
