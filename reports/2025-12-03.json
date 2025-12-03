@@ -1,0 +1,26 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Tech rally continues; AI and bitcoin rebound support upside"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 600,
+        "reason": "Strong uptrend and favorable sentiment in Asian equities"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 750,
+        "reason": "Index near record highs; Fed rate cut optimism supports growth"
+    },
+    {
+        "target": "Gold",
+        "action": "invest",
+        "amount": 400,
+        "reason": "Uptrend continues; M&A activity and inflation risks may boost"
+    }
+]
