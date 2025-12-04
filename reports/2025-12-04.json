@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 400, "reason": "trend up, Fed rate cut likely, IPOs active"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "strong rally, Asian stocks benefit from Fed cut bets"},
+    {"target": "S&P 500", "action": "invest", "amount": 500, "reason": "positive momentum, rate cut optimism"},
+    {"target": "Gold", "action": "hold", "reason": "recent rally may be priced in; possible rotation to equities"}
+]
