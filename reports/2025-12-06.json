@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "Fourth day of gains, bullish trend, Fed cut hopes"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "Strong upward trend, futures positive"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "Win streak, nearing record highs, stable inflation"},
+    {"target": "Gold", "action": "hold", "reason": "Uptrend but less momentum than equities"}
+]
