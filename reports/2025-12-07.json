@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 500, "reason": "trend up; four days of gains, bullish tech outlook"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 400, "reason": "strong uptrend, positive outperformance"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "near all-time highs, positive market momentum"},
+    {"target": "Gold", "action": "hold", "reason": "uptrend but lacking a strong catalyst"}
+]
