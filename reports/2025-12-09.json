@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Mixed sentiment ahead of Fed rate decision"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "Strong upward trend in price"},
+    {"target": "S&P 500", "action": "hold", "reason": "Uncertainty before Fed rate cut decision"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "Gold edges higher; Fed decision focus"}
+]
