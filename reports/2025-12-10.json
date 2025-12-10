@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 600, "reason": "shows resilience and upward movement"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 400, "reason": "strong uptrend"},
+    {"target": "S&P 500", "action": "hold", "reason": "mixed signals ahead of Fed rate decision"},
+    {"target": "Gold", "action": "invest", "amount": 700, "reason": "rate cut expectations and rising trend"}
+]
