@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "AI sector uncertainty after Oracle tumble"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "strong uptrend and record highs"},
+    {"target": "S&P 500", "action": "invest", "amount": 500, "reason": "positive post-Fed rate cut rally"},
+    {"target": "Gold", "action": "invest", "amount": 800, "reason": "Fed rate cut supports further upside"}
+]
