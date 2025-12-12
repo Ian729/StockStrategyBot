@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Tech stocks dip on AI bubble fears despite overall uptrend"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 900, "reason": "Strong upward momentum and risk appetite in Asia"},
+    {"target": "S&P 500", "action": "invest", "amount": 750, "reason": "Record high close, broad-based rally"},
+    {"target": "Gold", "action": "invest", "amount": 600, "reason": "Steady uptrend supported by commodity interest"}
+]
