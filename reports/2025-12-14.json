@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "AI-led tech seeing rotation, mixed short-term sentiment"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 900, "reason": "Strong upward momentum, little sector rotation risk"},
+    {"target": "S&P 500", "action": "hold", "reason": "Broader market rotation, but high valuation caution"},
+    {"target": "Gold", "action": "invest", "amount": 500, "reason": "Upbeat sentiment continues, inflation and volatility hedge"}
+]
