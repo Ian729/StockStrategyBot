@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Tech fatigue, awaiting economic data despite uptrend"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "Strong uptrend and positive local developments"},
+    {"target": "S&P 500", "action": "hold", "reason": "Cautious optimism, but uncertainty before jobs/inflation data"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "Uptrend and new mining project expansion"}
+]
