@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "Tech rally after strong earnings and soft CPI"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "Strong upward trend and global market optimism"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "Market rebound after cooler inflation and fund manager optimism"},
+    {"target": "Gold", "action": "hold", "reason": "Uptrend but no strong catalyst for aggressive buy"}
+]
