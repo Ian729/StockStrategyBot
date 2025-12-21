@@ -1,0 +1,26 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 650,
+        "reason": "Tech rally, AI momentum, positive trend"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 800,
+        "reason": "Strong uptrend, economic confidence"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Record levels, broad rally, historical signals"
+    },
+    {
+        "target": "Gold",
+        "action": "invest",
+        "amount": 500,
+        "reason": "Record highs, safe haven demand"
+    }
+]
