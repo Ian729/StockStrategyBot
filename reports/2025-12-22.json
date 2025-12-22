@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "AI stocks bullish, market above 50-day line"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "Strong upward trend, futures rise"},
+    {"target": "S&P 500", "action": "invest", "amount": 500, "reason": "Santa Claus rally, bullish momentum"},
+    {"target": "Gold", "action": "invest", "amount": 900, "reason": "Analysts set higher targets, safe-haven demand"}
+]
