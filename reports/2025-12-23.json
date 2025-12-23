@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "tech stocks rebound, AI optimism, uptrend persists"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "uptrend, Japan rate hike, positive inflation data"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "Santa rally, AI leads, near record high, sustained gains"},
+    {"target": "Gold", "action": "invest", "amount": 500, "reason": "record highs, strong demand for gold assets"}
+]
