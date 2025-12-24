@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 600, "reason": "trend up; tech shares strong; 4th day of gains"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 400, "reason": "trend up; Asian stocks rise after US growth"},
+    {"target": "S&P 500", "action": "invest", "amount": 800, "reason": "trend up; record high on GDP beat"},
+    {"target": "Gold", "action": "invest", "amount": 900, "reason": "trend up; geopolitical tensions drive price"}
+]
