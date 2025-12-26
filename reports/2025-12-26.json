@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "Uptrend, positive news, biotech index additions"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "Strong uptrend, positive BOJ signals"},
+    {"target": "S&P 500", "action": "invest", "amount": 800, "reason": "Record highs, Santa Claus rally, growth optimism"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "Geopolitical risks, uptrend"}
+]
