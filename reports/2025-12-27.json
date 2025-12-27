@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "AI sector optimism and positive weekly gains"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "strong upward trend and futures rally"},
+    {"target": "S&P 500", "action": "hold", "reason": "record highs but cautious outlook for 2026"},
+    {"target": "Gold", "action": "hold", "reason": "trend is positive but analysts shifting toward silver"}
+]
