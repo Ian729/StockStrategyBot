@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 500, "reason": "Stocks at record highs, AI and tech in buy zones"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 300, "reason": "Strong uptrend, positive momentum in Japan"},
+    {"target": "S&P 500", "action": "hold", "reason": "Near record highs, mixed signals, holiday mode"},
+    {"target": "Gold", "action": "invest", "amount": 700, "reason": "Geopolitical tension, elevated prices"}
+]
