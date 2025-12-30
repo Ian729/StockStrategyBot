@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Trend up but tech stocks dropped; uncertainty persists"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "Strong uptrend, supported by futures"},
+    {"target": "S&P 500", "action": "hold", "reason": "Uptrend but Fed warnings and profit-taking caution"},
+    {"target": "Gold", "action": "sell", "reason": "Recent sharp price drop after stretched rally"}
+]
