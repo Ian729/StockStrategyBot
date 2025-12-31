@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 400, "reason": "trend up, positive AI news"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "holiday closure, uptrend"},
+    {"target": "S&P 500", "action": "hold", "reason": "minor uptrend but recent declines"},
+    {"target": "Gold", "action": "hold", "reason": "trend up but correction expected soon"}
+]
