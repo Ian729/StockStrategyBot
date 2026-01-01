@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "uptrend, strong AI sector growth"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "clear upward momentum in Japanese market"},
+    {"target": "S&P 500", "action": "hold", "reason": "euphoria signs, but trend remains positive"},
+    {"target": "Gold", "action": "invest", "amount": 500, "reason": "uptrend and gold booking best year since 1979"}
+]
