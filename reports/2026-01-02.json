@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "AI and tech optimism; trend remains positive"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "Strong uptrend, best-performing market noted"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "Wall Street bullish for 2026; momentum continues"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "Central banks buying; new highs expected"}
+]
