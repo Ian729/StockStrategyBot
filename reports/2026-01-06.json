@@ -1,0 +1,24 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 800,
+        "reason": "Uptrend; tech stocks and AI optimism drive gains"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "hold",
+        "reason": "Downward trend; no strong catalyst"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Momentum from bullish sentiment and record-high rally"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Price up but facing possible technical correction"
+    }
+]
