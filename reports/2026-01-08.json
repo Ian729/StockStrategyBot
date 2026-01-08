@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 600, "reason": "AI and tech strength; trend up"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "trend down; sentiment uncertain"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend up but volatility rising"},
+    {"target": "Gold", "action": "sell", "reason": "expected index sales and rebalancing pressure"}
+]
