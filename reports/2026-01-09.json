@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Tech sector weak despite overall upward trend; AI bubble concerns"},
+    {"target": "Nikkei 225", "action": "sell", "reason": "Downtrend continues; no positive catalysts"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "Broader market rotation; economic optimism"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "Steady uptrend; support from gold sector news"}
+]
