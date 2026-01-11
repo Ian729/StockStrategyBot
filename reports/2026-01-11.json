@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "uptrend and broad rally"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "minor downtrend, uncertain momentum"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "record highs and projected 12% rally"},
+    {"target": "Gold", "action": "invest", "amount": 500, "reason": "strong uptrend and commodity analyst bullish"}
+]
