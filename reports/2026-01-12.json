@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 600, "reason": "trend up despite negative news"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "minor decline; uncertainty from global news"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend up but risks from DOJ probe"},
+    {"target": "Gold", "action": "invest", "amount": 800, "reason": "strong upward trend; dollar weakness"}
+]
