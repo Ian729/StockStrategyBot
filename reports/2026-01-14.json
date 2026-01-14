@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "tech and AI stocks rising"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "trend down, election uncertainty"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "trend up despite bank weakness"},
+    {"target": "Gold", "action": "invest", "amount": 1000, "reason": "geopolitical risk, Fed uncertainty"}
+]
