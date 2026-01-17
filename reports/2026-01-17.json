@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "tech stocks driving upward momentum"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "downward trend and lack of clear positive catalyst"},
+    {"target": "S&P 500", "action": "hold", "reason": "mixed signals: recent record highs vs volatility alarm"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "uptrend continues amid geopolitical uncertainty"}
+]
