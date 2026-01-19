@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 650, "reason": "AI optimism and strong index trend"},
+    {"target": "Nikkei 225", "action": "sell", "reason": "trend down, Asian risk appetite weak"},
+    {"target": "S&P 500", "action": "hold", "reason": "rising trend but tariff risk, mixed signals"},
+    {"target": "Gold", "action": "invest", "amount": 1000, "reason": "safe haven demand on tariff threats"}
+]
