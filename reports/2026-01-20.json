@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 600, "reason": "trend up despite global tensions"},
+    {"target": "Nikkei 225", "action": "sell", "reason": "downtrend and Asia stock weakness"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend up but trade tensions"},
+    {"target": "Gold", "action": "invest", "amount": 800, "reason": "record high on tariff and geopolitical risk"}
+]
