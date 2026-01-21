@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Recent volatility despite upward trend"},
+    {"target": "Nikkei 225", "action": "sell", "reason": "Downward trend and trade war fears"},
+    {"target": "S&P 500", "action": "hold", "reason": "Uptrend but risk-off sentiment prevails"},
+    {"target": "Gold", "action": "invest", "amount": 900, "reason": "Record highs; safe-haven demand"}
+]
