@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "rallied on ending tariff threat, upward trend"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "mild downward trend despite global gains"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "up after tariff threat removed, positive sentiment"},
+    {"target": "Gold", "action": "hold", "reason": "trend up but news points to softness as stocks rally"}
+]
