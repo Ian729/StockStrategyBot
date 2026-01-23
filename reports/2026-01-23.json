@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "trend up and tech optimism post-Greenland drama"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "trend down despite tech sector strength in Asia"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "trend up supported by solid economic data and sentiment"},
+    {"target": "Gold", "action": "invest", "amount": 600, "reason": "trend up, rising geopolitical and alternative asset interest"}
+]
