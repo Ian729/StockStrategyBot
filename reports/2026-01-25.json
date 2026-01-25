@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "Uptrend amid resilient tech earnings and fading tariff worries"},
+    {"target": "Nikkei 225", "action": "sell", "reason": "Continued downward trend; global risks, no positive momentum"},
+    {"target": "S&P 500", "action": "invest", "amount": 400, "reason": "Uptrend resumes as tariff drama fades, strong earnings ahead"},
+    {"target": "Gold", "action": "invest", "amount": 600, "reason": "Uptrend with hedge funds adding, safe haven amid global tensions"}
+]
