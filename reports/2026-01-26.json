@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "tech sector up, positive earnings expected"},
+    {"target": "Nikkei 225", "action": "sell", "reason": "trend down, yen rebound hurting Japanese stocks"},
+    {"target": "S&P 500", "action": "hold", "reason": "big earnings week, uncertainty over shutdown"},
+    {"target": "Gold", "action": "invest", "amount": 1000, "reason": "record high, strong safe-haven demand"}
+]
