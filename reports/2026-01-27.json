@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "tech rally, positive earnings expectations"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "mild downtrend, currency uncertainty"},
+    {"target": "S&P 500", "action": "invest", "amount": 500, "reason": "uptrend, mega-cap earnings optimism"},
+    {"target": "Gold", "action": "invest", "amount": 1000, "reason": "record highs, safe-haven demand, dollar weakness"}
+]
