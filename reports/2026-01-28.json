@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "tech rally, bullish moves, record highs"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "trend slightly down; Asia opens uneven"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "record high, strong tech earnings expected"},
+    {"target": "Gold", "action": "invest", "amount": 900, "reason": "dollar plummet, gold hits new record"}
+]
