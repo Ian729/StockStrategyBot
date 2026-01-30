@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 600, "reason": "trend up, Apple/Nvidia strong, AI spending optimism"},
+    {"target": "Nikkei 225", "action": "sell", "reason": "trend down, Asian shares weak, tech decline"},
+    {"target": "S&P 500", "action": "invest", "amount": 300, "reason": "trend up, major gauges set to end week higher"},
+    {"target": "Gold", "action": "hold", "reason": "trend up but news mixed, high price worries"}
+]
