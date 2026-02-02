@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 600, "reason": "trend up despite risk-off"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "slight downtrend and neutral outlook"},
+    {"target": "S&P 500", "action": "invest", "amount": 500, "reason": "uptrend with tech earnings ahead"},
+    {"target": "Gold", "action": "sell", "reason": "recent plunge and margin increases"}
+]
