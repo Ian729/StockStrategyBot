@@ -7,17 +7,17 @@
     "trend": "down"
   },
   "Nasdaq": {
-    "date": "Dec 2025",
-    "value": 23379.84,
-    "prev_date": "Nov 2025",
-    "prev_value": 23034.2,
+    "date": "Jan 2026",
+    "value": 23523.94,
+    "prev_date": "Dec 2025",
+    "prev_value": 23379.84,
     "trend": "up"
   },
   "S&P 500": {
-    "date": "Dec 2025",
-    "value": 6853.81,
-    "prev_date": "Nov 2025",
-    "prev_value": 6741.73,
+    "date": "Jan 2026",
+    "value": 6927.27,
+    "prev_date": "Dec 2025",
+    "prev_value": 6853.81,
     "trend": "up"
   },
   "Gold": {

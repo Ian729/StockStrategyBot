@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "Strong tech earnings and AI merger news"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Short-term dip, but Asia equities stabilizing"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "Near record highs, resilient economy"},
+    {"target": "Gold", "action": "hold", "reason": "Rebound after selloff, volatility remains"}
+]
