@@ -1,10 +1,10 @@
 {
   "Nikkei 225": {
-    "date": "Dec 2025",
-    "value": 50177.41,
-    "prev_date": "Nov 2025",
-    "prev_value": 50179.91,
-    "trend": "down"
+    "date": "Jan 2026",
+    "value": 52974.2,
+    "prev_date": "Dec 2025",
+    "prev_value": 50177.41,
+    "trend": "up"
   },
   "Nasdaq": {
     "date": "Jan 2026",

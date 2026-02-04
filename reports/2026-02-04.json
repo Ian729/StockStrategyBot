@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Upward trend but tech volatility persists"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "Strong uptrend and Asian market outperformance"},
+    {"target": "S&P 500", "action": "hold", "reason": "Trend up but weakness in tech sector"},
+    {"target": "Gold", "action": "invest", "amount": 1000, "reason": "Rally extends amid geopolitical risk and dollar weakness"}
+]
