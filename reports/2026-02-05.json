@@ -1,0 +1,23 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "hold",
+        "reason": "Tech sector under pressure from AI concerns despite upward trend"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "hold",
+        "reason": "Asian tech sell-off offsets recent gains; caution warranted"
+    },
+    {
+        "target": "S&P 500",
+        "action": "hold",
+        "reason": "Mixed index movement; tech weakness vs industrial strength"
+    },
+    {
+        "target": "Gold",
+        "action": "invest",
+        "amount": 300,
+        "reason": "Geopolitical and economic tensions boost demand"
+    }
+]
