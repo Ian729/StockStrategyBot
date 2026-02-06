@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "tech selloff and volatility despite upward trend"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "upward trend but Asian stocks face US tech dip risk"},
+    {"target": "S&P 500", "action": "hold", "reason": "market rotation as tech rout outweighs strong earnings"},
+    {"target": "Gold", "action": "hold", "reason": "volatility persists despite short-term upward trend"}
+]
