@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "strong rebound after tech sell-off; trend up"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 800, "reason": "continues bullish momentum; trend up"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "indices hit all-time highs; positive momentum"},
+    {"target": "Gold", "action": "hold", "reason": "uptrend but no rush from wealthy investors; caution advised"}
+]
