@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Tech rout and AI fears offset upward trend"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "Strong upward trend and political stability"},
+    {"target": "S&P 500", "action": "hold", "reason": "Volatile split market and Hindenburg Omen warning"},
+    {"target": "Gold", "action": "invest", "amount": 900, "reason": "Upgraded gold outlook and strong miner performance"}
+]
