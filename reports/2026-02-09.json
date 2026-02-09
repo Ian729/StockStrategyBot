@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 250, "reason": "trend up, AI sector rebounding"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "trend up, market-friendly policies after election"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend positive, but systematic selling risk"},
+    {"target": "Gold", "action": "invest", "amount": 300, "reason": "trend up, safe-haven demand amid Iran tensions"}
+]
