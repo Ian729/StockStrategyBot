@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "strong tech rally, indices at highs"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 800, "reason": "fresh record after positive election news"},
+    {"target": "S&P 500", "action": "invest", "amount": 650, "reason": "tech sector bounce, positive market sentiment"},
+    {"target": "Gold", "action": "hold", "reason": "recent retreat, awaiting jobs and inflation data"}
+]
