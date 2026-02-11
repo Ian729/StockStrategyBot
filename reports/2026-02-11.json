@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Uptrend but AI, tech and financials face headwinds"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 800, "reason": "Strong uptrend, no negative news"},
+    {"target": "S&P 500", "action": "hold", "reason": "Uptrend but weighed by weak retail sales"},
+    {"target": "Gold", "action": "invest", "amount": 900, "reason": "Uptrend, Fed rate cut prospects, positive news"}
+]
