@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Uptrend but AI fears driving recent volatility"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Strong uptrend; global AI jitters caution"},
+    {"target": "S&P 500", "action": "hold", "reason": "Uptrend, but tech sell-off and volatility risk"},
+    {"target": "Gold", "action": "invest", "amount": 500, "reason": "Technical recovery expected, Fed rate cuts likely"}
+]
