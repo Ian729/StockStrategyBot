@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Tech sector volatility and AI disruption fears persist"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "Strong uptrend with less exposure to US tech volatility"},
+    {"target": "S&P 500", "action": "hold", "reason": "AI fears and recent index losses despite uptrend"},
+    {"target": "Gold", "action": "invest", "amount": 700, "reason": "Gold rebounding, interest rate cut expectations, hedge market risk"}
+]
