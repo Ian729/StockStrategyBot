@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 300, "reason": "uptrend despite tech sector volatility"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "strong production/economic tailwinds, uptrend"},
+    {"target": "S&P 500", "action": "hold", "reason": "divided market signals; uptrend but caution"},
+    {"target": "Gold", "action": "hold", "reason": "dollar strength and holiday-thinned trade cause price dip"}
+]
