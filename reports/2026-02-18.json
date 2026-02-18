@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 500, "reason": "trend up, Nvidia gains from Meta AI deal"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 300, "reason": "trend up, Asia stocks rise despite AI worries"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend up but AI fears, mixed news"},
+    {"target": "Gold", "action": "invest", "amount": 200, "reason": "trend up, forecasts of resumed ascent"}
+]
