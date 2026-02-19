@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "tech gains and positive economic reports"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "uptrend with tech lift in Asia"},
+    {"target": "S&P 500", "action": "hold", "reason": "rising but near resistance and Fed uncertainty"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "uptrend and positive mining news"}
+]
