@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "trend up and strong market rally after tariff ruling"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "upward trend and positive momentum"},
+    {"target": "S&P 500", "action": "invest", "amount": 800, "reason": "trend up; indexes gained after court ruling"},
+    {"target": "Gold", "action": "invest", "amount": 900, "reason": "trend up; strong gold mineralisation news"}
+]
