@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "trend up, tech sector positive, Druckenmiller buy"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "strong uptrend, stable outlook"},
+    {"target": "S&P 500", "action": "hold", "reason": "uptrend but volatility/correction concerns in news"},
+    {"target": "Gold", "action": "invest", "amount": 800, "reason": "uptrend and strong mining earnings"}
+]
