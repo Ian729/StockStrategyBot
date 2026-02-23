@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Tariff uncertainty and mixed signals, despite uptrend"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 800, "reason": "Strong upward momentum, Asia less impacted by tariffs"},
+    {"target": "S&P 500", "action": "hold", "reason": "Recent gains but increased volatility from tariff news"},
+    {"target": "Gold", "action": "invest", "amount": 1000, "reason": "Safe haven demand rising on renewed trade tensions"}
+]
