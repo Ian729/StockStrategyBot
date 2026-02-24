@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Uptrend but volatility due to AI and tariff fears"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 750, "reason": "Strong upward trend and tariff relief hopes in Asia"},
+    {"target": "S&P 500", "action": "hold", "reason": "Positive trend offset by AI and tariff-driven volatility"},
+    {"target": "Gold", "action": "invest", "amount": 500, "reason": "Trend up; ongoing tariff and geopolitical risk increases safe-haven demand"}
+]
