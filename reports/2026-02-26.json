@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 500, "reason": "AI optimism and tech rally"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "strong trend, continued upward momentum"},
+    {"target": "S&P 500", "action": "hold", "reason": "mixed macro signals, but positive tech support"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "safe-haven demand, geopolitical tensions"}
+]
