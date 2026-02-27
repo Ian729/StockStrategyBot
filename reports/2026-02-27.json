@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Recent AI volatility, Nvidia drag; trend still up"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 800, "reason": "Strong upward trend, less affected by global volatility"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "High growth stock upgrades, trend remains positive"},
+    {"target": "Gold", "action": "hold", "reason": "Steady prices, weekly gain but uncertainty around US-Iran talks"}
+]
