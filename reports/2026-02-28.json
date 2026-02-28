@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend up, but AI and inflation concerns increasing risk"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 800, "reason": "strong uptrend; Asia rallying amid US volatility"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend up, but US stocks face inflation and AI-related volatility"},
+    {"target": "Gold", "action": "invest", "amount": 1000, "reason": "sharp uptrend, inflation fears drive safe haven demand"}
+]
