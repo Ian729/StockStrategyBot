@@ -14,17 +14,17 @@
     "trend": "up"
   },
   "S&P 500": {
-    "date": "Jan 2026",
-    "value": 6927.27,
-    "prev_date": "Dec 2025",
-    "prev_value": 6853.81,
-    "trend": "up"
+    "date": "Feb 2026",
+    "value": 6891.97,
+    "prev_date": "Jan 2026",
+    "prev_value": 6927.27,
+    "trend": "down"
   },
   "Gold": {
-    "date": "Jan 2026",
-    "value": 4745.73,
-    "prev_date": "Dec 2025",
-    "prev_value": 4299.72,
+    "date": "Feb 2026",
+    "value": 5015.68,
+    "prev_date": "Jan 2026",
+    "prev_value": 4745.73,
     "trend": "up"
   }
 }
