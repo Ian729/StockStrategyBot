@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down, resilient but uncertain outlook"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "moderate uptrend and less impacted by oil"},
+    {"target": "S&P 500", "action": "sell", "reason": "downtrend, volatility and oil-driven fears"},
+    {"target": "Gold", "action": "invest", "amount": 900, "reason": "safe haven demand as oil surges and stocks drop"}
+]
