@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "sell", "reason": "trend down, negative news, oil surge impacts tech stocks"},
+    {"target": "Nikkei 225", "action": "sell", "reason": "trend up but large plunge reported, oil spike hits Asian equities"},
+    {"target": "S&P 500", "action": "sell", "reason": "trend down, equities volatile amid oil surge and war"},
+    {"target": "Gold", "action": "hold", "reason": "trend up but conflicting news, wait for clarity"}
+]
