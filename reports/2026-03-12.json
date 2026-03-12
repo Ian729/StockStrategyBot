@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "downtrend despite tech stock shelter amid Iran war"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "strong uptrend, oil shock less severe in Asia"},
+    {"target": "S&P 500", "action": "sell", "reason": "downtrend, oil-driven volatility and risk-off sentiment"},
+    {"target": "Gold", "action": "hold", "reason": "conflicting signals amid inflation and dip buying"}
+]
