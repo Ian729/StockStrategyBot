@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down; market volatility due to Iran crisis"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "oil price surge; Asia shares mostly lower"},
+    {"target": "S&P 500", "action": "sell", "reason": "continued sell-off and inflation fears"},
+    {"target": "Gold", "action": "invest", "amount": 700, "reason": "trend up; safe haven amid war and inflation"}
+]
