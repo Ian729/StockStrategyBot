@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down, war and oil volatility likely to persist"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "strong upward trend despite global volatility"},
+    {"target": "S&P 500", "action": "sell", "reason": "third week of losses, oil and Iran conflict dampen outlook"},
+    {"target": "Gold", "action": "invest", "amount": 800, "reason": "trend up, safe haven demand rising due to global uncertainty"}
+]
