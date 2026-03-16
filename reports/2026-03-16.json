@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "sell", "reason": "trend down, risky growth stocks, panic expected"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "strong upward trend, resilient Asia equities"},
+    {"target": "S&P 500", "action": "sell", "reason": "trend down, market volatility, selling to pick up"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "trend up, inflation hedge amid rising energy prices"}
+]
