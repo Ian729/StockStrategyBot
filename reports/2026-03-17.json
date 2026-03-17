@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down despite positive sector news"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "trend up, Asia stocks rebound"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend down, concentration risk flagged"},
+    {"target": "Gold", "action": "invest", "amount": 500, "reason": "trend up, technical recovery, new discovery"}
+]
