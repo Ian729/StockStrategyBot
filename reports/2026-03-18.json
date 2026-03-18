@@ -1,0 +1,24 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "hold",
+        "reason": "trend down despite selective gains; Fed uncertainty"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 600,
+        "reason": "strong uptrend; positive Asia equity news"
+    },
+    {
+        "target": "S&P 500",
+        "action": "hold",
+        "reason": "trend down; mixed market signals; Fed in focus"
+    },
+    {
+        "target": "Gold",
+        "action": "invest",
+        "amount": 700,
+        "reason": "uptrend and strong gold mining news"
+    }
+]
