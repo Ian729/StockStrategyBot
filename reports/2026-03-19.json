@@ -1,0 +1,24 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "hold",
+        "reason": "Downtrend and broad sell-off; tokenization news positive but not enough now"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 600,
+        "reason": "Trend up; Japanese market showing strength despite Asia war risks"
+    },
+    {
+        "target": "S&P 500",
+        "action": "sell",
+        "reason": "Fed pause, inflation fears, and strong downward trend"
+    },
+    {
+        "target": "Gold",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Uptrend; safe haven amid geopolitical and inflation risks"
+    }
+]
