@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "sell", "reason": "continued negative trend and weak tech sentiment"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "strong uptrend in Asian equities"},
+    {"target": "S&P 500", "action": "hold", "reason": "downtrend but possible stabilization amid volatility"},
+    {"target": "Gold", "action": "sell", "reason": "ongoing correction and worst week in six years"}
+]
