@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Correction risk high, mixed buy signals but negative trend"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Trend up but Asian selloff and uncertainty"},
+    {"target": "S&P 500", "action": "hold", "reason": "Downtrend continues, war fears and inflation risk"},
+    {"target": "Gold", "action": "hold", "reason": "Recent steep drop despite turmoil, volatility remains high"}
+]
