@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "recent relief rally but overall trend down"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "trend up and Asian equity rebound"},
+    {"target": "S&P 500", "action": "hold", "reason": "recent rebound, but general trend down and caution urged"},
+    {"target": "Gold", "action": "hold", "reason": "price trending up, but gold miner news signals uncertainty"}
+]
