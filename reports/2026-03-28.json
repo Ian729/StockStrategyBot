@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "market correction, Iran war risk, temporary repricing"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "strong upward momentum despite global volatility"},
+    {"target": "S&P 500", "action": "hold", "reason": "correction, ongoing war; possibly bottoming soon"},
+    {"target": "Gold", "action": "invest", "amount": 900, "reason": "trend up, safe haven in market uncertainty"}
+]
