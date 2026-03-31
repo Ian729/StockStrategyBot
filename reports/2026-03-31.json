@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "tech in correction, volatility high"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 400, "reason": "uptrend, global stocks outperform US"},
+    {"target": "S&P 500", "action": "sell", "reason": "trend down, ominous research warnings"},
+    {"target": "Gold", "action": "invest", "amount": 600, "reason": "uptrend, Fed dovish comments, Iran war uncertainty"}
+]
