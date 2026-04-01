@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "recent rebound but underlying trend still down"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "strong uptrend, Asian equities surge on optimism"},
+    {"target": "S&P 500", "action": "hold", "reason": "volatility persists, mixed outlook despite news-driven rally"},
+    {"target": "Gold", "action": "invest", "amount": 300, "reason": "uptrend, attractive amid volatility and war risk"}
+]
