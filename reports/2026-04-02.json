@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend is down, mixed news, uncertainty prevails"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "trend up but recent news shows volatility"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend is down amid war-related uncertainty"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "trend up, heightened interest, hedging war risks"}
+]
