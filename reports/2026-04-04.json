@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down, mixed news, recent volatility"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "trend down, global uncertainty"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend down, mixed economic signals"},
+    {"target": "Gold", "action": "invest", "amount": 300, "reason": "safe haven in volatility, potential for AI crash boost"}
+]
