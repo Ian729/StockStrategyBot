@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down; market volatility from Iran war"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "trend down; regional stability concerns"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend down; volatility and uncertainty"},
+    {"target": "Gold", "action": "hold", "reason": "trend down after worst month; long-term target positive"}
+]
