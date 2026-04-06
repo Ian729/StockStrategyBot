@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Trend down; mixed tech news; market uncertainty"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Trend down; Asia shares mixed; oil price risk"},
+    {"target": "S&P 500", "action": "hold", "reason": "Trend down; waiting for 'inflection point'; high volatility"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "UBS bullish forecast despite recent weakness"}
+]
