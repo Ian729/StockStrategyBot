@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Recent gains but overall trend down and high volatility"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Trend down and mixed Asian sentiment due to Iran crisis"},
+    {"target": "S&P 500", "action": "invest", "amount": 300, "reason": "US stock resilience and dip historically offers buying opportunity"},
+    {"target": "Gold", "action": "hold", "reason": "Trend down despite positive consumer/investment sentiment"}
+]
