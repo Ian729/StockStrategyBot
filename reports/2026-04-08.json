@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Recent ceasefire news positive but trend remains down"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "Asian stocks rally on ceasefire; oil drop benefits Japan"},
+    {"target": "S&P 500", "action": "hold", "reason": "Volatility and downtrend despite positive futures"},
+    {"target": "Gold", "action": "hold", "reason": "Gold up on risk, but underlying trend and news are mixed"}
+]
