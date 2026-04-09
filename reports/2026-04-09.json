@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Short rally on ceasefire, but trend still down and ceasefire is fragile"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Trend and sentiment negative; no positive catalysts"},
+    {"target": "S&P 500", "action": "hold", "reason": "Short-term relief rally but underlying trend and risk remain negative"},
+    {"target": "Gold", "action": "hold", "reason": "Gold down despite risk-off news; production updates not enough to buy"}
+]
