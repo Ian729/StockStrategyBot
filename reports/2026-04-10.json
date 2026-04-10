@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down, mixed news, waiting for CPI data"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "trend down, geopolitical risks, uncertain outlook"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend down, inflation worries, recent rallies followed dips"},
+    {"target": "Gold", "action": "hold", "reason": "price falling after strong run, overbought risk"}
+]
