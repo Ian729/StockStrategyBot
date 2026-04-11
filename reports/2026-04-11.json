@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down, but tech shares showing isolated gains"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "trend down, no positive catalyst"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend down despite best week, market uncertainty persists"},
+    {"target": "Gold", "action": "hold", "reason": "trend down, inflation up but gold not benefitting"}
+]
