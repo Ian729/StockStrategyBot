@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Downtrend with mixed AI sentiment; possible rebound soon"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Sharp decline, no positive news"},
+    {"target": "S&P 500", "action": "hold", "reason": "Downtrend, retail investors selling"},
+    {"target": "Gold", "action": "invest", "amount": 300, "reason": "Positive institutional moves and long-term outlook"}
+]
