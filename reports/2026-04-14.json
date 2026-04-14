@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "recent gains but market trend down"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "trend down, no positive news"},
+    {"target": "S&P 500", "action": "hold", "reason": "erased war losses but trend down"},
+    {"target": "Gold", "action": "invest", "amount": 300, "reason": "oil price drop eases inflation, gold rebounding"}
+]
