@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Downtrend despite recent rally; uncertainty remains"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Asian shares up but Nikkei trend is negative"},
+    {"target": "S&P 500", "action": "hold", "reason": "Negative trend but upbeat news; caution advised"},
+    {"target": "Gold", "action": "hold", "reason": "Downtrend and technical correction amid firmer dollar"}
+]
