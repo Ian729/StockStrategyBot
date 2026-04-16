@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "recent record highs but current trend is down"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "mixed news; trend down despite recent highs"},
+    {"target": "S&P 500", "action": "hold", "reason": "index at record highs; trend turning down"},
+    {"target": "Gold", "action": "invest", "amount": 300, "reason": "strong recovery news and diversification appeal"}
+]
