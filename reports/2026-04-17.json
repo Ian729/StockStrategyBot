@@ -1,0 +1,22 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "hold",
+        "reason": "Despite recent downturn, historical advice is to stay invested"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "hold",
+        "reason": "Trend down, ongoing Asia war concerns; uncertainty remains high"
+    },
+    {
+        "target": "S&P 500",
+        "action": "hold",
+        "reason": "All-time highs post sharp selloff; economic risks linger"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Trend down, but portfolio diversification remains sound"
+    }
+]
