@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Mixed short-term weakness but positive sentiment on peace news"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Downtrend persists; no strong positive catalyst"},
+    {"target": "S&P 500", "action": "invest", "amount": 400, "reason": "Indices at record highs, resilient amid war headlines"},
+    {"target": "Gold", "action": "sell", "reason": "Gold trending down as geopolitical fears ease"}
+]
