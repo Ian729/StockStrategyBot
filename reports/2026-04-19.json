@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Trend down despite recent positive earnings news"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Sharp decline, no clear reversal signals"},
+    {"target": "S&P 500", "action": "invest", "amount": 300, "reason": "Bullish news and record highs despite recent trend down"},
+    {"target": "Gold", "action": "invest", "amount": 200, "reason": "Geopolitical tensions and recent price surge"}
+]
