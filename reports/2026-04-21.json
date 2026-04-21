@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down but AI optimism offsets risk"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "trend down, Asian shares mixed, Iran risk"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend down, volatility, Fed outlook worsened"},
+    {"target": "Gold", "action": "invest", "amount": 400, "reason": "geopolitical risk, oil spike, safe haven demand"}
+]
