@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Trend down but AI news and post-ceasefire optimism offset weakness"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Downtrend continues, no positive catalyst"},
+    {"target": "S&P 500", "action": "hold", "reason": "Trend down despite futures bounce, geopolitical risks remain"},
+    {"target": "Gold", "action": "hold", "reason": "Downtrend; gold miner news is mixed and no safe-haven flows yet"}
+]
