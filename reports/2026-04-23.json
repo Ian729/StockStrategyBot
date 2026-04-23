@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "short-term downtrend, but recent positive news"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "downward trend despite ceasefire news"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend down after recent records, volatility likely"},
+    {"target": "Gold", "action": "hold", "reason": "downtrend; mixed news on gold producers and price targets"}
+]
