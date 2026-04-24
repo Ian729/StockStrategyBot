@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Trend down; software stocks slump; volatility persists"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Trend down; Asia shares mixed; geopolitical uncertainty"},
+    {"target": "S&P 500", "action": "hold", "reason": "Trend down; mixed news; volatility and global concerns"},
+    {"target": "Gold", "action": "hold", "reason": "Trend down; gold exploration news offsets decline"}
+]
