@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Record highs but short-term trend down; caution advised"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Recent drop, global warning signals; wait for stability"},
+    {"target": "S&P 500", "action": "hold", "reason": "Record highs, but trend down and warnings of fall"},
+    {"target": "Gold", "action": "hold", "reason": "Trend down despite conflict-related demand signals"}
+]
