@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Recent record highs but downtrend and crash warnings"},
+    {"target": "Nikkei 225", "action": "sell", "reason": "Sharp downtrend and negative market signals"},
+    {"target": "S&P 500", "action": "hold", "reason": "Recent highs offset by warnings of coming downturn"},
+    {"target": "Gold", "action": "hold", "reason": "Short-term down, long-term catalysts still present"}
+]
