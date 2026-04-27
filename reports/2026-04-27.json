@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Short-term downtrend despite positive AI news"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Recent record high but now trending down"},
+    {"target": "S&P 500", "action": "hold", "reason": "Downtrend and overbought signals per Buffett indicator"},
+    {"target": "Gold", "action": "hold", "reason": "Price down, mixed news and safe-haven demand uncertain"}
+]
