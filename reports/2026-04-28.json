@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down despite record highs, earnings unclear"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "downtrend and subdued sentiment in Asia"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend down, near record highs, risk of pullback"},
+    {"target": "Gold", "action": "hold", "reason": "recent weakness but steadying amid geopolitical uncertainty"}
+]
