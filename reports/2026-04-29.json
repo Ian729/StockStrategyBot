@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "sell", "reason": "trend down and tech stocks falter on OpenAI news"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "trend down but emerging market chipmakers rally"},
+    {"target": "S&P 500", "action": "sell", "reason": "trend down, negative sentiment from earnings and Fed uncertainty"},
+    {"target": "Gold", "action": "hold", "reason": "trend down but strong gold drilling results offset weakness"}
+]
