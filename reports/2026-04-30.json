@@ -1,0 +1,22 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "hold",
+        "reason": "Volatility from mixed Big Tech earnings and recent downtrend"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "sell",
+        "reason": "Prolonged downward trend and weak Asian market sentiment"
+    },
+    {
+        "target": "S&P 500",
+        "action": "hold",
+        "reason": "Market taking a breather after strong run; mixed earnings impact"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Gold sector news stable but price trending down"
+    }
+]
