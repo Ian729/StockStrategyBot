@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Trend down despite best month since 2020"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Recent gains but current trend down"},
+    {"target": "S&P 500", "action": "hold", "reason": "Trend down after strong monthly gains"},
+    {"target": "Gold", "action": "hold", "reason": "Mixed performance, trend still down"}
+]
