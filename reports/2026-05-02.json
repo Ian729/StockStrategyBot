@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Trend down but recent news is positive; wait for confirmation"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Trend sharply down; no positive catalysts"},
+    {"target": "S&P 500", "action": "hold", "reason": "Trend down despite record highs; conflicting signals"},
+    {"target": "Gold", "action": "invest", "amount": 200, "reason": "Oil conflict, Iran war, and mixed gold news support safe haven"}
+]
