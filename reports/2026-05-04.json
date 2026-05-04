@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "tech rally, AI sector momentum, record highs"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "trend up, tracks Wall St tech rally"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "new highs, strong corporate earnings"},
+    {"target": "Gold", "action": "hold", "reason": "trend down, lack of crisis demand"}
+]
