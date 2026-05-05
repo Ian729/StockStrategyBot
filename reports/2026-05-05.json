@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Uptrend but heightened geopolitical risk"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Strong rally, but Asia stocks fall on Iran tensions"},
+    {"target": "S&P 500", "action": "hold", "reason": "Positive earnings, but macro risk from Iran conflict"},
+    {"target": "Gold", "action": "hold", "reason": "Downtrend despite crisis; wait for direction"}
+]
