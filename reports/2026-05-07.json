@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 750, "reason": "AI rally and record highs on positive tech sentiment"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 800, "reason": "Japanese stocks at all-time highs after strong rally"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "US indices hitting records on Iran peace hopes"},
+    {"target": "Gold", "action": "hold", "reason": "price trending down despite some positive mining earnings"}
+]
