@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "tech shares drive record highs; strong momentum"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "trend up and Asia infrastructure boost"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "record highs, bullish analyst upgrades"},
+    {"target": "Gold", "action": "hold", "reason": "trend down despite some positive miner earnings"}
+]
