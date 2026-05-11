@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 600, "reason": "blistering chip rally, record highs"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "trend up, digital infra investment"},
+    {"target": "S&P 500", "action": "hold", "reason": "record highs but bubble risk warnings"},
+    {"target": "Gold", "action": "hold", "reason": "trend down despite strong mining news"}
+]
