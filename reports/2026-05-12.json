@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "record highs but warnings of bubble risk"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "trend up, but AI rally cooling and Iran tensions"},
+    {"target": "S&P 500", "action": "hold", "reason": "new highs, but Michael Burry warns of reversal"},
+    {"target": "Gold", "action": "invest", "amount": 350, "reason": "downtrend but Iran war and volatility ahead"}
+]
