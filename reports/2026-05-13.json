@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Uptrend but warnings of tech bubble and inflation risk"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "Strong uptrend, Asian risk but momentum"},
+    {"target": "S&P 500", "action": "hold", "reason": "Uptrend offset by bubble warnings and hot CPI data"},
+    {"target": "Gold", "action": "hold", "reason": "Downtrend despite strong mining stock news"}
+]
