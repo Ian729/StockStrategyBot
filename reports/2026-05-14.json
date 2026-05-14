@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "AI rally and chip strength lift markets to new highs"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "Uptrend and optimism from US-China summit"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "Record highs driven by tech and strong Q1 earnings"},
+    {"target": "Gold", "action": "hold", "reason": "Trend down; precious metals may rebound if geopolitical risks rise"}
+]
