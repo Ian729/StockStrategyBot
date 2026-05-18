@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 750, "reason": "trend up; AI and tech stocks strong"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "trend up; Asian stocks undervalued"},
+    {"target": "S&P 500", "action": "invest", "amount": 650, "reason": "trend up; US industrials and tech outperform"},
+    {"target": "Gold", "action": "hold", "reason": "trend down; market uncertainty favors holding"}
+]
