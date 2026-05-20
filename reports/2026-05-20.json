@@ -1,0 +1,23 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "hold",
+        "reason": "Uptrend but recent tech sell-off and high yields create uncertainty"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "hold",
+        "reason": "Recent uptrend but Asian markets dropping on inflation fears"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Historical optimism after 7-week streak despite short-term volatility"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Trend down; recent pullback and uncertainty in short-term momentum"
+    }
+]
