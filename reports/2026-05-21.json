@@ -1,0 +1,25 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Tech sector strength, positive earnings, market trend up"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 600,
+        "reason": "Strong upward trend and global growth optimism"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 500,
+        "reason": "Uptrend continues, market leaders' positive outlook"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Trend down; risk off sentiment not strong"
+    }
+]
