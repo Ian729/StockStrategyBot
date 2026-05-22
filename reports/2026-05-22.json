@@ -1,0 +1,25 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 800,
+        "reason": "Uptrend with strong bullish sentiment and tech optimism"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 600,
+        "reason": "Uptrend continues despite profit growth concerns"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Broad uptrend, record highs, positive macro news"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Downtrend and weakening momentum despite long-term potential"
+    }
+]
