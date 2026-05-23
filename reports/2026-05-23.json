@@ -1,0 +1,25 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 800,
+        "reason": "Uptrend and bullish sentiment on AI, tech leadership"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 600,
+        "reason": "Strong uptrend, positive momentum, new record highs"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Longest winning streak since 2023, market at record highs"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Trend down, recent profit-taking, but sector still in focus"
+    }
+]
