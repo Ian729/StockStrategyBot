@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 650, "reason": "AI-driven rally and positive momentum"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "Strong uptrend, AI and retail investor boom"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "Continued winning streak and positive earnings"},
+    {"target": "Gold", "action": "hold", "reason": "Downtrend; war risks offset by falling price"}
+]
