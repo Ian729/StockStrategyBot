@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "AI sector optimism, strong uptrend"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 400, "reason": "Uptrend despite some profit warnings"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "Uptrend and positive earnings momentum"},
+    {"target": "Gold", "action": "hold", "reason": "Downtrend despite mixed news"}
+]
