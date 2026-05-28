@@ -1,0 +1,25 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 700,
+        "reason": "AI-driven tech rally and positive earnings driving record highs"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 400,
+        "reason": "Uptrend with global tech momentum; broad market optimism"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 800,
+        "reason": "Goldman Sachs raised target; strong trend; earnings strength"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Downtrend despite gold company optimism; wait for stabilization"
+    }
+]
