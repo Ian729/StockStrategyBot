@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "AI-fueled rally, positive tech news"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "Uptrend and strong industrial profits in Asia"},
+    {"target": "S&P 500", "action": "hold", "reason": "Fresh highs but bubble risks and warnings"},
+    {"target": "Gold", "action": "hold", "reason": "Downtrend, but technical support and geopolitical risk"}
+]
