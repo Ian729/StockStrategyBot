@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "trend up; tech rally, upbeat sentiment"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "trend up; record highs, optimistic Asian outlook"},
+    {"target": "S&P 500", "action": "invest", "amount": 500, "reason": "trend up; corporate resilience"},
+    {"target": "Gold", "action": "hold", "reason": "trend down despite positive gold project news"}
+]
