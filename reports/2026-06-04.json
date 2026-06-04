@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Recent tech weakness, but strong uptrend"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 300, "reason": "Uptrend and chipmaker strength"},
+    {"target": "S&P 500", "action": "hold", "reason": "Valuation risk, uptrend, but market volatility"},
+    {"target": "Gold", "action": "hold", "reason": "Trend down, but global tensions increase hedge appeal"}
+]
