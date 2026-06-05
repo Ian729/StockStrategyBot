@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Strong uptrend but tech/A.I. concerns"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Trend up, but Asian shares drop"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "Financial sector rally, uptrend"},
+    {"target": "Gold", "action": "hold", "reason": "Trend down despite positive project news"}
+]
