@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "recent sharp decline, tech risk, but trend still up"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "strong upward trend, no negative news"},
+    {"target": "S&P 500", "action": "hold", "reason": "AI volatility, mixed outlook, trend up but rate hike fears"},
+    {"target": "Gold", "action": "invest", "amount": 250, "reason": "bear market, bargain opportunity"}
+]
