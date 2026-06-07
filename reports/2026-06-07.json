@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Recent sharp drop, mixed trends despite prior gains"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 400, "reason": "Trend up, no negative news"},
+    {"target": "S&P 500", "action": "hold", "reason": "Uptrend but news suggests risk and volatility"},
+    {"target": "Gold", "action": "invest", "amount": 350, "reason": "China central bank keeps buying, value dip is a buying opportunity"}
+]
