@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Volatility after tech rout and SpaceX IPO risk"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Japan stocks fall amid Mideast tensions"},
+    {"target": "S&P 500", "action": "hold", "reason": "Mixed futures, global instability, Fed uncertainty"},
+    {"target": "Gold", "action": "invest", "amount": 250, "reason": "Safe haven amid geopolitical risks despite trend down"}
+]
