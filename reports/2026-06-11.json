@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Tech stocks under pressure despite trend up"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 300, "reason": "Strong upward trend in Japanese equities"},
+    {"target": "S&P 500", "action": "invest", "amount": 300, "reason": "Record highs and positive institutional activity"},
+    {"target": "Gold", "action": "sell", "reason": "Bearish outlook and downward price trend"}
+]
