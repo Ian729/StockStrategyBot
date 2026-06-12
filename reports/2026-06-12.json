@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 1000, "reason": "trend up, SpaceX IPO drives optimism"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 800, "reason": "trend up, Asian stocks buoyed by SpaceX IPO"},
+    {"target": "S&P 500", "action": "invest", "amount": 1000, "reason": "trend up, US-Iran peace boosts rally"},
+    {"target": "Gold", "action": "sell", "reason": "trend down, weak price despite inflation fears"}
+]
