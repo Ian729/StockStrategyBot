@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 750, "reason": "SpaceX debut boosts tech sentiment; strong uptrend"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Uptrend but insufficient global catalyst"},
+    {"target": "S&P 500", "action": "invest", "amount": 500, "reason": "Market confidence boosted by euphoria and IPO wave"},
+    {"target": "Gold", "action": "sell", "reason": "Gold hitting 6-month low; trend down despite inflation fears"}
+]
