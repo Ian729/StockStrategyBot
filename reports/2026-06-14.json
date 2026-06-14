@@ -1,0 +1,25 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 800,
+        "reason": "Uptrend, SpaceX IPO success, positive sentiment"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 600,
+        "reason": "Consistent upward trend, positive performance momentum"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Uptrend, strong week fueled by major market events"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Trend down; gold sector volatility despite some positive news"
+    }
+]
