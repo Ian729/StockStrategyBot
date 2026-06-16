@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "IPO momentum; trend up; strong tech gains"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "Rate hike tempers rally; trend up but volatility"},
+    {"target": "S&P 500", "action": "invest", "amount": 900, "reason": "US-Iran deal boosts stocks; bullish analyst outlook"},
+    {"target": "Gold", "action": "sell", "reason": "Downtrend, bearish news, rate hike and peace deal pressure"}
+]
