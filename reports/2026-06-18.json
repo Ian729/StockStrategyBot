@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Uptrend, but Fed rate hike signals caution"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 350, "reason": "Strong uptrend, less exposed to Fed risks"},
+    {"target": "S&P 500", "action": "hold", "reason": "Upward momentum, but risk/reward ratio declining"},
+    {"target": "Gold", "action": "hold", "reason": "Trend down; no strong positive catalysts"}
+]
