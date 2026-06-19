@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "market rally, tech sector optimism"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "trend up, Asia market momentum"},
+    {"target": "S&P 500", "action": "invest", "amount": 800, "reason": "strong gains, confidence from new inclusions"},
+    {"target": "Gold", "action": "sell", "reason": "downtrend and lower price target from Goldman Sachs"}
+]
