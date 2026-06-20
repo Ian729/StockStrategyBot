@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "trend up, chip/AI rebound, positive sentiment"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 500, "reason": "strong upward trend, no negative news"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "index rises, positive news, stable outlook"},
+    {"target": "Gold", "action": "sell", "reason": "trend down, hawkish Fed, weak outlook"}
+]
