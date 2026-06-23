@@ -1,0 +1,23 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "hold",
+        "reason": "Sharp tech selloff; momentum fading despite recent uptrend"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 350,
+        "reason": "Trend up, resilient Asian indices despite regional caution"
+    },
+    {
+        "target": "S&P 500",
+        "action": "hold",
+        "reason": "Rally overextended; JPMorgan, Fed warn of valuations, AI rotation"
+    },
+    {
+        "target": "Gold",
+        "action": "sell",
+        "reason": "Downtrend persists, outflows, Bitcoin competition rising"
+    }
+]
