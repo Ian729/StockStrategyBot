@@ -1,0 +1,22 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "sell",
+        "reason": "Tech-led sell-off, broke key support, AI doubts"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "hold",
+        "reason": "Uptrend, but global volatility from tech sell-off"
+    },
+    {
+        "target": "S&P 500",
+        "action": "hold",
+        "reason": "Mixed signals: uptrend but tech/AI sell-off and AI spending concerns"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Gold selling to cover equity losses; wait for stabilization"
+    }
+]
