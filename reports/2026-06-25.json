@@ -1,0 +1,25 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Tech rebound and positive earnings from major AI chipmakers"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 600,
+        "reason": "Strong tech-driven gains and uptrend in Asian equities"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 650,
+        "reason": "Upbeat corporate earnings and index uptrend"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Continued downtrend despite positive reserve news"
+    }
+]
