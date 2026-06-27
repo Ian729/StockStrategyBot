@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "AI and tech volatility, trend up but news negative"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "trend up despite tech sector slump"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend up, but tech sector rotation and bubble concerns"},
+    {"target": "Gold", "action": "hold", "reason": "trend down, unclear direction"}
+]
