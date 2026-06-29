@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 800, "reason": "trend up, tech momentum, SpaceX inclusion"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "trend up, positive Asia outlook"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "trend up, US-Iran de-escalation, high buy ratings"},
+    {"target": "Gold", "action": "hold", "reason": "trend down, awaiting producer buyback effects"}
+]
