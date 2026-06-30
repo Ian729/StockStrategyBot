@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 400, "reason": "tech rebound, positive trend"},
+    {"target": "Nikkei 225", "action": "hold", "reason": "uptrend but reform doubts"},
+    {"target": "S&P 500", "action": "invest", "amount": 300, "reason": "market optimism, strong trend"},
+    {"target": "Gold", "action": "hold", "reason": "trend down, uncertain rebound"}
+]
