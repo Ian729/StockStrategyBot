@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "trend up and strong AI sector momentum"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "trend up and Japan stocks rallying after stellar quarter"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "trend up and best quarter since 2020"},
+    {"target": "Gold", "action": "hold", "reason": "trend down, wait for reversal"}
+]
