@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "invest", "amount": 700, "reason": "trend up, strong tech news, SpaceX inclusion"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "trend up, boosted by China trade/export news"},
+    {"target": "S&P 500", "action": "invest", "amount": 800, "reason": "trend up, best quarterly gain since 2020"},
+    {"target": "Gold", "action": "hold", "reason": "trend down, but strong copper-gold project news"}
+]
