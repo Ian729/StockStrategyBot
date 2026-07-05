@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "sell", "reason": "tech stocks decline, negative trend"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "strong upward momentum"},
+    {"target": "S&P 500", "action": "invest", "amount": 500, "reason": "positive trend, best quarter since 2020"},
+    {"target": "Gold", "action": "hold", "reason": "downtrend, mixed news in gold sector"}
+]
