@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down despite mixed news; wait for clarity"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "uptrend and positive economic momentum"},
+    {"target": "S&P 500", "action": "hold", "reason": "uptrend but warnings of 'snapback' and excessive speculation"},
+    {"target": "Gold", "action": "invest", "amount": 300, "reason": "long-term fundamentals positive despite near-term volatility"}
+]
