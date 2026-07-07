@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down, but AI optimism and chip rallies"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 800, "reason": "strong upward trend, risk-on flows"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "trend up, best quarter since 2020, chip rally"},
+    {"target": "Gold", "action": "hold", "reason": "trend down but Q4 rebound expected"}
+]
