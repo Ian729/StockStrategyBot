@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "sell", "reason": "AI chip selloff; trend down; bid price deficiency"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 800, "reason": "strong upward trend despite global volatility"},
+    {"target": "S&P 500", "action": "hold", "reason": "trend up but extreme speculation and uncertainty"},
+    {"target": "Gold", "action": "sell", "reason": "downtrend; year-to-date losses; production strong but price weak"}
+]
