@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "AI sector rallied but overall trend is down, volatility noted"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "Strong uptrend and chipmaker-led optimism"},
+    {"target": "S&P 500", "action": "invest", "amount": 400, "reason": "Uptrend continues, supported by chip stocks"},
+    {"target": "Gold", "action": "sell", "reason": "Downtrend and weaker performance vs other metals"}
+]
