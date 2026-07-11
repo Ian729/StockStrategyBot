@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "Trend down despite tech optimism; earnings risk ahead"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "Strong uptrend and positive global sentiment"},
+    {"target": "S&P 500", "action": "hold", "reason": "Trend up but elevated valuations and earnings uncertainty"},
+    {"target": "Gold", "action": "hold", "reason": "Recent downtrend despite positive exploration news"}
+]
