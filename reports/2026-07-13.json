@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down, mixed chip stock signals"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 300, "reason": "trend up; positive corporate earnings"},
+    {"target": "S&P 500", "action": "invest", "amount": 500, "reason": "trend up, positive Wall St sentiment"},
+    {"target": "Gold", "action": "hold", "reason": "trend down, increased exposure but volatile"}
+]
