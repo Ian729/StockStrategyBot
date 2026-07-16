@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down, chip selloff but overall news mixed"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 600, "reason": "strong uptrend despite Asia chip slump"},
+    {"target": "S&P 500", "action": "invest", "amount": 800, "reason": "uptrend, robust earnings and cooling inflation"},
+    {"target": "Gold", "action": "hold", "reason": "trend down, but gold miner news offsets"}
+]
