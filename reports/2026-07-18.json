@@ -1,0 +1,23 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "sell",
+        "reason": "Tech and AI stock selloff, downward trend persists"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 750,
+        "reason": "Strong uptrend, showing market resilience"
+    },
+    {
+        "target": "S&P 500",
+        "action": "hold",
+        "reason": "Index up but US market volatility is high"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Downtrend but contrarian investors see opportunity"
+    }
+]
