@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "sell", "reason": "chip sell-off, trend down"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 900, "reason": "strong upward trend"},
+    {"target": "S&P 500", "action": "invest", "amount": 700, "reason": "positive momentum, trend up"},
+    {"target": "Gold", "action": "hold", "reason": "trend down, uncertainty"}
+]
