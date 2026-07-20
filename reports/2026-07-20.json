@@ -1,0 +1,24 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "hold",
+        "reason": "Tech and chip stock volatility; trend slightly down; big earnings upcoming"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Strong upward trend and momentum in Japanese equities"
+    },
+    {
+        "target": "S&P 500",
+        "action": "invest",
+        "amount": 400,
+        "reason": "Upward trend and resilience despite global tensions"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Price weakening; rising rates and conflict offset by defense/AI demand"
+    }
+]
