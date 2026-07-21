@@ -1,0 +1,23 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "hold",
+        "reason": "Chip rally faded, trend down, uncertainty before tech earnings"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 900,
+        "reason": "Trend strongly up, less affected by global jitters"
+    },
+    {
+        "target": "S&P 500",
+        "action": "hold",
+        "reason": "Uptrend but big warnings from Dimon, mixed sentiment"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Trend down despite rising geopolitical risk"
+    }
+]
