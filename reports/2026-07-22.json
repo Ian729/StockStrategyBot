@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down despite chip stock recovery; volatility expected"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 750, "reason": "strong upward trend, chipmaker rebound"},
+    {"target": "S&P 500", "action": "invest", "amount": 600, "reason": "trend up, broad rally led by AI and chip stocks"},
+    {"target": "Gold", "action": "hold", "reason": "trend down; positive gold project news but market weak"}
+]
