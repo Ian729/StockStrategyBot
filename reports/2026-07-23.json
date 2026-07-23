@@ -1,0 +1,6 @@
+[
+    {"target": "Nasdaq", "action": "hold", "reason": "trend down; tech volatility; awaiting earnings clarity"},
+    {"target": "Nikkei 225", "action": "invest", "amount": 700, "reason": "strong uptrend; Japan investment momentum"},
+    {"target": "S&P 500", "action": "invest", "amount": 400, "reason": "uptrend; robust Q2 earnings and AI-driven growth"},
+    {"target": "Gold", "action": "invest", "amount": 900, "reason": "bull run prediction; positive mining news"}
+]
