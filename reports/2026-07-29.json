@@ -1,0 +1,23 @@
+[
+    {
+        "target": "Nasdaq",
+        "action": "sell",
+        "reason": "Chip stocks slide, AI spending worries, and trend down"
+    },
+    {
+        "target": "Nikkei 225",
+        "action": "invest",
+        "amount": 700,
+        "reason": "Strong uptrend, Asian stocks eyeing gains, less chip exposure"
+    },
+    {
+        "target": "S&P 500",
+        "action": "hold",
+        "reason": "Uptrend but mixed signals from tech and earnings"
+    },
+    {
+        "target": "Gold",
+        "action": "hold",
+        "reason": "Downtrend despite positive news for gold industry"
+    }
+]
