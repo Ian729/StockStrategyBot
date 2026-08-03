@@ -7,24 +7,24 @@
     "trend": "up"
   },
   "Nasdaq": {
-    "date": "Jun 2026",
-    "value": 26097.29,
-    "prev_date": "May 2026",
-    "prev_value": 26107.93,
+    "date": "Jul 2026",
+    "value": 25631.21,
+    "prev_date": "Jun 2026",
+    "prev_value": 26097.29,
     "trend": "down"
   },
   "S&P 500": {
-    "date": "Jun 2026",
-    "value": 7454.3,
-    "prev_date": "May 2026",
-    "prev_value": 7405.86,
+    "date": "Jul 2026",
+    "value": 7480.83,
+    "prev_date": "Jun 2026",
+    "prev_value": 7454.3,
     "trend": "up"
   },
   "Gold": {
-    "date": "Jun 2026",
-    "value": 4241.76,
-    "prev_date": "May 2026",
-    "prev_value": 4585.29,
+    "date": "Jul 2026",
+    "value": 4069.51,
+    "prev_date": "Jun 2026",
+    "prev_value": 4241.76,
     "trend": "down"
   }
 }
