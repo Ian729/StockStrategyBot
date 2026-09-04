@@ -1,9 +1,9 @@
 {
   "Nikkei 225": {
-    "date": "Jul 2026",
-    "value": 66630.33,
-    "prev_date": "Jun 2026",
-    "prev_value": 68232.63,
+    "date": "Aug 2026",
+    "value": 66260.93,
+    "prev_date": "Jul 2026",
+    "prev_value": 66630.33,
     "trend": "down"
   },
   "Nasdaq": {
