@@ -1,0 +1,2 @@
+[Error] Github Models API call failed: 410
+{"error":{"code":"github_models_retirement_brownout","message":"GitHub Models is temporarily unavailable as part of a scheduled retirement brownout."}}
